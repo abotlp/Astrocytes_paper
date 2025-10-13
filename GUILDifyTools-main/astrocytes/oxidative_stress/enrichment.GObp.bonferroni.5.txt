@@ -1,0 +1,22 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034599	cellular response to oxidative stress	45	61	8.24121307367e-37	2.2267757725e-33
+GO:0006979	response to oxidative stress	37	53	5.191573701e-29	1.40276321401e-25
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	9	10	1.19515060282e-09	3.22929692882e-06
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	7	7	2.04563304052e-08	5.52730047549e-05
+GO:0070301	cellular response to hydrogen peroxide	14	32	4.74189119519e-08	0.000128125900094
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	7	8	1.52286898358e-07	0.000411479199365
+GO:0042307	positive regulation of protein import into nucleus	12	27	3.57098889966e-07	0.000964881200687
+GO:0045454	cell redox homeostasis	9	17	1.73427772958e-06	0.00468601842533
+GO:0043066	negative regulation of apoptotic process	44	263	1.90315997241e-06	0.00514233824544
+GO:0006413	translational initiation	11	26	2.02413329176e-06	0.00546920815434
+GO:0042149	cellular response to glucose starvation	13	37	2.90947777523e-06	0.00786140894868
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	14	43	3.42571102313e-06	0.00925627118451
+GO:0042744	hydrogen peroxide catabolic process	7	11	5.06450101952e-06	0.0136842817547
+GO:0006281	DNA repair	18	69	5.1768960347e-06	0.0139879730858
+GO:0007005	mitochondrion organization	16	57	6.17697360455e-06	0.0166901826795
+GO:0043065	positive regulation of apoptotic process	34	192	8.02785255687e-06	0.0216912576087
+GO:0050821	protein stabilization	31	168	8.49412744207e-06	0.0229511323485
+GO:0006284	base-excision repair	9	20	9.61328133236e-06	0.02597508616
+GO:0042752	regulation of circadian rhythm	15	54	1.38196916874e-05	0.0373408069393
+GO:0006915	apoptotic process	19	81	1.52166262307e-05	0.0411153240754
+GO:1990535	neuron projection maintenance	6	9	1.750934044e-05	0.0473102378689

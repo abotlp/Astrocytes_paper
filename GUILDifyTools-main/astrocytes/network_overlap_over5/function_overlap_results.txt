@@ -1,0 +1,14 @@
+Term ID	Term name
+R-HSA-379716	Cytosolic tRNA aminoacylation
+R-HSA-3371511	HSF1 activation
+R-HSA-9670439	Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants
+R-HSA-901042	Calnexin/calreticulin cycle
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response
+R-HSA-9753510	Signaling by RAS GAP mutants
+R-HSA-9753512	Signaling by RAS GTPase mutants
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways
+R-HSA-1169092	Activation of RAS in B cells
+R-HSA-2408522	Selenoamino acid metabolism

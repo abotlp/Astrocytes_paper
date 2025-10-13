@@ -1,0 +1,43 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045429	positive regulation of nitric oxide biosynthetic process	7	26	2.92007707546e-10	2.74487245093e-07
+GO:1902430	negative regulation of amyloid-beta formation	6	16	6.00367431607e-10	5.64345385711e-07
+GO:1990535	neuron projection maintenance	5	9	1.54560222887e-09	1.45286609513e-06
+GO:0010629	negative regulation of gene expression	11	162	1.00566486925e-08	9.45324977092e-06
+GO:0045821	positive regulation of glycolytic process	5	14	2.39189961948e-08	2.24838564231e-05
+GO:1904646	cellular response to amyloid-beta	6	32	6.23748855001e-08	5.86323923701e-05
+GO:0045840	positive regulation of mitotic nuclear division	5	20	1.79469206556e-07	0.000168701054163
+GO:0034205	amyloid-beta formation	4	9	2.40053999758e-07	0.000225650759773
+GO:1900221	regulation of amyloid-beta clearance	3	3	3.00481602019e-07	0.000282452705897
+GO:0043525	positive regulation of neuron apoptotic process	5	23	3.83401838147e-07	0.000360397727858
+GO:0007611	learning or memory	5	28	1.09071230526e-06	0.00102526956694
+GO:0014910	regulation of smooth muscle cell migration	3	4	1.19606207151e-06	0.00112429834722
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	4	13	1.33451205441e-06	0.00125444133115
+GO:0042987	amyloid precursor protein catabolic process	4	13	1.33451205441e-06	0.00125444133115
+GO:0045725	positive regulation of glycogen biosynthetic process	4	13	1.33451205441e-06	0.00125444133115
+GO:0010628	positive regulation of gene expression	11	271	1.86172691901e-06	0.00175002330387
+GO:0030335	positive regulation of cell migration	9	172	2.21893346215e-06	0.00208579745442
+GO:0097242	amyloid-beta clearance	4	15	2.52167996974e-06	0.00237037917156
+GO:1902004	positive regulation of amyloid-beta formation	4	15	2.52167996974e-06	0.00237037917156
+GO:0043243	positive regulation of protein-containing complex disassembly	3	5	2.97556950667e-06	0.00279703533627
+GO:0035094	response to nicotine	3	5	2.97556950667e-06	0.00279703533627
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	4	16	3.34502674265e-06	0.00314432513809
+GO:0050435	amyloid-beta metabolic process	3	6	5.92211721663e-06	0.00556679018363
+GO:0043171	peptide catabolic process	3	6	5.92211721663e-06	0.00556679018363
+GO:0043410	positive regulation of MAPK cascade	7	104	6.20410435396e-06	0.00583185809272
+GO:0008284	positive regulation of cell population proliferation	10	249	6.30031421113e-06	0.00592229535846
+GO:0031334	positive regulation of protein-containing complex assembly	5	42	8.77009013103e-06	0.00824388472316
+GO:0016485	protein processing	5	42	8.77009013103e-06	0.00824388472316
+GO:0006509	membrane protein ectodomain proteolysis	4	21	1.07213983218e-05	0.0100781144224
+GO:0050808	synapse organization	4	23	1.57007949647e-05	0.0147587472668
+GO:0042982	amyloid precursor protein metabolic process	3	8	1.64206535455e-05	0.0154354143328
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	7	121	1.68323385875e-05	0.0158223982722
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	5	48	1.71048956026e-05	0.0160786018665
+GO:0007613	memory	4	28	3.53856329116e-05	0.0332624949369
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	2	2	4.55141250114e-05	0.0427832775107
+GO:1902998	positive regulation of neurofibrillary tangle assembly	2	2	4.55141250114e-05	0.0427832775107
+GO:1903597	negative regulation of gap junction assembly	2	2	4.55141250114e-05	0.0427832775107
+GO:1905906	regulation of amyloid fibril formation	2	2	4.55141250114e-05	0.0427832775107
+GO:0008286	insulin receptor signaling pathway	4	30	4.68795099553e-05	0.044066739358
+GO:2001234	negative regulation of apoptotic signaling pathway	3	11	4.76785984972e-05	0.0448178825874
+GO:0046628	positive regulation of insulin receptor signaling pathway	3	11	4.76785984972e-05	0.0448178825874
+GO:0001774	microglial cell activation	3	11	4.76785984972e-05	0.0448178825874

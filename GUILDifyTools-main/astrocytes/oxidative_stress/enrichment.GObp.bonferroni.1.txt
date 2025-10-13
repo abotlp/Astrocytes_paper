@@ -1,0 +1,33 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034599	cellular response to oxidative stress	30	61	7.41494544333e-39	8.79412529579e-36
+GO:0006979	response to oxidative stress	26	53	1.10141772776e-33	1.30628142512e-30
+GO:0070301	cellular response to hydrogen peroxide	12	32	2.61011412597e-14	3.0955953534e-11
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	8	10	1.37804817574e-13	1.63436513643e-10
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	7	8	1.64931881294e-12	1.95609211215e-09
+GO:0006281	DNA repair	11	69	8.59180136086e-09	1.0189876414e-05
+GO:0051881	regulation of mitochondrial membrane potential	7	19	8.97919954435e-09	1.06493306596e-05
+GO:0006284	base-excision repair	7	20	1.36324487078e-08	1.61680841675e-05
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	5	7	1.85115546045e-08	2.1954703761e-05
+GO:0043066	negative regulation of apoptotic process	18	263	1.52776144093e-07	0.000181192506894
+GO:0018105	peptidyl-serine phosphorylation	10	75	2.41033361523e-07	0.000285865566767
+GO:0006974	DNA damage response	16	234	7.91387688173e-07	0.000938585798173
+GO:0045821	positive regulation of glycolytic process	5	14	1.61387338149e-06	0.00191405383045
+GO:0007005	mitochondrion organization	8	57	2.70096945724e-06	0.00320334977629
+GO:0035556	intracellular signal transduction	11	120	2.74321639804e-06	0.00325345464808
+GO:0071447	cellular response to hydroperoxide	3	3	3.81788388451e-06	0.00452801028702
+GO:0006283	transcription-coupled nucleotide-excision repair	4	8	3.92719578015e-06	0.00465765419526
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	7	43	4.18120324241e-06	0.0049589070455
+GO:0010508	positive regulation of autophagy	8	62	5.17043783179e-06	0.0061321392685
+GO:2000378	negative regulation of reactive oxygen species metabolic process	4	9	6.98233899478e-06	0.00828105404781
+GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	6	31	7.32770705463e-06	0.0086906605668
+GO:0043065	positive regulation of apoptotic process	13	192	9.97594135331e-06	0.011831466445
+GO:0032079	positive regulation of endodeoxyribonuclease activity	3	4	1.50947095728e-05	0.0179023255534
+GO:0030091	protein repair	3	4	1.50947095728e-05	0.0179023255534
+GO:0042744	hydrogen peroxide catabolic process	4	11	1.78419886097e-05	0.0211605984912
+GO:0019430	removal of superoxide radicals	4	11	1.78419886097e-05	0.0211605984912
+GO:0043536	positive regulation of blood vessel endothelial cell migration	6	37	2.14009369372e-05	0.0253815112075
+GO:0006468	protein phosphorylation	13	208	2.34875698319e-05	0.0278562578206
+GO:0032007	negative regulation of TOR signaling	5	23	2.41872679298e-05	0.0286860997648
+GO:0031396	regulation of protein ubiquitination	4	12	2.64355039709e-05	0.0313525077095
+GO:0036499	PERK-mediated unfolded protein response	3	5	3.73001350254e-05	0.0442379601401
+GO:0006915	apoptotic process	8	81	3.81984150666e-05	0.045303320269

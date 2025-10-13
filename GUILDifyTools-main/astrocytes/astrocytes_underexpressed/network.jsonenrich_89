@@ -1,0 +1,1754 @@
+[
+{
+ data: { id: "DB11760", size: 21.579041, xref: "DB11760", label: "Talazoparib", score: 0.215790, rank: "96-100", type: "drug" } 
+}, {
+ data: { id: "DB04868", size: 49.644457, xref: "DB04868", label: "Nilotinib", score: 0.496445, rank: "11-14", type: "drug" } 
+}, {
+ data: { id: "DB01406", size: 28.429347, xref: "DB01406", label: "Danazol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00451", size: 51.597824, xref: "DB00451", label: "Levothyroxine", score: 0.515978, rank: "2", type: "drug" } 
+}, {
+ data: { id: "DB09095", size: 28.429347, xref: "DB09095", label: "Difluocortolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB04573", size: 28.429347, xref: "DB04573", label: "Estriol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00977", size: 28.429347, xref: "DB00977", label: "Ethinylestradiol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00795", size: 49.667879, xref: "DB00795", label: "Sulfasalazine", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB00396", size: 28.429347, xref: "DB00396", label: "Progesterone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB13158", size: 28.429347, xref: "DB13158", label: "Clobetasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01395", size: 28.429347, xref: "DB01395", label: "Drospirenone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00588", size: 28.429347, xref: "DB00588", label: "Fluticasone propionate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00663", size: 28.429347, xref: "DB00663", label: "Flumethasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00142", size: 49.667879, xref: "DB00142", label: "Glutamic acid", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB00769", size: 28.429347, xref: "DB00769", label: "Hydrocortamate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01234", size: 28.429347, xref: "DB01234", label: "Dexamethasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00834", size: 28.429347, xref: "DB00834", label: "Mifepristone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01130", size: 28.429347, xref: "DB01130", label: "Prednicarbate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00324", size: 28.429347, xref: "DB00324", label: "Fluorometholone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00173", size: 19.111153, xref: "DB00173", label: "Adenine", score: 0.191112, rank: "101", type: "drug" } 
+}, {
+ data: { id: "DB11619", size: 28.429347, xref: "DB11619", label: "Gestrinone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00543", size: 23.955406, xref: "DB00543", label: "Amoxapine", score: 0.239554, rank: "92-95", type: "drug" } 
+}, {
+ data: { id: "DB00591", size: 28.429347, xref: "DB00591", label: "Fluocinolone acetonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00201", size: 51.014929, xref: "DB00201", label: "Caffeine", score: 0.510149, rank: "3", type: "drug" } 
+}, {
+ data: { id: "DB00995", size: 28.429347, xref: "DB00995", label: "Auranofin", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB08896", size: 49.644457, xref: "DB08896", label: "Regorafenib", score: 0.496445, rank: "11-14", type: "drug" } 
+}, {
+ data: { id: "DB11793", size: 21.579041, xref: "DB11793", label: "Niraparib", score: 0.215790, rank: "96-100", type: "drug" } 
+}, {
+ data: { id: "DB00633", size: 28.429347, xref: "DB00633", label: "Dexmedetomidine", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB06710", size: 28.429347, xref: "DB06710", label: "Methyltestosterone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01047", size: 28.429347, xref: "DB01047", label: "Fluocinonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01185", size: 28.429347, xref: "DB01185", label: "Fluoxymesterone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB06789", size: 28.429347, xref: "DB06789", label: "Hydroxyprogesterone caproate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00421", size: 28.429347, xref: "DB00421", label: "Spironolactone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00596", size: 28.429347, xref: "DB00596", label: "Ulobetasol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01593", size: 30.337414, xref: "DB01593", label: "Zinc", score: 0.303374, rank: "19", type: "drug" } 
+}, {
+ data: { id: "DB00619", size: 49.644457, xref: "DB00619", label: "Imatinib", score: 0.496445, rank: "11-14", type: "drug" } 
+}, {
+ data: { id: "DB15566", size: 28.429347, xref: "DB15566", label: "Prednisolone acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00180", size: 28.429347, xref: "DB00180", label: "Flunisolide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB13953", size: 28.429347, xref: "DB13953", label: "Estradiol benzoate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB08818", size: 49.407264, xref: "DB08818", label: "Hyaluronic acid", score: 0.494073, rank: "15", type: "drug" } 
+}, {
+ data: { id: "DB08906", size: 28.429347, xref: "DB08906", label: "Fluticasone furoate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB12332", size: 21.579041, xref: "DB12332", label: "Rucaparib", score: 0.215790, rank: "96-100", type: "drug" } 
+}, {
+ data: { id: "DB00764", size: 28.429347, xref: "DB00764", label: "Mometasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00620", size: 28.429347, xref: "DB00620", label: "Triamcinolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00257", size: 28.429347, xref: "DB00257", label: "Clotrimazole", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB14596", size: 28.429347, xref: "DB14596", label: "Loteprednol etabonate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB14543", size: 28.429347, xref: "DB14543", label: "Hydrocortisone probutate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00741", size: 28.429347, xref: "DB00741", label: "Hydrocortisone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00443", size: 28.429347, xref: "DB00443", label: "Betamethasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00959", size: 28.429347, xref: "DB00959", label: "Methylprednisolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00838", size: 28.429347, xref: "DB00838", label: "Clocortolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB06781", size: 28.429347, xref: "DB06781", label: "Difluprednate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00138", size: 49.667879, xref: "DB00138", label: "Cystine", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB00240", size: 28.429347, xref: "DB00240", label: "Alclometasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB14539", size: 28.429347, xref: "DB14539", label: "Hydrocortisone acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB04335", size: 21.579041, xref: "DB04335", label: "Inosine", score: 0.215790, rank: "96-100", type: "drug" } 
+}, {
+ data: { id: "DB00579", size: 23.955406, xref: "DB00579", label: "Mazindol", score: 0.239554, rank: "92-95", type: "drug" } 
+}, {
+ data: { id: "DB01179", size: 28.429347, xref: "DB01179", label: "Podofilox", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB14544", size: 28.429347, xref: "DB14544", label: "Hydrocortisone valerate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00740", size: 49.667879, xref: "DB00740", label: "Riluzole", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB08867", size: 28.429347, xref: "DB08867", label: "Ulipristal", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00351", size: 28.429347, xref: "DB00351", label: "Megestrol acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00635", size: 28.429347, xref: "DB00635", label: "Prednisone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00603", size: 28.429347, xref: "DB00603", label: "Medroxyprogesterone acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB05423", size: 28.429347, xref: "DB05423", label: "ORG-34517", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00394", size: 28.429347, xref: "DB00394", label: "Beclomethasone dipropionate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00624", size: 28.429347, xref: "DB00624", label: "Testosterone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00253", size: 28.429347, xref: "DB00253", label: "Medrysone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01013", size: 28.429347, xref: "DB01013", label: "Clobetasol propionate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01384", size: 28.429347, xref: "DB01384", label: "Paramethasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB11590", size: 49.667879, xref: "DB11590", label: "Thimerosal", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB00313", size: 23.955406, xref: "DB00313", label: "Valproic acid", score: 0.239554, rank: "92-95", type: "drug" } 
+}, {
+ data: { id: "DB00846", size: 28.429347, xref: "DB00846", label: "Flurandrenolide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB12010", size: 100.000000, xref: "DB12010", label: "Fostamatinib", score: 1.000000, rank: "1", type: "drug" } 
+}, {
+ data: { id: "DB00398", size: 49.644457, xref: "DB00398", label: "Sorafenib", score: 0.496445, rank: "11-14", type: "drug" } 
+}, {
+ data: { id: "DB01410", size: 28.429347, xref: "DB01410", label: "Ciclesonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00896", size: 28.429347, xref: "DB00896", label: "Rimexolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00687", size: 28.429347, xref: "DB00687", label: "Fludrocortisone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB09130", size: 34.444634, xref: "DB09130", label: "Copper", score: 0.344446, rank: "17", type: "drug" } 
+}, {
+ data: { id: "DB00547", size: 28.429347, xref: "DB00547", label: "Desoximetasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00367", size: 28.429347, xref: "DB00367", label: "Levonorgestrel", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00277", size: 21.579041, xref: "DB00277", label: "Theophylline", score: 0.215790, rank: "96-100", type: "drug" } 
+}, {
+ data: { id: "DB00717", size: 28.429347, xref: "DB00717", label: "Norethisterone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01380", size: 28.429347, xref: "DB01380", label: "Cortisone acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB04839", size: 28.429347, xref: "DB04839", label: "Cyproterone acetate", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB06448", size: 43.668874, xref: "DB06448", label: "Lonafarnib", score: 0.436689, rank: "16", type: "drug" } 
+}, {
+ data: { id: "DB08142", size: 50.240874, xref: "DB08142", label: "AT-7519", score: 0.502409, rank: "4", type: "drug" } 
+}, {
+ data: { id: "DB06700", size: 23.955406, xref: "DB06700", label: "Desvenlafaxine", score: 0.239554, rank: "92-95", type: "drug" } 
+}, {
+ data: { id: "DB00752", size: 17.844591, xref: "DB00752", label: "Tranylcypromine", score: 0.178446, rank: "102", type: "drug" } 
+}, {
+ data: { id: "DB09091", size: 28.429347, xref: "DB09091", label: "Tixocortol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB11921", size: 28.429347, xref: "DB11921", label: "Deflazacort", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB01260", size: 28.429347, xref: "DB01260", label: "Desonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00288", size: 28.429347, xref: "DB00288", label: "Amcinonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00255", size: 28.429347, xref: "DB00255", label: "Diethylstilbestrol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00783", size: 28.429347, xref: "DB00783", label: "Estradiol", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00700", size: 28.429347, xref: "DB00700", label: "Eplerenone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00860", size: 28.429347, xref: "DB00860", label: "Prednisolone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00223", size: 28.429347, xref: "DB00223", label: "Diflorasone", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB06151", size: 49.667879, xref: "DB06151", label: "Acetylcysteine", score: 0.496679, rank: "5-10", type: "drug" } 
+}, {
+ data: { id: "DB06786", size: 28.429347, xref: "DB06786", label: "Halcinonide", score: 0.284293, rank: "20-91", type: "drug" } 
+}, {
+ data: { id: "DB00945", size: 33.736873, xref: "DB00945", label: "Acetylsalicylic acid", score: 0.337369, rank: "18", type: "drug" } 
+}, {
+ data: { id: "DB01222", size: 28.429347, xref: "DB01222", label: "Budesonide", score: 0.284293, rank: "20-91", type: "drug" } 
+},
+{
+ data: { id: "15601", size: 39.421400, xref: "P04637", label: "TP53", score: 0.394214, rank: "73", type: "non-seed" } 
+}, {
+ data: { id: "16079", size: 34.062900, xref: "Q04917", label: "YWHAH", score: 0.340629, rank: "80", type: "non-seed" } 
+}, {
+ data: { id: "33525", size: 32.237000, xref: "Q96BD5", label: "PHF21A", score: 0.322370, rank: "89", type: "non-seed" } 
+}, {
+ data: { id: "55181", size: 91.614000, xref: "Q2LD37", label: "BLTP1", score: 0.916140, rank: "48", type: "seed" } 
+}, {
+ data: { id: "11787", size: 32.402800, xref: "P62491", label: "RAB11A", score: 0.324028, rank: "87", type: "non-seed" } 
+}, {
+ data: { id: "15369", size: 61.152300, xref: "P01116", label: "KRAS", score: 0.611523, rank: "61", type: "non-seed" } 
+}, {
+ data: { id: "10952", size: 92.359600, xref: "Q7L7X3", label: "TAOK1", score: 0.923596, rank: "40", type: "seed" } 
+}, {
+ data: { id: "22572", size: 32.369800, xref: "Q04726", label: "TLE3", score: 0.323698, rank: "88", type: "non-seed" } 
+}, {
+ data: { id: "30211", size: 90.674400, xref: "P15927", label: "RPA2", score: 0.906744, rank: "57", type: "non-seed" } 
+}, {
+ data: { id: "14666", size: 92.466300, xref: "Q07889", label: "SOS1", score: 0.924663, rank: "38", type: "seed" } 
+}, {
+ data: { id: "11831", size: 97.797400, xref: "P28347", label: "TEAD1", score: 0.977974, rank: "2", type: "seed" } 
+}, {
+ data: { id: "13416", size: 48.331300, xref: "P01106", label: "MYC", score: 0.483313, rank: "64", type: "non-seed" } 
+}, {
+ data: { id: "15298", size: 32.989400, xref: "O60341", label: "KDM1A", score: 0.329894, rank: "86", type: "non-seed" } 
+}, {
+ data: { id: "49351", size: 92.551100, xref: "Q9BZ29", label: "DOCK9", score: 0.925511, rank: "35", type: "seed" } 
+}, {
+ data: { id: "22929", size: 96.925300, xref: "O43493", label: "TGOLN2", score: 0.969253, rank: "5", type: "non-seed" } 
+}, {
+ data: { id: "48823", size: 95.121100, xref: "Q03001", label: "DST", score: 0.951211, rank: "11", type: "seed" } 
+}, {
+ data: { id: "38366", size: 96.869900, xref: "Q86YT6", label: "MIB1", score: 0.968699, rank: "6", type: "seed" } 
+}, {
+ data: { id: "27408", size: 33.042900, xref: "P60468", label: "SEC61B", score: 0.330429, rank: "84", type: "non-seed" } 
+}, {
+ data: { id: "14463", size: 39.893300, xref: "P09874", label: "PARP1", score: 0.398933, rank: "72", type: "non-seed" } 
+}, {
+ data: { id: "8701", size: 93.503100, xref: "Q9UKI8", label: "TLK1", score: 0.935031, rank: "25", type: "seed" } 
+}, {
+ data: { id: "53253", size: 38.045700, xref: "P49715", label: "CEBPA", score: 0.380457, rank: "74", type: "non-seed" } 
+}, {
+ data: { id: "25802", size: 32.996300, xref: "Q96DI7", label: "SNRNP40", score: 0.329963, rank: "85", type: "non-seed" } 
+}, {
+ data: { id: "44208", size: 36.291700, xref: "P84243", label: "H3-3B", score: 0.362917, rank: "76", type: "non-seed" } 
+}, {
+ data: { id: "26841", size: 93.459800, xref: "Q7Z333", label: "SETX", score: 0.934598, rank: "26", type: "seed" } 
+}, {
+ data: { id: "38485", size: 91.403800, xref: "O75121", label: "MFAP3L", score: 0.914038, rank: "52", type: "seed" } 
+}, {
+ data: { id: "14321", size: 92.514000, xref: "P35573", label: "AGL", score: 0.925140, rank: "36", type: "seed" } 
+}, {
+ data: { id: "21064", size: 94.740600, xref: "P53804", label: "TTC3", score: 0.947406, rank: "16", type: "seed" } 
+}, {
+ data: { id: "53622", size: 90.647600, xref: "Q6YHK3", label: "CD109", score: 0.906476, rank: "58", type: "seed" } 
+}, {
+ data: { id: "36755", size: 91.429000, xref: "Q6ZS30", label: "NBEAL1", score: 0.914290, rank: "50", type: "seed" } 
+}, {
+ data: { id: "12254", size: 37.429200, xref: "P63104", label: "YWHAZ", score: 0.374292, rank: "75", type: "non-seed" } 
+}, {
+ data: { id: "31676", size: 92.602600, xref: "Q9NYI0", label: "PSD3", score: 0.926026, rank: "34", type: "seed" } 
+}, {
+ data: { id: "57841", size: 93.096500, xref: "Q9UHB7", label: "AFF4", score: 0.930965, rank: "27", type: "seed" } 
+}, {
+ data: { id: "12395", size: 44.286500, xref: "P42858", label: "HTT", score: 0.442865, rank: "66", type: "non-seed" } 
+}, {
+ data: { id: "57618", size: 92.085000, xref: "Q9UKA4", label: "AKAP11", score: 0.920850, rank: "45", type: "seed" } 
+}, {
+ data: { id: "11360", size: 94.753000, xref: "Q9Y4C1", label: "KDM3A", score: 0.947530, rank: "15", type: "seed" } 
+}, {
+ data: { id: "14195", size: 33.880200, xref: "P12830", label: "CDH1", score: 0.338802, rank: "81", type: "non-seed" } 
+}, {
+ data: { id: "13024", size: 35.330900, xref: "P78362", label: "SRPK2", score: 0.353309, rank: "77", type: "non-seed" } 
+}, {
+ data: { id: "44216", size: 51.332500, xref: "P68431", label: "H3C8", score: 0.513325, rank: "63", type: "non-seed" } 
+}, {
+ data: { id: "7996", size: 93.816100, xref: "Q7L9L4", label: "MOB1B", score: 0.938161, rank: "23", type: "seed" } 
+}, {
+ data: { id: "56190", size: 97.489800, xref: "Q76L83", label: "ASXL2", score: 0.974898, rank: "4", type: "seed" } 
+}, {
+ data: { id: "35194", size: 42.996400, xref: "Q8NFH3", label: "NUP43", score: 0.429964, rank: "67", type: "non-seed" } 
+}, {
+ data: { id: "20533", size: 93.849700, xref: "Q70CQ2", label: "USP34", score: 0.938497, rank: "22", type: "seed" } 
+}, {
+ data: { id: "34119", size: 33.066700, xref: "P26367", label: "PAX6", score: 0.330667, rank: "83", type: "non-seed" } 
+}, {
+ data: { id: "61549", size: 88.379100, xref: "O43300", label: "LRRTM2", score: 0.883791, rank: "60", type: "seed" } 
+}, {
+ data: { id: "8284", size: 52.557500, xref: "P04150", label: "NR3C1", score: 0.525575, rank: "62", type: "non-seed" } 
+}, {
+ data: { id: "19686", size: 91.606700, xref: "Q96RL7", label: "VPS13A", score: 0.916067, rank: "49", type: "seed" } 
+}, {
+ data: { id: "28413", size: 92.823800, xref: "Q5VWQ0", label: "RSBN1", score: 0.928238, rank: "30", type: "seed" } 
+}, {
+ data: { id: "9487", size: 88.826400, xref: "Q9H999", label: "PANK3", score: 0.888264, rank: "59", type: "seed" } 
+}, {
+ data: { id: "39607", size: 92.747700, xref: "O94822", label: "LTN1", score: 0.927477, rank: "31", type: "seed" } 
+}, {
+ data: { id: "38789", size: 100.000000, xref: "Q9UHV7", label: "MED13", score: 1.000000, rank: "1", type: "seed" } 
+}, {
+ data: { id: "30207", size: 41.774900, xref: "P35244", label: "RPA3", score: 0.417749, rank: "69", type: "non-seed" } 
+}, {
+ data: { id: "55269", size: 92.188000, xref: "Q9Y6D6", label: "ARFGEF1", score: 0.921880, rank: "43", type: "seed" } 
+}, {
+ data: { id: "19682", size: 93.610100, xref: "Q709C8", label: "VPS13C", score: 0.936101, rank: "24", type: "seed" } 
+}, {
+ data: { id: "44244", size: 45.755800, xref: "P58876; P62807", label: "H2BC6", score: 0.457558, rank: "65", type: "non-seed" } 
+}, {
+ data: { id: "10551", size: 92.091300, xref: "Q13873", label: "BMPR2", score: 0.920913, rank: "44", type: "seed" } 
+}, {
+ data: { id: "10917", size: 97.782200, xref: "Q15652", label: "JMJD1C", score: 0.977822, rank: "3", type: "seed" } 
+}, {
+ data: { id: "15807", size: 95.389200, xref: "P06756", label: "ITGAV", score: 0.953892, rank: "8", type: "seed" } 
+}, {
+ data: { id: "12130", size: 41.489900, xref: "P62258", label: "YWHAE", score: 0.414899, rank: "70", type: "non-seed" } 
+}, {
+ data: { id: "53268", size: 94.835100, xref: "Q5VT06", label: "CEP350", score: 0.948351, rank: "14", type: "seed" } 
+}, {
+ data: { id: "13960", size: 42.474900, xref: "P61981", label: "YWHAG", score: 0.424749, rank: "68", type: "non-seed" } 
+}, {
+ data: { id: "15152", size: 92.492000, xref: "Q9NSI6", label: "BRWD1", score: 0.924920, rank: "37", type: "seed" } 
+}, {
+ data: { id: "14027", size: 34.659000, xref: "P61019", label: "RAB2A", score: 0.346590, rank: "78", type: "non-seed" } 
+}, {
+ data: { id: "14787", size: 91.778000, xref: "Q16832", label: "DDR2", score: 0.917780, rank: "47", type: "seed" } 
+}, {
+ data: { id: "41691", size: 92.337900, xref: "Q92628", label: "KIAA0232", score: 0.923379, rank: "41", type: "seed" } 
+}, {
+ data: { id: "15712", size: 92.880600, xref: "Q9NYV4", label: "CDK12", score: 0.928806, rank: "29", type: "seed" } 
+}, {
+ data: { id: "50044", size: 92.946700, xref: "Q5H9U9", label: "DDX60L", score: 0.929467, rank: "28", type: "seed" } 
+}, {
+ data: { id: "27635", size: 91.241000, xref: "Q9NZJ4", label: "SACS", score: 0.912410, rank: "54", type: "seed" } 
+}, {
+ data: { id: "20412", size: 93.942700, xref: "O94888", label: "UBXN7", score: 0.939427, rank: "21", type: "seed" } 
+}, {
+ data: { id: "26206", size: 91.423900, xref: "Q08AF3", label: "SLFN5", score: 0.914239, rank: "51", type: "seed" } 
+}, {
+ data: { id: "51034", size: 91.339500, xref: "P13611", label: "VCAN", score: 0.913395, rank: "53", type: "seed" } 
+}, {
+ data: { id: "40977", size: 95.401100, xref: "Q9Y4X4", label: "KLF12", score: 0.954011, rank: "7", type: "seed" } 
+}, {
+ data: { id: "9947", size: 90.740800, xref: "P42702", label: "LIFR", score: 0.907408, rank: "56", type: "seed" } 
+}, {
+ data: { id: "14018", size: 40.392300, xref: "P01112", label: "HRAS", score: 0.403923, rank: "71", type: "non-seed" } 
+}, {
+ data: { id: "14017", size: 33.857600, xref: "P01111", label: "NRAS", score: 0.338576, rank: "82", type: "non-seed" } 
+}, {
+ data: { id: "44950", size: 94.559500, xref: "Q14789", label: "GOLGB1", score: 0.945595, rank: "17", type: "seed" } 
+}, {
+ data: { id: "54376", size: 95.190400, xref: "Q08AD1", label: "CAMSAP2", score: 0.951904, rank: "9", type: "seed" } 
+}, {
+ data: { id: "12814", size: 94.311600, xref: "Q13315", label: "ATM", score: 0.943116, rank: "19", type: "seed" } 
+}, {
+ data: { id: "48873", size: 95.148800, xref: "Q8NCM8", label: "DYNC2H1", score: 0.951488, rank: "10", type: "seed" } 
+}, {
+ data: { id: "36082", size: 92.432900, xref: "Q6T4R5", label: "NHS", score: 0.924329, rank: "39", type: "seed" } 
+}, {
+ data: { id: "7675", size: 92.636900, xref: "Q96Q15", label: "SMG1", score: 0.926369, rank: "33", type: "seed" } 
+}, {
+ data: { id: "6944", size: 34.447500, xref: "Q9NYB0", label: "TERF2IP", score: 0.344475, rank: "79", type: "non-seed" } 
+}, {
+ data: { id: "52845", size: 92.264900, xref: "Q3L8U1", label: "CHD9", score: 0.922649, rank: "42", type: "seed" } 
+}, {
+ data: { id: "7207", size: 91.821300, xref: "Q9UPY5", label: "SLC7A11", score: 0.918213, rank: "46", type: "seed" } 
+}, {
+ data: { id: "11875", size: 94.416000, xref: "P27694", label: "RPA1", score: 0.944160, rank: "18", type: "non-seed" } 
+}, {
+ data: { id: "43651", size: 90.800800, xref: "Q96RW7", label: "HMCN1", score: 0.908008, rank: "55", type: "seed" } 
+}, {
+ data: { id: "14641", size: 92.651300, xref: "P40189", label: "IL6ST", score: 0.926513, rank: "32", type: "seed" } 
+}, {
+ data: { id: "35220", size: 94.893300, xref: "Q7Z417", label: "NUFIP2", score: 0.948933, rank: "13", type: "seed" } 
+}, {
+ data: { id: "9762", size: 94.091100, xref: "Q12923", label: "PTPN13", score: 0.940911, rank: "20", type: "seed" } 
+}, {
+ data: { id: "30535", size: 95.068900, xref: "P49792", label: "RANBP2", score: 0.950689, rank: "12", type: "seed" } 
+}, {
+ data: { id: "11345", size: 28.444100, xref: "P43121", label: "MCAM", score: 0.284441, rank: "121", type: "linker" } 
+}, {
+ data: { id: "9852", size: 29.672600, xref: "P37840", label: "SNCA", score: 0.296726, rank: "104", type: "linker" } 
+}, {
+ data: { id: "9708", size: 28.516200, xref: "P05067", label: "APP", score: 0.285162, rank: "118", type: "linker" } 
+}, {
+ data: { id: "34542", size: 26.185400, xref: "P32243", label: "OTX2", score: 0.261854, rank: "205", type: "linker" } 
+}, {
+ data: { id: "55980", size: 27.067100, xref: "Q7Z3C6", label: "ATG9A", score: 0.270671, rank: "169", type: "linker" } 
+}, {
+ data: { id: "10555", size: 23.406800, xref: "Q92499", label: "DDX1", score: 0.234068, rank: "303", type: "linker" } 
+}, {
+ data: { id: "28982", size: 26.630200, xref: "P51991", label: "HNRNPA3", score: 0.266302, rank: "182", type: "linker" } 
+}, {
+ data: { id: "44229", size: 25.575500, xref: "Q16778", label: "H2BC21", score: 0.255755, rank: "228", type: "linker" } 
+},
+{
+ data: { id: "15601-DB00945", source: "15601", target: "DB00945" } 
+},
+{
+ data: { id: "15601-DB01593", source: "15601", target: "DB01593" } 
+},
+{
+ data: { id: "15369-DB06448", source: "15369", target: "DB06448" } 
+},
+{
+ data: { id: "10952-DB12010", source: "10952", target: "DB12010" } 
+},
+{
+ data: { id: "13416-DB00945", source: "13416", target: "DB00945" } 
+},
+{
+ data: { id: "15298-DB00752", source: "15298", target: "DB00752" } 
+},
+{
+ data: { id: "14463-DB11793", source: "14463", target: "DB11793" } 
+},
+{
+ data: { id: "14463-DB12332", source: "14463", target: "DB12332" } 
+},
+{
+ data: { id: "14463-DB11760", source: "14463", target: "DB11760" } 
+},
+{
+ data: { id: "14463-DB01593", source: "14463", target: "DB01593" } 
+},
+{
+ data: { id: "14463-DB00277", source: "14463", target: "DB00277" } 
+},
+{
+ data: { id: "14463-DB04335", source: "14463", target: "DB04335" } 
+},
+{
+ data: { id: "8701-DB12010", source: "8701", target: "DB12010" } 
+},
+{
+ data: { id: "12395-DB00579", source: "12395", target: "DB00579" } 
+},
+{
+ data: { id: "12395-DB06700", source: "12395", target: "DB06700" } 
+},
+{
+ data: { id: "12395-DB09130", source: "12395", target: "DB09130" } 
+},
+{
+ data: { id: "12395-DB00313", source: "12395", target: "DB00313" } 
+},
+{
+ data: { id: "12395-DB00543", source: "12395", target: "DB00543" } 
+},
+{
+ data: { id: "13024-DB00173", source: "13024", target: "DB00173" } 
+},
+{
+ data: { id: "8284-DB01380", source: "8284", target: "DB01380" } 
+},
+{
+ data: { id: "8284-DB11619", source: "8284", target: "DB11619" } 
+},
+{
+ data: { id: "8284-DB05423", source: "8284", target: "DB05423" } 
+},
+{
+ data: { id: "8284-DB01384", source: "8284", target: "DB01384" } 
+},
+{
+ data: { id: "8284-DB04573", source: "8284", target: "DB04573" } 
+},
+{
+ data: { id: "8284-DB00324", source: "8284", target: "DB00324" } 
+},
+{
+ data: { id: "8284-DB14539", source: "8284", target: "DB14539" } 
+},
+{
+ data: { id: "8284-DB00977", source: "8284", target: "DB00977" } 
+},
+{
+ data: { id: "8284-DB13953", source: "8284", target: "DB13953" } 
+},
+{
+ data: { id: "8284-DB00596", source: "8284", target: "DB00596" } 
+},
+{
+ data: { id: "8284-DB00959", source: "8284", target: "DB00959" } 
+},
+{
+ data: { id: "8284-DB14596", source: "8284", target: "DB14596" } 
+},
+{
+ data: { id: "8284-DB08867", source: "8284", target: "DB08867" } 
+},
+{
+ data: { id: "8284-DB11921", source: "8284", target: "DB11921" } 
+},
+{
+ data: { id: "8284-DB00288", source: "8284", target: "DB00288" } 
+},
+{
+ data: { id: "8284-DB00838", source: "8284", target: "DB00838" } 
+},
+{
+ data: { id: "8284-DB00995", source: "8284", target: "DB00995" } 
+},
+{
+ data: { id: "8284-DB00635", source: "8284", target: "DB00635" } 
+},
+{
+ data: { id: "8284-DB00687", source: "8284", target: "DB00687" } 
+},
+{
+ data: { id: "8284-DB15566", source: "8284", target: "DB15566" } 
+},
+{
+ data: { id: "8284-DB01234", source: "8284", target: "DB01234" } 
+},
+{
+ data: { id: "8284-DB00834", source: "8284", target: "DB00834" } 
+},
+{
+ data: { id: "8284-DB00700", source: "8284", target: "DB00700" } 
+},
+{
+ data: { id: "8284-DB00443", source: "8284", target: "DB00443" } 
+},
+{
+ data: { id: "8284-DB01406", source: "8284", target: "DB01406" } 
+},
+{
+ data: { id: "8284-DB00624", source: "8284", target: "DB00624" } 
+},
+{
+ data: { id: "8284-DB01130", source: "8284", target: "DB01130" } 
+},
+{
+ data: { id: "8284-DB00253", source: "8284", target: "DB00253" } 
+},
+{
+ data: { id: "8284-DB00255", source: "8284", target: "DB00255" } 
+},
+{
+ data: { id: "8284-DB01013", source: "8284", target: "DB01013" } 
+},
+{
+ data: { id: "8284-DB01410", source: "8284", target: "DB01410" } 
+},
+{
+ data: { id: "8284-DB01222", source: "8284", target: "DB01222" } 
+},
+{
+ data: { id: "8284-DB00547", source: "8284", target: "DB00547" } 
+},
+{
+ data: { id: "8284-DB00351", source: "8284", target: "DB00351" } 
+},
+{
+ data: { id: "8284-DB00223", source: "8284", target: "DB00223" } 
+},
+{
+ data: { id: "8284-DB00421", source: "8284", target: "DB00421" } 
+},
+{
+ data: { id: "8284-DB00620", source: "8284", target: "DB00620" } 
+},
+{
+ data: { id: "8284-DB00588", source: "8284", target: "DB00588" } 
+},
+{
+ data: { id: "8284-DB00663", source: "8284", target: "DB00663" } 
+},
+{
+ data: { id: "8284-DB01395", source: "8284", target: "DB01395" } 
+},
+{
+ data: { id: "8284-DB00783", source: "8284", target: "DB00783" } 
+},
+{
+ data: { id: "8284-DB00591", source: "8284", target: "DB00591" } 
+},
+{
+ data: { id: "8284-DB01179", source: "8284", target: "DB01179" } 
+},
+{
+ data: { id: "8284-DB00603", source: "8284", target: "DB00603" } 
+},
+{
+ data: { id: "8284-DB00896", source: "8284", target: "DB00896" } 
+},
+{
+ data: { id: "8284-DB00257", source: "8284", target: "DB00257" } 
+},
+{
+ data: { id: "8284-DB01047", source: "8284", target: "DB01047" } 
+},
+{
+ data: { id: "8284-DB00769", source: "8284", target: "DB00769" } 
+},
+{
+ data: { id: "8284-DB00741", source: "8284", target: "DB00741" } 
+},
+{
+ data: { id: "8284-DB06789", source: "8284", target: "DB06789" } 
+},
+{
+ data: { id: "8284-DB08906", source: "8284", target: "DB08906" } 
+},
+{
+ data: { id: "8284-DB00394", source: "8284", target: "DB00394" } 
+},
+{
+ data: { id: "8284-DB00396", source: "8284", target: "DB00396" } 
+},
+{
+ data: { id: "8284-DB06781", source: "8284", target: "DB06781" } 
+},
+{
+ data: { id: "8284-DB14543", source: "8284", target: "DB14543" } 
+},
+{
+ data: { id: "8284-DB14544", source: "8284", target: "DB14544" } 
+},
+{
+ data: { id: "8284-DB06786", source: "8284", target: "DB06786" } 
+},
+{
+ data: { id: "8284-DB09095", source: "8284", target: "DB09095" } 
+},
+{
+ data: { id: "8284-DB09091", source: "8284", target: "DB09091" } 
+},
+{
+ data: { id: "8284-DB01260", source: "8284", target: "DB01260" } 
+},
+{
+ data: { id: "8284-DB01185", source: "8284", target: "DB01185" } 
+},
+{
+ data: { id: "8284-DB00860", source: "8284", target: "DB00860" } 
+},
+{
+ data: { id: "8284-DB00240", source: "8284", target: "DB00240" } 
+},
+{
+ data: { id: "8284-DB00180", source: "8284", target: "DB00180" } 
+},
+{
+ data: { id: "8284-DB00846", source: "8284", target: "DB00846" } 
+},
+{
+ data: { id: "8284-DB04839", source: "8284", target: "DB04839" } 
+},
+{
+ data: { id: "8284-DB13158", source: "8284", target: "DB13158" } 
+},
+{
+ data: { id: "8284-DB00633", source: "8284", target: "DB00633" } 
+},
+{
+ data: { id: "8284-DB00717", source: "8284", target: "DB00717" } 
+},
+{
+ data: { id: "8284-DB06710", source: "8284", target: "DB06710" } 
+},
+{
+ data: { id: "8284-DB00367", source: "8284", target: "DB00367" } 
+},
+{
+ data: { id: "8284-DB00764", source: "8284", target: "DB00764" } 
+},
+{
+ data: { id: "44244-DB09130", source: "44244", target: "DB09130" } 
+},
+{
+ data: { id: "44244-DB09130", source: "44244", target: "DB09130" } 
+},
+{
+ data: { id: "10551-DB12010", source: "10551", target: "DB12010" } 
+},
+{
+ data: { id: "15807-DB00451", source: "15807", target: "DB00451" } 
+},
+{
+ data: { id: "14787-DB00619", source: "14787", target: "DB00619" } 
+},
+{
+ data: { id: "14787-DB12010", source: "14787", target: "DB12010" } 
+},
+{
+ data: { id: "14787-DB04868", source: "14787", target: "DB04868" } 
+},
+{
+ data: { id: "14787-DB08896", source: "14787", target: "DB08896" } 
+},
+{
+ data: { id: "14787-DB00398", source: "14787", target: "DB00398" } 
+},
+{
+ data: { id: "15712-DB08142", source: "15712", target: "DB08142" } 
+},
+{
+ data: { id: "51034-DB08818", source: "51034", target: "DB08818" } 
+},
+{
+ data: { id: "14018-DB06448", source: "14018", target: "DB06448" } 
+},
+{
+ data: { id: "14017-DB06448", source: "14017", target: "DB06448" } 
+},
+{
+ data: { id: "12814-DB00201", source: "12814", target: "DB00201" } 
+},
+{
+ data: { id: "7207-DB11590", source: "7207", target: "DB11590" } 
+},
+{
+ data: { id: "7207-DB00795", source: "7207", target: "DB00795" } 
+},
+{
+ data: { id: "7207-DB00138", source: "7207", target: "DB00138" } 
+},
+{
+ data: { id: "7207-DB00142", source: "7207", target: "DB00142" } 
+},
+{
+ data: { id: "7207-DB06151", source: "7207", target: "DB06151" } 
+},
+{
+ data: { id: "7207-DB00740", source: "7207", target: "DB00740" } 
+},
+{
+ data: { id: "44244-16079", source: "44244", target: "16079" } 
+}, {
+ data: { id: "44244-30211", source: "44244", target: "30211" } 
+}, {
+ data: { id: "44244-12254", source: "44244", target: "12254" } 
+}, {
+ data: { id: "44244-20412", source: "44244", target: "20412" } 
+}, {
+ data: { id: "44244-30207", source: "44244", target: "30207" } 
+}, {
+ data: { id: "44244-55181", source: "44244", target: "55181" } 
+}, {
+ data: { id: "44244-48823", source: "44244", target: "48823" } 
+}, {
+ data: { id: "44244-44208", source: "44244", target: "44208" } 
+}, {
+ data: { id: "44244-19682", source: "44244", target: "19682" } 
+}, {
+ data: { id: "44244-12130", source: "44244", target: "12130" } 
+}, {
+ data: { id: "44244-53268", source: "44244", target: "53268" } 
+}, {
+ data: { id: "44244-11875", source: "44244", target: "11875" } 
+}, {
+ data: { id: "44244-57618", source: "44244", target: "57618" } 
+}, {
+ data: { id: "44244-15298", source: "44244", target: "15298" } 
+}, {
+ data: { id: "44244-44216", source: "44244", target: "44216" } 
+}, {
+ data: { id: "44244-10917", source: "44244", target: "10917" } 
+}, {
+ data: { id: "44244-13960", source: "44244", target: "13960" } 
+}, {
+ data: { id: "44244-11787", source: "44244", target: "11787" } 
+}, {
+ data: { id: "44244-14463", source: "44244", target: "14463" } 
+}, {
+ data: { id: "38366-27408", source: "38366", target: "27408" } 
+}, {
+ data: { id: "38366-35220", source: "38366", target: "35220" } 
+}, {
+ data: { id: "38366-9762", source: "38366", target: "9762" } 
+}, {
+ data: { id: "38366-8284", source: "38366", target: "8284" } 
+}, {
+ data: { id: "14641-14017", source: "14641", target: "14017" } 
+}, {
+ data: { id: "14641-15369", source: "14641", target: "15369" } 
+}, {
+ data: { id: "14641-14195", source: "14641", target: "14195" } 
+}, {
+ data: { id: "14641-11787", source: "14641", target: "11787" } 
+}, {
+ data: { id: "14641-22929", source: "14641", target: "22929" } 
+}, {
+ data: { id: "33525-11875", source: "33525", target: "11875" } 
+}, {
+ data: { id: "33525-13416", source: "33525", target: "13416" } 
+}, {
+ data: { id: "33525-15298", source: "33525", target: "15298" } 
+}, {
+ data: { id: "33525-48823", source: "33525", target: "48823" } 
+}, {
+ data: { id: "33525-35194", source: "33525", target: "35194" } 
+}, {
+ data: { id: "33525-20533", source: "33525", target: "20533" } 
+}, {
+ data: { id: "33525-53253", source: "33525", target: "53253" } 
+}, {
+ data: { id: "33525-34119", source: "33525", target: "34119" } 
+}, {
+ data: { id: "33525-25802", source: "33525", target: "25802" } 
+}, {
+ data: { id: "33525-10917", source: "33525", target: "10917" } 
+}, {
+ data: { id: "33525-30207", source: "33525", target: "30207" } 
+}, {
+ data: { id: "33525-22572", source: "33525", target: "22572" } 
+}, {
+ data: { id: "33525-44950", source: "33525", target: "44950" } 
+}, {
+ data: { id: "33525-30211", source: "33525", target: "30211" } 
+}, {
+ data: { id: "33525-9762", source: "33525", target: "9762" } 
+}, {
+ data: { id: "33525-30535", source: "33525", target: "30535" } 
+}, {
+ data: { id: "53622-22929", source: "53622", target: "22929" } 
+}, {
+ data: { id: "9947-27408", source: "9947", target: "27408" } 
+}, {
+ data: { id: "9947-22929", source: "9947", target: "22929" } 
+}, {
+ data: { id: "11831-22572", source: "11831", target: "22572" } 
+}, {
+ data: { id: "11831-44208", source: "11831", target: "44208" } 
+}, {
+ data: { id: "11831-12395", source: "11831", target: "12395" } 
+}, {
+ data: { id: "11831-44216", source: "11831", target: "44216" } 
+}, {
+ data: { id: "11831-56190", source: "11831", target: "56190" } 
+}, {
+ data: { id: "44208-34119", source: "44208", target: "34119" } 
+}, {
+ data: { id: "44208-30207", source: "44208", target: "30207" } 
+}, {
+ data: { id: "44208-52845", source: "44208", target: "52845" } 
+}, {
+ data: { id: "44208-11875", source: "44208", target: "11875" } 
+}, {
+ data: { id: "44208-15298", source: "44208", target: "15298" } 
+}, {
+ data: { id: "44208-11360", source: "44208", target: "11360" } 
+}, {
+ data: { id: "44208-44216", source: "44208", target: "44216" } 
+}, {
+ data: { id: "44208-10917", source: "44208", target: "10917" } 
+}, {
+ data: { id: "44208-15601", source: "44208", target: "15601" } 
+}, {
+ data: { id: "44208-11787", source: "44208", target: "11787" } 
+}, {
+ data: { id: "44208-14463", source: "44208", target: "14463" } 
+}, {
+ data: { id: "44208-15152", source: "44208", target: "15152" } 
+}, {
+ data: { id: "44208-44950", source: "44208", target: "44950" } 
+}, {
+ data: { id: "44208-57841", source: "44208", target: "57841" } 
+}, {
+ data: { id: "48873-15601", source: "48873", target: "15601" } 
+}, {
+ data: { id: "48873-11875", source: "48873", target: "11875" } 
+}, {
+ data: { id: "48873-44216", source: "48873", target: "44216" } 
+}, {
+ data: { id: "48873-8284", source: "48873", target: "8284" } 
+}, {
+ data: { id: "48873-30211", source: "48873", target: "30211" } 
+}, {
+ data: { id: "44950-30211", source: "44950", target: "30211" } 
+}, {
+ data: { id: "44950-14195", source: "44950", target: "14195" } 
+}, {
+ data: { id: "44950-30207", source: "44950", target: "30207" } 
+}, {
+ data: { id: "44950-14027", source: "44950", target: "14027" } 
+}, {
+ data: { id: "44950-11875", source: "44950", target: "11875" } 
+}, {
+ data: { id: "44950-15298", source: "44950", target: "15298" } 
+}, {
+ data: { id: "44950-22929", source: "44950", target: "22929" } 
+}, {
+ data: { id: "44950-44216", source: "44950", target: "44216" } 
+}, {
+ data: { id: "44950-14017", source: "44950", target: "14017" } 
+}, {
+ data: { id: "44950-15601", source: "44950", target: "15601" } 
+}, {
+ data: { id: "44950-11787", source: "44950", target: "11787" } 
+}, {
+ data: { id: "15369-27408", source: "15369", target: "27408" } 
+}, {
+ data: { id: "15369-38485", source: "15369", target: "38485" } 
+}, {
+ data: { id: "15369-48823", source: "15369", target: "48823" } 
+}, {
+ data: { id: "15369-49351", source: "15369", target: "49351" } 
+}, {
+ data: { id: "15369-10551", source: "15369", target: "10551" } 
+}, {
+ data: { id: "15369-19686", source: "15369", target: "19686" } 
+}, {
+ data: { id: "15369-19682", source: "15369", target: "19682" } 
+}, {
+ data: { id: "15369-12130", source: "15369", target: "12130" } 
+}, {
+ data: { id: "15369-31676", source: "15369", target: "31676" } 
+}, {
+ data: { id: "15369-14018", source: "15369", target: "14018" } 
+}, {
+ data: { id: "15369-14017", source: "15369", target: "14017" } 
+}, {
+ data: { id: "15369-7207", source: "15369", target: "7207" } 
+}, {
+ data: { id: "15369-9762", source: "15369", target: "9762" } 
+}, {
+ data: { id: "15369-11787", source: "15369", target: "11787" } 
+}, {
+ data: { id: "15369-12254", source: "15369", target: "12254" } 
+}, {
+ data: { id: "11875-16079", source: "11875", target: "16079" } 
+}, {
+ data: { id: "11875-13024", source: "11875", target: "13024" } 
+}, {
+ data: { id: "11875-15712", source: "11875", target: "15712" } 
+}, {
+ data: { id: "11875-30207", source: "11875", target: "30207" } 
+}, {
+ data: { id: "11875-12130", source: "11875", target: "12130" } 
+}, {
+ data: { id: "11875-30535", source: "11875", target: "30535" } 
+}, {
+ data: { id: "11875-15298", source: "11875", target: "15298" } 
+}, {
+ data: { id: "11875-7996", source: "11875", target: "7996" } 
+}, {
+ data: { id: "11875-9762", source: "11875", target: "9762" } 
+}, {
+ data: { id: "11875-15601", source: "11875", target: "15601" } 
+}, {
+ data: { id: "11875-14463", source: "11875", target: "14463" } 
+}, {
+ data: { id: "11875-14321", source: "11875", target: "14321" } 
+}, {
+ data: { id: "11875-8284", source: "11875", target: "8284" } 
+}, {
+ data: { id: "11875-44216", source: "11875", target: "44216" } 
+}, {
+ data: { id: "11875-39607", source: "11875", target: "39607" } 
+}, {
+ data: { id: "11875-11787", source: "11875", target: "11787" } 
+}, {
+ data: { id: "11875-13416", source: "11875", target: "13416" } 
+}, {
+ data: { id: "11875-12254", source: "11875", target: "12254" } 
+}, {
+ data: { id: "11875-15807", source: "11875", target: "15807" } 
+}, {
+ data: { id: "11875-12814", source: "11875", target: "12814" } 
+}, {
+ data: { id: "11875-53268", source: "11875", target: "53268" } 
+}, {
+ data: { id: "11875-14027", source: "11875", target: "14027" } 
+}, {
+ data: { id: "11875-56190", source: "11875", target: "56190" } 
+}, {
+ data: { id: "11875-10917", source: "11875", target: "10917" } 
+}, {
+ data: { id: "11875-14017", source: "11875", target: "14017" } 
+}, {
+ data: { id: "11875-25802", source: "11875", target: "25802" } 
+}, {
+ data: { id: "11875-30211", source: "11875", target: "30211" } 
+}, {
+ data: { id: "11875-27408", source: "11875", target: "27408" } 
+}, {
+ data: { id: "11875-20533", source: "11875", target: "20533" } 
+}, {
+ data: { id: "11875-48823", source: "11875", target: "48823" } 
+}, {
+ data: { id: "11875-53253", source: "11875", target: "53253" } 
+}, {
+ data: { id: "11875-13960", source: "11875", target: "13960" } 
+}, {
+ data: { id: "11875-27635", source: "11875", target: "27635" } 
+}, {
+ data: { id: "11875-35220", source: "11875", target: "35220" } 
+}, {
+ data: { id: "11875-10952", source: "11875", target: "10952" } 
+}, {
+ data: { id: "11875-12395", source: "11875", target: "12395" } 
+}, {
+ data: { id: "11875-6944", source: "11875", target: "6944" } 
+}, {
+ data: { id: "30211-16079", source: "30211", target: "16079" } 
+}, {
+ data: { id: "30211-20412", source: "30211", target: "20412" } 
+}, {
+ data: { id: "30211-7675", source: "30211", target: "7675" } 
+}, {
+ data: { id: "30211-12130", source: "30211", target: "12130" } 
+}, {
+ data: { id: "30211-30535", source: "30211", target: "30535" } 
+}, {
+ data: { id: "30211-15298", source: "30211", target: "15298" } 
+}, {
+ data: { id: "30211-7996", source: "30211", target: "7996" } 
+}, {
+ data: { id: "30211-9762", source: "30211", target: "9762" } 
+}, {
+ data: { id: "30211-15601", source: "30211", target: "15601" } 
+}, {
+ data: { id: "30211-14463", source: "30211", target: "14463" } 
+}, {
+ data: { id: "30211-55269", source: "30211", target: "55269" } 
+}, {
+ data: { id: "30211-15712", source: "30211", target: "15712" } 
+}, {
+ data: { id: "30211-8284", source: "30211", target: "8284" } 
+}, {
+ data: { id: "30211-39607", source: "30211", target: "39607" } 
+}, {
+ data: { id: "30211-11787", source: "30211", target: "11787" } 
+}, {
+ data: { id: "30211-12254", source: "30211", target: "12254" } 
+}, {
+ data: { id: "30211-15807", source: "30211", target: "15807" } 
+}, {
+ data: { id: "30211-22572", source: "30211", target: "22572" } 
+}, {
+ data: { id: "30211-53268", source: "30211", target: "53268" } 
+}, {
+ data: { id: "30211-14321", source: "30211", target: "14321" } 
+}, {
+ data: { id: "30211-14027", source: "30211", target: "14027" } 
+}, {
+ data: { id: "30211-56190", source: "30211", target: "56190" } 
+}, {
+ data: { id: "30211-10917", source: "30211", target: "10917" } 
+}, {
+ data: { id: "30211-14017", source: "30211", target: "14017" } 
+}, {
+ data: { id: "30211-27408", source: "30211", target: "27408" } 
+}, {
+ data: { id: "30211-20533", source: "30211", target: "20533" } 
+}, {
+ data: { id: "30211-44216", source: "30211", target: "44216" } 
+}, {
+ data: { id: "30211-48823", source: "30211", target: "48823" } 
+}, {
+ data: { id: "30211-53253", source: "30211", target: "53253" } 
+}, {
+ data: { id: "30211-30207", source: "30211", target: "30207" } 
+}, {
+ data: { id: "30211-13960", source: "30211", target: "13960" } 
+}, {
+ data: { id: "30211-27635", source: "30211", target: "27635" } 
+}, {
+ data: { id: "30211-12814", source: "30211", target: "12814" } 
+}, {
+ data: { id: "30211-35220", source: "30211", target: "35220" } 
+}, {
+ data: { id: "30211-10952", source: "30211", target: "10952" } 
+}, {
+ data: { id: "30211-6944", source: "30211", target: "6944" } 
+}, {
+ data: { id: "35194-15712", source: "35194", target: "15712" } 
+}, {
+ data: { id: "35194-20412", source: "35194", target: "20412" } 
+}, {
+ data: { id: "35194-48823", source: "35194", target: "48823" } 
+}, {
+ data: { id: "35194-26841", source: "35194", target: "26841" } 
+}, {
+ data: { id: "35194-30535", source: "35194", target: "30535" } 
+}, {
+ data: { id: "35194-28413", source: "35194", target: "28413" } 
+}, {
+ data: { id: "35194-52845", source: "35194", target: "52845" } 
+}, {
+ data: { id: "35194-11360", source: "35194", target: "11360" } 
+}, {
+ data: { id: "35194-56190", source: "35194", target: "56190" } 
+}, {
+ data: { id: "35194-10917", source: "35194", target: "10917" } 
+}, {
+ data: { id: "35194-15601", source: "35194", target: "15601" } 
+}, {
+ data: { id: "35194-20533", source: "35194", target: "20533" } 
+}, {
+ data: { id: "53253-22572", source: "53253", target: "22572" } 
+}, {
+ data: { id: "53253-26841", source: "53253", target: "26841" } 
+}, {
+ data: { id: "53253-52845", source: "53253", target: "52845" } 
+}, {
+ data: { id: "53253-15298", source: "53253", target: "15298" } 
+}, {
+ data: { id: "53253-11360", source: "53253", target: "11360" } 
+}, {
+ data: { id: "53253-56190", source: "53253", target: "56190" } 
+}, {
+ data: { id: "53253-10917", source: "53253", target: "10917" } 
+}, {
+ data: { id: "53253-15601", source: "53253", target: "15601" } 
+}, {
+ data: { id: "53253-8701", source: "53253", target: "8701" } 
+}, {
+ data: { id: "13960-16079", source: "13960", target: "16079" } 
+}, {
+ data: { id: "13960-57618", source: "13960", target: "57618" } 
+}, {
+ data: { id: "13960-41691", source: "13960", target: "41691" } 
+}, {
+ data: { id: "13960-54376", source: "13960", target: "54376" } 
+}, {
+ data: { id: "13960-12130", source: "13960", target: "12130" } 
+}, {
+ data: { id: "13960-7996", source: "13960", target: "7996" } 
+}, {
+ data: { id: "13960-9762", source: "13960", target: "9762" } 
+}, {
+ data: { id: "13960-15601", source: "13960", target: "15601" } 
+}, {
+ data: { id: "13960-11787", source: "13960", target: "11787" } 
+}, {
+ data: { id: "13960-12254", source: "13960", target: "12254" } 
+}, {
+ data: { id: "13960-15807", source: "13960", target: "15807" } 
+}, {
+ data: { id: "13960-53268", source: "13960", target: "53268" } 
+}, {
+ data: { id: "13960-48823", source: "13960", target: "48823" } 
+}, {
+ data: { id: "13960-36082", source: "13960", target: "36082" } 
+}, {
+ data: { id: "13960-27408", source: "13960", target: "27408" } 
+}, {
+ data: { id: "13960-31676", source: "13960", target: "31676" } 
+}, {
+ data: { id: "13960-30207", source: "13960", target: "30207" } 
+}, {
+ data: { id: "13960-22929", source: "13960", target: "22929" } 
+}, {
+ data: { id: "13960-40977", source: "13960", target: "40977" } 
+}, {
+ data: { id: "10952-30207", source: "10952", target: "30207" } 
+}, {
+ data: { id: "6944-15712", source: "6944", target: "15712" } 
+}, {
+ data: { id: "6944-20412", source: "6944", target: "20412" } 
+}, {
+ data: { id: "6944-30207", source: "6944", target: "30207" } 
+}, {
+ data: { id: "6944-26841", source: "6944", target: "26841" } 
+}, {
+ data: { id: "6944-57841", source: "6944", target: "57841" } 
+}, {
+ data: { id: "6944-15298", source: "6944", target: "15298" } 
+}, {
+ data: { id: "6944-11360", source: "6944", target: "11360" } 
+}, {
+ data: { id: "6944-14463", source: "6944", target: "14463" } 
+}, {
+ data: { id: "38789-30535", source: "38789", target: "30535" } 
+}, {
+ data: { id: "11360-44216", source: "11360", target: "44216" } 
+}, {
+ data: { id: "11360-22572", source: "11360", target: "22572" } 
+}, {
+ data: { id: "11360-13416", source: "11360", target: "13416" } 
+}, {
+ data: { id: "11360-25802", source: "11360", target: "25802" } 
+}, {
+ data: { id: "8701-12130", source: "8701", target: "12130" } 
+}, {
+ data: { id: "8701-25802", source: "8701", target: "25802" } 
+}, {
+ data: { id: "8701-34119", source: "8701", target: "34119" } 
+}, {
+ data: { id: "8701-44216", source: "8701", target: "44216" } 
+}, {
+ data: { id: "55269-14018", source: "55269", target: "14018" } 
+}, {
+ data: { id: "55269-11787", source: "55269", target: "11787" } 
+}, {
+ data: { id: "55269-30207", source: "55269", target: "30207" } 
+}, {
+ data: { id: "55269-14027", source: "55269", target: "14027" } 
+}, {
+ data: { id: "55269-22929", source: "55269", target: "22929" } 
+}, {
+ data: { id: "14321-30207", source: "14321", target: "30207" } 
+}, {
+ data: { id: "14027-31676", source: "14027", target: "31676" } 
+}, {
+ data: { id: "14027-30207", source: "14027", target: "30207" } 
+}, {
+ data: { id: "14027-19686", source: "14027", target: "19686" } 
+}, {
+ data: { id: "14027-19682", source: "14027", target: "19682" } 
+}, {
+ data: { id: "14027-7996", source: "14027", target: "7996" } 
+}, {
+ data: { id: "14027-7207", source: "14027", target: "7207" } 
+}, {
+ data: { id: "14027-11787", source: "14027", target: "11787" } 
+}, {
+ data: { id: "56190-22572", source: "56190", target: "22572" } 
+}, {
+ data: { id: "56190-34119", source: "56190", target: "34119" } 
+}, {
+ data: { id: "56190-13416", source: "56190", target: "13416" } 
+}, {
+ data: { id: "25802-20412", source: "25802", target: "20412" } 
+}, {
+ data: { id: "25802-26841", source: "25802", target: "26841" } 
+}, {
+ data: { id: "25802-28413", source: "25802", target: "28413" } 
+}, {
+ data: { id: "25802-30207", source: "25802", target: "30207" } 
+}, {
+ data: { id: "25802-15712", source: "25802", target: "15712" } 
+}, {
+ data: { id: "26206-13024", source: "26206", target: "13024" } 
+}, {
+ data: { id: "31676-16079", source: "31676", target: "16079" } 
+}, {
+ data: { id: "31676-14017", source: "31676", target: "14017" } 
+}, {
+ data: { id: "31676-11787", source: "31676", target: "11787" } 
+}, {
+ data: { id: "31676-12254", source: "31676", target: "12254" } 
+}, {
+ data: { id: "34119-20412", source: "34119", target: "20412" } 
+}, {
+ data: { id: "34119-22572", source: "34119", target: "22572" } 
+}, {
+ data: { id: "34119-21064", source: "34119", target: "21064" } 
+}, {
+ data: { id: "49351-14018", source: "49351", target: "14018" } 
+}, {
+ data: { id: "49351-12395", source: "49351", target: "12395" } 
+}, {
+ data: { id: "49351-14195", source: "49351", target: "14195" } 
+}, {
+ data: { id: "13024-15712", source: "13024", target: "15712" } 
+}, {
+ data: { id: "13024-30207", source: "13024", target: "30207" } 
+}, {
+ data: { id: "13024-10917", source: "13024", target: "10917" } 
+}, {
+ data: { id: "35220-12395", source: "35220", target: "12395" } 
+}, {
+ data: { id: "35220-30207", source: "35220", target: "30207" } 
+}, {
+ data: { id: "35220-13416", source: "35220", target: "13416" } 
+}, {
+ data: { id: "14666-14018", source: "14666", target: "14018" } 
+}, {
+ data: { id: "12395-22929", source: "12395", target: "22929" } 
+}, {
+ data: { id: "12395-44216", source: "12395", target: "44216" } 
+}, {
+ data: { id: "12395-15601", source: "12395", target: "15601" } 
+}, {
+ data: { id: "12395-11787", source: "12395", target: "11787" } 
+}, {
+ data: { id: "12395-40977", source: "12395", target: "40977" } 
+}, {
+ data: { id: "16079-53268", source: "16079", target: "53268" } 
+}, {
+ data: { id: "16079-8284", source: "16079", target: "8284" } 
+}, {
+ data: { id: "16079-54376", source: "16079", target: "54376" } 
+}, {
+ data: { id: "16079-30207", source: "16079", target: "30207" } 
+}, {
+ data: { id: "16079-26841", source: "16079", target: "26841" } 
+}, {
+ data: { id: "16079-12130", source: "16079", target: "12130" } 
+}, {
+ data: { id: "16079-36082", source: "16079", target: "36082" } 
+}, {
+ data: { id: "16079-57618", source: "16079", target: "57618" } 
+}, {
+ data: { id: "16079-48823", source: "16079", target: "48823" } 
+}, {
+ data: { id: "16079-9762", source: "16079", target: "9762" } 
+}, {
+ data: { id: "16079-11787", source: "16079", target: "11787" } 
+}, {
+ data: { id: "16079-27408", source: "16079", target: "27408" } 
+}, {
+ data: { id: "16079-12254", source: "16079", target: "12254" } 
+}, {
+ data: { id: "16079-15807", source: "16079", target: "15807" } 
+}, {
+ data: { id: "16079-41691", source: "16079", target: "41691" } 
+}, {
+ data: { id: "57618-12254", source: "57618", target: "12254" } 
+}, {
+ data: { id: "57618-12130", source: "57618", target: "12130" } 
+}, {
+ data: { id: "57618-27408", source: "57618", target: "27408" } 
+}, {
+ data: { id: "28413-14463", source: "28413", target: "14463" } 
+}, {
+ data: { id: "28413-44216", source: "28413", target: "44216" } 
+}, {
+ data: { id: "15712-22572", source: "15712", target: "22572" } 
+}, {
+ data: { id: "15712-30207", source: "15712", target: "30207" } 
+}, {
+ data: { id: "7675-8284", source: "7675", target: "8284" } 
+}, {
+ data: { id: "7675-30207", source: "7675", target: "30207" } 
+}, {
+ data: { id: "15298-8284", source: "15298", target: "8284" } 
+}, {
+ data: { id: "15298-30207", source: "15298", target: "30207" } 
+}, {
+ data: { id: "15298-53268", source: "15298", target: "53268" } 
+}, {
+ data: { id: "15298-30535", source: "15298", target: "30535" } 
+}, {
+ data: { id: "15298-48823", source: "15298", target: "48823" } 
+}, {
+ data: { id: "15298-44216", source: "15298", target: "44216" } 
+}, {
+ data: { id: "15298-9762", source: "15298", target: "9762" } 
+}, {
+ data: { id: "15298-15601", source: "15298", target: "15601" } 
+}, {
+ data: { id: "15298-13416", source: "15298", target: "13416" } 
+}, {
+ data: { id: "15298-20533", source: "15298", target: "20533" } 
+}, {
+ data: { id: "7207-14017", source: "7207", target: "14017" } 
+}, {
+ data: { id: "7207-14018", source: "7207", target: "14018" } 
+}, {
+ data: { id: "7207-22929", source: "7207", target: "22929" } 
+}, {
+ data: { id: "14463-20412", source: "14463", target: "20412" } 
+}, {
+ data: { id: "14463-12130", source: "14463", target: "12130" } 
+}, {
+ data: { id: "14463-9762", source: "14463", target: "9762" } 
+}, {
+ data: { id: "14463-15601", source: "14463", target: "15601" } 
+}, {
+ data: { id: "14463-8284", source: "14463", target: "8284" } 
+}, {
+ data: { id: "14463-44216", source: "14463", target: "44216" } 
+}, {
+ data: { id: "14463-13416", source: "14463", target: "13416" } 
+}, {
+ data: { id: "14463-12254", source: "14463", target: "12254" } 
+}, {
+ data: { id: "14463-15807", source: "14463", target: "15807" } 
+}, {
+ data: { id: "14463-57841", source: "14463", target: "57841" } 
+}, {
+ data: { id: "14463-30207", source: "14463", target: "30207" } 
+}, {
+ data: { id: "14463-27635", source: "14463", target: "27635" } 
+}, {
+ data: { id: "14463-12814", source: "14463", target: "12814" } 
+}, {
+ data: { id: "54376-12254", source: "54376", target: "12254" } 
+}, {
+ data: { id: "54376-12130", source: "54376", target: "12130" } 
+}, {
+ data: { id: "54376-53268", source: "54376", target: "53268" } 
+}, {
+ data: { id: "26841-15601", source: "26841", target: "15601" } 
+}, {
+ data: { id: "26841-44216", source: "26841", target: "44216" } 
+}, {
+ data: { id: "14195-12130", source: "14195", target: "12130" } 
+}, {
+ data: { id: "14195-48823", source: "14195", target: "48823" } 
+}, {
+ data: { id: "14195-44216", source: "14195", target: "44216" } 
+}, {
+ data: { id: "14195-14018", source: "14195", target: "14018" } 
+}, {
+ data: { id: "14195-12254", source: "14195", target: "12254" } 
+}, {
+ data: { id: "14195-10551", source: "14195", target: "10551" } 
+}, {
+ data: { id: "14195-36082", source: "14195", target: "36082" } 
+}, {
+ data: { id: "44216-30207", source: "44216", target: "30207" } 
+}, {
+ data: { id: "44216-55181", source: "44216", target: "55181" } 
+}, {
+ data: { id: "44216-57841", source: "44216", target: "57841" } 
+}, {
+ data: { id: "44216-10917", source: "44216", target: "10917" } 
+}, {
+ data: { id: "44216-12814", source: "44216", target: "12814" } 
+}, {
+ data: { id: "44216-15601", source: "44216", target: "15601" } 
+}, {
+ data: { id: "44216-11787", source: "44216", target: "11787" } 
+}, {
+ data: { id: "44216-12254", source: "44216", target: "12254" } 
+}, {
+ data: { id: "39607-30207", source: "39607", target: "30207" } 
+}, {
+ data: { id: "39607-22929", source: "39607", target: "22929" } 
+}, {
+ data: { id: "11787-27408", source: "11787", target: "27408" } 
+}, {
+ data: { id: "11787-8284", source: "11787", target: "8284" } 
+}, {
+ data: { id: "11787-48823", source: "11787", target: "48823" } 
+}, {
+ data: { id: "11787-30207", source: "11787", target: "30207" } 
+}, {
+ data: { id: "11787-19686", source: "11787", target: "19686" } 
+}, {
+ data: { id: "11787-19682", source: "11787", target: "19682" } 
+}, {
+ data: { id: "11787-12130", source: "11787", target: "12130" } 
+}, {
+ data: { id: "11787-7996", source: "11787", target: "7996" } 
+}, {
+ data: { id: "11787-12254", source: "11787", target: "12254" } 
+}, {
+ data: { id: "11787-15601", source: "11787", target: "15601" } 
+}, {
+ data: { id: "12254-41691", source: "12254", target: "41691" } 
+}, {
+ data: { id: "12254-12130", source: "12254", target: "12130" } 
+}, {
+ data: { id: "12254-7996", source: "12254", target: "7996" } 
+}, {
+ data: { id: "12254-9762", source: "12254", target: "9762" } 
+}, {
+ data: { id: "12254-15601", source: "12254", target: "15601" } 
+}, {
+ data: { id: "12254-13416", source: "12254", target: "13416" } 
+}, {
+ data: { id: "12254-15807", source: "12254", target: "15807" } 
+}, {
+ data: { id: "12254-36082", source: "12254", target: "36082" } 
+}, {
+ data: { id: "12254-27408", source: "12254", target: "27408" } 
+}, {
+ data: { id: "12254-48823", source: "12254", target: "48823" } 
+}, {
+ data: { id: "12254-30207", source: "12254", target: "30207" } 
+}, {
+ data: { id: "12254-12814", source: "12254", target: "12814" } 
+}, {
+ data: { id: "15807-27408", source: "15807", target: "27408" } 
+}, {
+ data: { id: "15807-22929", source: "15807", target: "22929" } 
+}, {
+ data: { id: "15807-12130", source: "15807", target: "12130" } 
+}, {
+ data: { id: "15807-15601", source: "15807", target: "15601" } 
+}, {
+ data: { id: "53268-8284", source: "53268", target: "8284" } 
+}, {
+ data: { id: "48823-22929", source: "48823", target: "22929" } 
+}, {
+ data: { id: "48823-21064", source: "48823", target: "21064" } 
+}, {
+ data: { id: "48823-12130", source: "48823", target: "12130" } 
+}, {
+ data: { id: "48823-7996", source: "48823", target: "7996" } 
+}, {
+ data: { id: "48823-30207", source: "48823", target: "30207" } 
+}, {
+ data: { id: "27408-22929", source: "27408", target: "22929" } 
+}, {
+ data: { id: "27408-30207", source: "27408", target: "30207" } 
+}, {
+ data: { id: "27408-55181", source: "27408", target: "55181" } 
+}, {
+ data: { id: "27408-19686", source: "27408", target: "19686" } 
+}, {
+ data: { id: "27408-12130", source: "27408", target: "12130" } 
+}, {
+ data: { id: "30207-12130", source: "30207", target: "12130" } 
+}, {
+ data: { id: "30207-30535", source: "30207", target: "30535" } 
+}, {
+ data: { id: "30207-7996", source: "30207", target: "7996" } 
+}, {
+ data: { id: "30207-9762", source: "30207", target: "9762" } 
+}, {
+ data: { id: "30207-15601", source: "30207", target: "15601" } 
+}, {
+ data: { id: "30207-8284", source: "30207", target: "8284" } 
+}, {
+ data: { id: "30207-22572", source: "30207", target: "22572" } 
+}, {
+ data: { id: "30207-13416", source: "30207", target: "13416" } 
+}, {
+ data: { id: "30207-10917", source: "30207", target: "10917" } 
+}, {
+ data: { id: "30207-14017", source: "30207", target: "14017" } 
+}, {
+ data: { id: "30207-20533", source: "30207", target: "20533" } 
+}, {
+ data: { id: "22929-12130", source: "22929", target: "12130" } 
+}, {
+ data: { id: "22929-14017", source: "22929", target: "14017" } 
+}, {
+ data: { id: "22929-12814", source: "22929", target: "12814" } 
+}, {
+ data: { id: "22929-20533", source: "22929", target: "20533" } 
+}, {
+ data: { id: "22929-10551", source: "22929", target: "10551" } 
+}, {
+ data: { id: "20412-13416", source: "20412", target: "13416" } 
+}, {
+ data: { id: "20412-20533", source: "20412", target: "20533" } 
+}, {
+ data: { id: "12130-41691", source: "12130", target: "41691" } 
+}, {
+ data: { id: "12130-9762", source: "12130", target: "9762" } 
+}, {
+ data: { id: "12130-15601", source: "12130", target: "15601" } 
+}, {
+ data: { id: "12130-21064", source: "12130", target: "21064" } 
+}, {
+ data: { id: "12130-36082", source: "12130", target: "36082" } 
+}, {
+ data: { id: "12130-10551", source: "12130", target: "10551" } 
+}, {
+ data: { id: "30535-15601", source: "30535", target: "15601" } 
+}, {
+ data: { id: "30535-13416", source: "30535", target: "13416" } 
+}, {
+ data: { id: "15601-12814", source: "15601", target: "12814" } 
+}, {
+ data: { id: "15601-13416", source: "15601", target: "13416" } 
+}, {
+ data: { id: "15601-20533", source: "15601", target: "20533" } 
+}, {
+ data: { id: "10551-14018", source: "10551", target: "14018" } 
+}, {
+ data: { id: "10551-14017", source: "10551", target: "14017" } 
+}, {
+ data: { id: "8284-22572", source: "8284", target: "22572" } 
+}, {
+ data: { id: "8284-19686", source: "8284", target: "19686" } 
+}, {
+ data: { id: "8284-10917", source: "8284", target: "10917" } 
+}, {
+ data: { id: "13416-22572", source: "13416", target: "22572" } 
+}, {
+ data: { id: "13416-57841", source: "13416", target: "57841" } 
+}, {
+ data: { id: "13416-10917", source: "13416", target: "10917" } 
+}, {
+ data: { id: "13416-14017", source: "13416", target: "14017" } 
+}, {
+ data: { id: "55181-14018", source: "55181", target: "14018" } 
+}, {
+ data: { id: "55181-14017", source: "55181", target: "14017" } 
+}, {
+ data: { id: "22572-10917", source: "22572", target: "10917" } 
+}, {
+ data: { id: "14018-14017", source: "14018", target: "14017" } 
+}, {
+ data: { id: "36755-55980", source: "36755", target: "55980" } 
+}, {
+ data: { id: "48823-55980", source: "48823", target: "55980" } 
+}, {
+ data: { id: "14017-55980", source: "14017", target: "55980" } 
+}, {
+ data: { id: "14463-55980", source: "14463", target: "55980" } 
+}, {
+ data: { id: "12395-55980", source: "12395", target: "55980" } 
+}, {
+ data: { id: "34542-61549", source: "34542", target: "61549" } 
+}, {
+ data: { id: "34542-9708", source: "34542", target: "9708" } 
+}, {
+ data: { id: "27408-9708", source: "27408", target: "9708" } 
+}, {
+ data: { id: "21064-9708", source: "21064", target: "9708" } 
+}, {
+ data: { id: "34119-9708", source: "34119", target: "9708" } 
+}, {
+ data: { id: "15369-9708", source: "15369", target: "9708" } 
+}, {
+ data: { id: "13024-9708", source: "13024", target: "9708" } 
+}, {
+ data: { id: "53268-9708", source: "53268", target: "9708" } 
+}, {
+ data: { id: "52845-9708", source: "52845", target: "9708" } 
+}, {
+ data: { id: "22929-9708", source: "22929", target: "9708" } 
+}, {
+ data: { id: "56190-9708", source: "56190", target: "9708" } 
+}, {
+ data: { id: "13960-9708", source: "13960", target: "9708" } 
+}, {
+ data: { id: "14017-9708", source: "14017", target: "9708" } 
+}, {
+ data: { id: "22572-9708", source: "22572", target: "9708" } 
+}, {
+ data: { id: "12395-9708", source: "12395", target: "9708" } 
+}, {
+ data: { id: "15152-9708", source: "15152", target: "9708" } 
+}, {
+ data: { id: "40977-9708", source: "40977", target: "9708" } 
+}, {
+ data: { id: "28982-9487", source: "28982", target: "9487" } 
+}, {
+ data: { id: "28982-30211", source: "28982", target: "30211" } 
+}, {
+ data: { id: "13024-28982", source: "13024", target: "28982" } 
+}, {
+ data: { id: "28982-30207", source: "28982", target: "30207" } 
+}, {
+ data: { id: "12130-28982", source: "12130", target: "28982" } 
+}, {
+ data: { id: "11875-28982", source: "11875", target: "28982" } 
+}, {
+ data: { id: "28982-44216", source: "28982", target: "44216" } 
+}, {
+ data: { id: "13416-28982", source: "13416", target: "28982" } 
+}, {
+ data: { id: "14463-28982", source: "14463", target: "28982" } 
+}, {
+ data: { id: "12254-28982", source: "12254", target: "28982" } 
+}, {
+ data: { id: "25802-28982", source: "25802", target: "28982" } 
+}, {
+ data: { id: "28982-55269", source: "28982", target: "55269" } 
+}, {
+ data: { id: "11345-14787", source: "11345", target: "14787" } 
+}, {
+ data: { id: "11345-31676", source: "11345", target: "31676" } 
+}, {
+ data: { id: "11345-14018", source: "11345", target: "14018" } 
+}, {
+ data: { id: "11345-15369", source: "11345", target: "15369" } 
+}, {
+ data: { id: "11345-49351", source: "11345", target: "49351" } 
+}, {
+ data: { id: "11345-14027", source: "11345", target: "14027" } 
+}, {
+ data: { id: "11345-22929", source: "11345", target: "22929" } 
+}, {
+ data: { id: "11345-48823", source: "11345", target: "48823" } 
+}, {
+ data: { id: "11345-14017", source: "11345", target: "14017" } 
+}, {
+ data: { id: "11345-7207", source: "11345", target: "7207" } 
+}, {
+ data: { id: "11345-14641", source: "11345", target: "14641" } 
+}, {
+ data: { id: "11345-9762", source: "11345", target: "9762" } 
+}, {
+ data: { id: "11345-11787", source: "11345", target: "11787" } 
+}, {
+ data: { id: "11345-14463", source: "11345", target: "14463" } 
+}, {
+ data: { id: "11345-12254", source: "11345", target: "12254" } 
+}, {
+ data: { id: "10551-11345", source: "10551", target: "11345" } 
+}, {
+ data: { id: "11345-15807", source: "11345", target: "15807" } 
+}, {
+ data: { id: "44229-50044", source: "44229", target: "50044" } 
+}, {
+ data: { id: "44208-44229", source: "44208", target: "44229" } 
+}, {
+ data: { id: "44229-57618", source: "44229", target: "57618" } 
+}, {
+ data: { id: "44216-44229", source: "44216", target: "44229" } 
+}, {
+ data: { id: "44229-44244", source: "44229", target: "44244" } 
+}, {
+ data: { id: "51034-9852", source: "51034", target: "9852" } 
+}, {
+ data: { id: "16079-9852", source: "16079", target: "9852" } 
+}, {
+ data: { id: "30211-9852", source: "30211", target: "9852" } 
+}, {
+ data: { id: "15712-9852", source: "15712", target: "9852" } 
+}, {
+ data: { id: "7675-9852", source: "7675", target: "9852" } 
+}, {
+ data: { id: "11831-9852", source: "11831", target: "9852" } 
+}, {
+ data: { id: "9708-9852", source: "9708", target: "9852" } 
+}, {
+ data: { id: "27635-9852", source: "27635", target: "9852" } 
+}, {
+ data: { id: "48823-9852", source: "48823", target: "9852" } 
+}, {
+ data: { id: "44216-9852", source: "44216", target: "9852" } 
+}, {
+ data: { id: "14463-9852", source: "14463", target: "9852" } 
+}, {
+ data: { id: "25802-9852", source: "25802", target: "9852" } 
+}, {
+ data: { id: "10555-43651", source: "10555", target: "43651" } 
+}, {
+ data: { id: "10555-16079", source: "10555", target: "16079" } 
+}, {
+ data: { id: "10555-30211", source: "10555", target: "30211" } 
+}, {
+ data: { id: "10555-27408", source: "10555", target: "27408" } 
+}, {
+ data: { id: "10555-44244", source: "10555", target: "44244" } 
+}, {
+ data: { id: "10555-30207", source: "10555", target: "30207" } 
+}, {
+ data: { id: "10555-22929", source: "10555", target: "22929" } 
+}, {
+ data: { id: "10555-9708", source: "10555", target: "9708" } 
+}, {
+ data: { id: "10555-12130", source: "10555", target: "12130" } 
+}, {
+ data: { id: "10555-11875", source: "10555", target: "11875" } 
+}, {
+ data: { id: "10555-13960", source: "10555", target: "13960" } 
+}, {
+ data: { id: "10555-35220", source: "10555", target: "35220" } 
+}, {
+ data: { id: "10555-28982", source: "10555", target: "28982" } 
+}, {
+ data: { id: "10555-11787", source: "10555", target: "11787" } 
+}, {
+ data: { id: "10555-13416", source: "10555", target: "13416" } 
+}, {
+ data: { id: "10555-14463", source: "10555", target: "14463" } 
+}, {
+ data: { id: "10555-12254", source: "10555", target: "12254" } 
+}, {
+ data: { id: "10555-15807", source: "10555", target: "15807" } 
+}
+]

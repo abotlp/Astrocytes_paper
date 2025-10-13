@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031625	ubiquitin protein ligase binding	6	39	0.000150680485987	0.0369167190667

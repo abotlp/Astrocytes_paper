@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	20	34	1.16431046212e-27	6.22906097236e-25
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	8	18	2.07155785263e-10	1.10828345116e-07
+R-HSA-5628897	TP53 Regulates Metabolic Genes	13	78	4.65169770884e-10	2.48865827423e-07
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	7	36	1.87376628627e-06	0.00100246496315
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	5	17	6.70585937985e-06	0.00358763476822
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	9	84	1.09465810745e-05	0.00585642087483
+R-HSA-211163	AKT-mediated inactivation of FOXO1A	3	4	1.8551831762e-05	0.00992522999266
+R-HSA-5696395	Formation of Incision Complex in GG-NER	6	35	2.25836092226e-05	0.0120822309341
+R-HSA-5696400	Dual Incision in GG-NER	6	36	2.67255778105e-05	0.0142981841286
+R-HSA-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	7	57	4.41048198298e-05	0.0235960786089
+R-HSA-6782135	Dual incision in TC-NER	7	58	4.94557664638e-05	0.0264588350581

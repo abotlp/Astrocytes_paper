@@ -1,0 +1,10 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0018108	peptidyl-tyrosine phosphorylation	18	43	1.59767597894e-09	4.66681153449e-06
+GO:1904646	cellular response to amyloid-beta	13	32	4.69060161163e-07	0.00137012473076
+GO:1904294	positive regulation of ERAD pathway	8	13	1.57659201281e-06	0.00460522526943
+GO:0045429	positive regulation of nitric oxide biosynthetic process	11	26	2.25353522012e-06	0.00658257637796
+GO:0035094	response to nicotine	5	5	3.41834483576e-06	0.00998498526525
+GO:0043525	positive regulation of neuron apoptotic process	10	23	4.89211892673e-06	0.014289879385
+GO:0008284	positive regulation of cell population proliferation	41	249	8.33958895278e-06	0.0243599393311
+GO:0017148	negative regulation of translation	16	59	1.15370056864e-05	0.0336995936101
+GO:1903078	positive regulation of protein localization to plasma membrane	13	41	1.19829180212e-05	0.03500210354

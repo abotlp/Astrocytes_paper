@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0043426	MRF binding	4	4	2.59297501134e-06	0.00124203503043
+GO:0030332	cyclin binding	5	8	5.23013015174e-06	0.00125261617134
+GO:0004721	phosphoprotein phosphatase activity	7	22	1.63904522129e-05	0.00261700886999
+GO:0070888	E-box binding	8	39	0.000131739808723	0.0157758420946
+GO:0003684	damaged DNA binding	7	31	0.000184706911918	0.0176949221618

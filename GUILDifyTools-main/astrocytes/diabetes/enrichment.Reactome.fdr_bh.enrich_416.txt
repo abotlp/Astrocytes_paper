@@ -1,0 +1,95 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	24	104	2.22909027094e-11	2.28035934717e-08
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	22	97	2.2188365874e-10	7.56623276303e-08
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	1.99040581916e-10	7.56623276303e-08
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	11	22	6.29109707619e-10	1.60894807724e-07
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	19	83	3.25541133895e-09	6.66057159948e-07
+R-HSA-6783783	Interleukin-10 signaling	13	43	2.8605942889e-08	4.87731326258e-06
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	10	27	1.33809127225e-07	1.95552481644e-05
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	13	49	1.60226718933e-07	2.04889916835e-05
+R-HSA-9818749	Regulation of NFE2L2 gene expression	6	8	2.11936622943e-07	2.40901294745e-05
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	6.11571517272e-07	6.25637662169e-05
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	6	11	3.11235248753e-06	0.00028944878134
+R-HSA-1368082	RORA activates gene expression	7	18	7.50640430987e-06	0.000639920967416
+R-HSA-74713	IRS activation	4	5	1.97493643542e-05	0.0012690661613
+R-HSA-9707616	Heme signaling	10	44	1.97147076087e-05	0.0012690661613
+R-HSA-74749	Signal attenuation	5	9	1.98485421122e-05	0.0012690661613
+R-HSA-9759194	Nuclear events mediated by NFE2L2	5	9	1.98485421122e-05	0.0012690661613
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	8	28	2.25999808305e-05	0.00135998708174
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	16	110	3.1485984272e-05	0.00176936343763
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	12	66	3.28620775317e-05	0.00176936343763
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	6	17	6.60971424669e-05	0.00265539723358
+R-HSA-383280	Nuclear Receptor transcription pathway	10	50	6.40078532157e-05	0.00265539723358
+R-HSA-2586552	Signaling by Leptin	5	11	6.74881017332e-05	0.00265539723358
+R-HSA-9818030	NFE2L2 regulating tumorigenic genes	5	11	6.74881017332e-05	0.00265539723358
+R-HSA-5660668	CLEC7A/inflammasome pathway	4	6	5.71305640824e-05	0.00265539723358
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	6.74881017332e-05	0.00265539723358
+R-HSA-1989781	PPARA activates gene expression	16	115	5.49090521247e-05	0.00265539723358
+R-HSA-8957275	Post-translational protein phosphorylation	14	95	8.45288294011e-05	0.00320270342509
+R-HSA-5218921	VEGFR2 mediated cell proliferation	6	18	9.53925115476e-05	0.00336505307976
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	6	18	9.53925115476e-05	0.00336505307976
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	8	34	0.000103981947785	0.00354578441947
+R-HSA-4090294	SUMOylation of intracellular receptors	7	27	0.000147049797172	0.00485264330669
+R-HSA-8854691	Interleukin-20 family signaling	6	20	0.000184395005126	0.00589487782011
+R-HSA-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	6	21	0.000248404665669	0.00747405802879
+R-HSA-5621575	CD209 (DC-SIGN) signaling	6	21	0.000248404665669	0.00747405802879
+R-HSA-198323	AKT phosphorylates targets in the cytosol	5	14	0.00026123052627	0.00763539509641
+R-HSA-982772	Growth hormone receptor signaling	6	22	0.000328669437397	0.00933968984602
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	9	50	0.000344314892628	0.00951984149077
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	4	9	0.000430401284323	0.0112897567657
+R-HSA-5668599	RHO GTPases Activate NADPH Oxidases	6	23	0.000427907153164	0.0112897567657
+R-HSA-9634638	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	6	24	0.000549052852279	0.014042026697
+R-HSA-9818564	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	4	10	0.000691851208855	0.0161645667039
+R-HSA-9660826	Purinergic signaling in leishmaniasis infection	6	25	0.000695250180813	0.0161645667039
+R-HSA-1234158	Regulation of gene expression by Hypoxia-inducible Factor	4	10	0.000691851208855	0.0161645667039
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	4	10	0.000691851208855	0.0161645667039
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	5	17	0.000721521273977	0.0164025836284
+R-HSA-9755511	KEAP1-NFE2L2 pathway	9	56	0.000819337755368	0.0181846213968
+R-HSA-9818026	NFE2L2 regulating inflammation associated genes	3	5	0.00085323736759	0.0181846213968
+R-HSA-9818035	NFE2L2 regulating ER-stress associated genes	3	5	0.00085323736759	0.0181846213968
+R-HSA-4641265	Repression of WNT target genes	4	11	0.00104863012722	0.0218928289825
+R-HSA-163560	Triglyceride catabolism	5	19	0.00125812348925	0.0252364770491
+R-HSA-1250196	SHC1 events in ERBB2 signaling	5	19	0.00125812348925	0.0252364770491
+R-HSA-400206	Regulation of lipid metabolism by PPARalpha	5	20	0.00161603298399	0.0276603129022
+R-HSA-392154	Nitric oxide stimulates guanylate cyclase	3	6	0.0016493441711	0.0276603129022
+R-HSA-6804757	Regulation of TP53 Degradation	6	29	0.00160009571512	0.0276603129022
+R-HSA-112412	SOS-mediated signalling	3	6	0.0016493441711	0.0276603129022
+R-HSA-9768919	NPAS4 regulates expression of target genes	5	20	0.00161603298399	0.0276603129022
+R-HSA-9009391	Extra-nuclear estrogen signaling	8	50	0.00163305047624	0.0276603129022
+R-HSA-210747	Regulation of gene expression in early pancreatic precursor cells	3	6	0.0016493441711	0.0276603129022
+R-HSA-2428928	IRS-related events triggered by IGF1R	3	6	0.0016493441711	0.0276603129022
+R-HSA-9844594	Transcriptional regulation of brown and beige adipocyte differentiation by EBF2	6	29	0.00160009571512	0.0276603129022
+R-HSA-400253	Circadian Clock	8	50	0.00163305047624	0.0276603129022
+R-HSA-9018519	Estrogen-dependent gene expression	13	113	0.00169030470668	0.0278900276602
+R-HSA-3899300	SUMOylation of transcription cofactors	7	40	0.00185901763059	0.0301869053349
+R-HSA-74752	Signaling by Insulin receptor	2	2	0.00203293840096	0.0319953228336
+R-HSA-167826	The fatty acid cycling model	2	2	0.00203293840096	0.0319953228336
+R-HSA-8939902	Regulation of RUNX2 expression and activity	8	53	0.00239595111285	0.0365829550514
+R-HSA-9707564	Cytoprotection by HMOX1	8	53	0.00239595111285	0.0365829550514
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	7	42	0.00248922557588	0.0369054748424
+R-HSA-418597	G alpha (z) signalling events	7	42	0.00248922557588	0.0369054748424
+R-HSA-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	3	7	0.00278994177376	0.037933414954
+R-HSA-69166	Removal of the Flap Intermediate	4	14	0.00285520327611	0.037933414954
+R-HSA-1489509	DAG and IP3 signaling	3	7	0.00278994177376	0.037933414954
+R-HSA-189200	Cellular hexose transport	4	14	0.00285520327611	0.037933414954
+R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	4	14	0.00285520327611	0.037933414954
+R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	4	14	0.00285520327611	0.037933414954
+R-HSA-9635465	Suppression of apoptosis	3	7	0.00278994177376	0.037933414954
+R-HSA-174414	Processive synthesis on the C-strand of the telomere	4	14	0.00285520327611	0.037933414954
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	8	55	0.00304280523421	0.0399075609564
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	0.00375622018108	0.0462965451234
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	7	45	0.00372776568115	0.0462965451234
+R-HSA-210744	Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	4	15	0.00375622018108	0.0462965451234
+R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	6	34	0.00374421031009	0.0462965451234
+R-HSA-9709570	Impaired BRCA2 binding to RAD51	6	34	0.00374421031009	0.0462965451234
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer	5	24	0.00381753438623	0.0464921152038
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	7	46	0.00423006992707	0.0469616507981
+R-HSA-1445148	Translocation of SLC2A4 (GLUT4) to the plasma membrane	8	58	0.00425876020172	0.0469616507981
+R-HSA-9700645	ALK mutants bind TKIs	3	8	0.00431514679865	0.0469616507981
+R-HSA-1358803	Downregulation of ERBB2:ERBB3 signaling	3	8	0.00431514679865	0.0469616507981
+R-HSA-9818028	NFE2L2 regulates pentose phosphate pathway genes	3	8	0.00431514679865	0.0469616507981
+R-HSA-2179392	EGFR Transactivation by Gastrin	3	8	0.00431514679865	0.0469616507981
+R-HSA-74751	Insulin receptor signalling cascade	3	8	0.00431514679865	0.0469616507981
+R-HSA-9818032	NFE2L2 regulating MDR associated enzymes	3	8	0.00431514679865	0.0469616507981
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	10	83	0.00402228935211	0.0469616507981
+R-HSA-450520	HuR (ELAVL1) binds and stabilizes mRNA	3	8	0.00431514679865	0.0469616507981

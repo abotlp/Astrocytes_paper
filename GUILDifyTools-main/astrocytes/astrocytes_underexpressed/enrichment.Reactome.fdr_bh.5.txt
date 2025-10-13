@@ -1,0 +1,86 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	40	83	1.53299405767e-21	1.55445597448e-18
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	36	97	4.90873264555e-15	2.48872745129e-12
+R-HSA-1989781	PPARA activates gene expression	38	115	6.5887708693e-14	2.22700455382e-11
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	19	36	8.28975753812e-12	2.10145353591e-09
+R-HSA-9833110	RSV-host interactions	25	63	1.35286707972e-11	2.74361443768e-09
+R-HSA-9845323	Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)	23	59	1.37591716351e-10	2.32530000633e-08
+R-HSA-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	17	39	4.71112560946e-09	6.82440195427e-07
+R-HSA-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	16	36	9.54450136018e-09	1.2097655474e-06
+R-HSA-9818564	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	8	10	1.03405018318e-07	1.16502987305e-05
+R-HSA-8953750	Transcriptional Regulation by E2F6	14	34	2.61971178279e-07	2.65638774775e-05
+R-HSA-4641265	Repression of WNT target genes	8	11	3.50753799829e-07	3.12642778158e-05
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	17	50	3.69991453442e-07	3.12642778158e-05
+R-HSA-9772755	Formation of WDR5-containing histone-modifying complexes	15	40	4.20109519497e-07	3.27685425208e-05
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	15	42	8.76112844382e-07	6.34556017288e-05
+R-HSA-400206	Regulation of lipid metabolism by PPARalpha	10	20	1.59611928083e-06	0.000107897663384
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	21	83	4.02125081421e-06	0.000254846770351
+R-HSA-1368082	RORA activates gene expression	9	18	5.42982517394e-06	0.000323873101551
+R-HSA-4551638	SUMOylation of chromatin organization proteins	16	54	6.36296087216e-06	0.000358446795798
+R-HSA-400253	Circadian Clock	15	50	1.04523710157e-05	0.000541496324014
+R-HSA-3214815	HDACs deacetylate histones	16	56	1.06804008681e-05	0.000541496324014
+R-HSA-3214858	RMTs methylate histone arginines	14	45	1.2914592277e-05	0.000623590312803
+R-HSA-9793380	Formation of paraxial mesoderm	9	20	1.60381258829e-05	0.00070707215849
+R-HSA-3899300	SUMOylation of transcription cofactors	13	40	1.54871201146e-05	0.00070707215849
+R-HSA-9018519	Estrogen-dependent gene expression	24	113	2.1693458843e-05	0.000916548636119
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	2.51803683149e-05	0.00102131573885
+R-HSA-2151201	Transcriptional activation of mitochondrial biogenesis	14	51	6.17247381098e-05	0.00240726478628
+R-HSA-3214841	PKMTs methylate histone lysines	12	40	8.00558909986e-05	0.00300654346195
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	16	66	9.75954496327e-05	0.00353434949741
+R-HSA-210744	Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	7	15	0.000110899876642	0.00387767154878
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	6	11	0.00011923556748	0.00403016218081
+R-HSA-6804758	Regulation of TP53 Activity through Acetylation	8	20	0.00013336829974	0.00436243406245
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	13	50	0.000205118770318	0.00611736567949
+R-HSA-2179392	EGFR Transactivation by Gastrin	5	8	0.000199450356271	0.00611736567949
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	13	50	0.000205118770318	0.00611736567949
+R-HSA-9707616	Heme signaling	12	44	0.000219868196442	0.00636989574834
+R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian gene expression	9	27	0.000259250052988	0.00730220982584
+R-HSA-427389	ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression	11	39	0.00029025600849	0.00795458358402
+R-HSA-3214847	HATs acetylate histones	20	102	0.0003228580077	0.00861521104759
+R-HSA-350054	Notch-HLH transcription pathway	9	28	0.000353492530944	0.00919080580455
+R-HSA-9844594	Transcriptional regulation of brown and beige adipocyte differentiation by EBF2	9	29	0.000474284511818	0.0120231123746
+R-HSA-5339700	Signaling by TCF7L2 mutants	3	3	0.000615952061801	0.012824826249
+R-HSA-9823730	Formation of definitive endoderm	6	14	0.00061974012446	0.012824826249
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	6	14	0.00061974012446	0.012824826249
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	6	14	0.00061974012446	0.012824826249
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	0.000615952061801	0.012824826249
+R-HSA-8941856	RUNX3 regulates NOTCH signaling	6	14	0.00061974012446	0.012824826249
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	0.000615952061801	0.012824826249
+R-HSA-4570464	SUMOylation of RNA binding proteins	11	42	0.000585195731633	0.012824826249
+R-HSA-352238	Breakdown of the nuclear lamina	3	3	0.000615952061801	0.012824826249
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	4	6	0.000681694244523	0.0135536855676
+R-HSA-112412	SOS-mediated signalling	4	6	0.000681694244523	0.0135536855676
+R-HSA-3371511	HSF1 activation	5	10	0.000776168634657	0.0143097271917
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	5	10	0.000776168634657	0.0143097271917
+R-HSA-9634285	Constitutive Signaling by Overexpressed ERBB2	5	10	0.000776168634657	0.0143097271917
+R-HSA-5655291	Signaling by FGFR4 in disease	5	10	0.000776168634657	0.0143097271917
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	15	72	0.000912584856386	0.0165243043639
+R-HSA-8943724	Regulation of PTEN gene transcription	13	58	0.000964544181326	0.0168628931011
+R-HSA-9665348	Signaling by ERBB2 ECD mutants	6	15	0.000958966956328	0.0168628931011
+R-HSA-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	8	26	0.00104329995454	0.0176317692318
+R-HSA-5655302	Signaling by FGFR1 in disease	8	26	0.00104329995454	0.0176317692318
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	11	46	0.00133177545307	0.0211003173347
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	5	11	0.00132361285729	0.0211003173347
+R-HSA-5654704	SHC-mediated cascade:FGFR3	5	11	0.00132361285729	0.0211003173347
+R-HSA-5621575	CD209 (DC-SIGN) signaling	7	21	0.00127193038467	0.0211003173347
+R-HSA-9761174	Formation of intermediate mesoderm	4	7	0.00148335509116	0.0224495830214
+R-HSA-9823739	Formation of the anterior neural plate	4	7	0.00148335509116	0.0224495830214
+R-HSA-9034864	Activated NTRK3 signals through RAS	4	7	0.00148335509116	0.0224495830214
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	12	55	0.00191528059093	0.0285602135176
+R-HSA-9703465	Signaling by FLT3 fusion proteins	6	17	0.00204478855581	0.0300495013854
+R-HSA-5654688	SHC-mediated cascade:FGFR1	5	12	0.00211096904652	0.0301482058193
+R-HSA-179812	GRB2 events in EGFR signaling	5	12	0.00211096904652	0.0301482058193
+R-HSA-2428933	SHC-related events triggered by IGF1R	4	8	0.00276725982606	0.0374133528483
+R-HSA-74751	Insulin receptor signalling cascade	4	8	0.00276725982606	0.0374133528483
+R-HSA-167044	Signalling to RAS	4	8	0.00276725982606	0.0374133528483
+R-HSA-9026519	Activated NTRK2 signals through RAS	4	8	0.00276725982606	0.0374133528483
+R-HSA-9013695	NOTCH4 Intracellular Domain Regulates Transcription	6	18	0.00284881817753	0.0380092320003
+R-HSA-1963640	GRB2 events in ERBB2 signaling	5	13	0.00319189274955	0.0399577684943
+R-HSA-5654706	FRS-mediated FGFR3 signaling	5	13	0.00319189274955	0.0399577684943
+R-HSA-180336	SHC1 events in EGFR signaling	5	13	0.00319189274955	0.0399577684943
+R-HSA-5654719	SHC-mediated cascade:FGFR4	5	13	0.00319189274955	0.0399577684943
+R-HSA-9027284	Erythropoietin activates RAS	5	13	0.00319189274955	0.0399577684943
+R-HSA-9670439	Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	6	19	0.00386778028547	0.0461403436408
+R-HSA-9665686	Signaling by ERBB2 TMD/JMD mutants	6	19	0.00386778028547	0.0461403436408
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	6	19	0.00386778028547	0.0461403436408
+R-HSA-2028269	Signaling by Hippo	6	19	0.00386778028547	0.0461403436408

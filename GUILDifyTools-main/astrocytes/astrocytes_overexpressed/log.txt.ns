@@ -1,0 +1,2 @@
+Arguments: scoring type s, nRepetition 3, nIteration 2, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/astrocytes_overexpressed/node_scores.txt, edgeFile /home/patricia/BIANA_phy/edge_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/astrocytes_overexpressed/output_scores.txt.ns
+Time: 2843170000 (2843.17s)

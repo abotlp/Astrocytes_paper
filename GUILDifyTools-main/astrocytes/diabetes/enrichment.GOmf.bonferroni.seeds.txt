@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003700	DNA-binding transcription factor activity	20	206	8.84801704544e-06	0.00417626404545
+GO:0005179	hormone activity	7	25	9.27308289553e-06	0.00437689512669
+GO:0004879	nuclear receptor activity	7	26	1.2345616286e-05	0.00582713088698
+GO:0005125	cytokine activity	9	50	2.42568949114e-05	0.0114492543982
+GO:0004517	nitric-oxide synthase activity	3	3	3.23485964861e-05	0.0152685375415
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	22	271	5.28726560633e-05	0.0249558936619

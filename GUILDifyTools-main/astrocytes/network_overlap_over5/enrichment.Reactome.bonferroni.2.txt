@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9694548	Maturation of spike protein	12	36	1.60497004226e-09	1.05928022789e-06
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	5.67879038635e-06	0.00374800165499
+R-HSA-9683673	Maturation of protein 3a	5	9	5.67879038635e-06	0.00374800165499
+R-HSA-9694719	Maturation of protein 3a	5	9	5.67879038635e-06	0.00374800165499
+R-HSA-3371511	HSF1 activation	5	10	1.10325828846e-05	0.00728150470381
+R-HSA-975577	N-Glycan antennae elongation	5	10	1.10325828846e-05	0.00728150470381
+R-HSA-2408522	Selenoamino acid metabolism	5	11	1.96480733627e-05	0.0129677284194
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	6	19	3.21281383196e-05	0.0212045712909
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.2307581776e-05	0.0279230039721
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.2307581776e-05	0.0279230039721

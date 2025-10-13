@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004879	nuclear receptor activity	10	26	3.03768158045e-07	0.000188336257988
+GO:0003700	DNA-binding transcription factor activity	26	206	1.95460811844e-05	0.0121185703343
+GO:0000976	transcription cis-regulatory region binding	25	208	6.43519809594e-05	0.0398982281948

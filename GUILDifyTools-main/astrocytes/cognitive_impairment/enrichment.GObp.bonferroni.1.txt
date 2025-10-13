@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0007031	peroxisome organization	10	17	1.58641642797e-14	1.42460195232e-11
+GO:0016558	protein import into peroxisome matrix	8	10	1.68101187226e-13	1.50954866129e-10
+GO:0006289	nucleotide-excision repair	10	26	3.82439215788e-12	3.43430415778e-09
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	1.10494820003e-10	9.92243483626e-08
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	1.02318083341e-09	9.18816388406e-07
+GO:0006625	protein targeting to peroxisome	5	8	5.50880958844e-08	4.94691101042e-05
+GO:0016561	protein import into peroxisome matrix, translocation	4	4	6.50414581644e-08	5.84072294317e-05
+GO:0045046	protein import into peroxisome membrane	4	5	3.21114567481e-07	0.000288360881598
+GO:0016560	protein import into peroxisome matrix, docking	3	3	4.10958268491e-06	0.00369040525105
+GO:0034614	cellular response to reactive oxygen species	6	34	1.47960933385e-05	0.013286891818
+GO:0022615	protein to membrane docking	3	4	1.62432063649e-05	0.0145863993157
+GO:0000724	double-strand break repair via homologous recombination	8	71	1.72366447044e-05	0.0154785069446
+GO:0000425	pexophagy	3	5	4.0126344061e-05	0.0360334569668

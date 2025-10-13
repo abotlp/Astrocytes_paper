@@ -1,0 +1,69 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	6	6	1.91676451851e-11	2.37295447391e-08
+GO:0032922	circadian regulation of gene expression	10	57	2.68763269958e-08	1.66364464104e-05
+GO:0042754	negative regulation of circadian rhythm	4	7	2.46757541316e-06	0.0010182861205
+GO:0042753	positive regulation of circadian rhythm	4	10	1.42377198747e-05	0.00440657430122
+GO:0000122	negative regulation of transcription by RNA polymerase II	23	537	2.60850773585e-05	0.00498529366536
+GO:0006641	triglyceride metabolic process	4	11	2.20841197761e-05	0.00498529366536
+GO:0042752	regulation of circadian rhythm	7	54	2.81882517427e-05	0.00498529366536
+GO:1904294	positive regulation of ERAD pathway	4	13	4.66197986443e-05	0.00577153107217
+GO:0007623	circadian rhythm	5	24	3.9112146461e-05	0.00577153107217
+GO:0042634	regulation of hair cycle	3	5	4.38536329276e-05	0.00577153107217
+GO:0045429	positive regulation of nitric oxide biosynthetic process	5	26	5.89251809589e-05	0.00663176127519
+GO:0051775	response to redox state	3	7	0.000149762049988	0.0154504514904
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	4	20	0.000288462168474	0.0198397869206
+GO:0070977	bone maturation	2	2	0.000273932839356	0.0198397869206
+GO:0034502	protein localization to chromosome	2	2	0.000273932839356	0.0198397869206
+GO:0003100	regulation of systemic arterial blood pressure by endothelin	2	2	0.000273932839356	0.0198397869206
+GO:0051580	regulation of neurotransmitter uptake	2	2	0.000273932839356	0.0198397869206
+GO:1905906	regulation of amyloid fibril formation	2	2	0.000273932839356	0.0198397869206
+GO:0038166	angiotensin-activated signaling pathway	3	9	0.000350717502321	0.020736397479
+GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	4	21	0.000351748260953	0.020736397479
+GO:1900272	negative regulation of long-term synaptic potentiation	3	9	0.000350717502321	0.020736397479
+GO:0051247	positive regulation of protein metabolic process	4	22	0.000424382712443	0.0228428607828
+GO:0007186	G protein-coupled receptor signaling pathway	7	82	0.000410005575932	0.0228428607828
+GO:0055096	low-density lipoprotein particle mediated signaling	2	3	0.000812809265695	0.0304926627555
+GO:0042445	hormone metabolic process	2	3	0.000812809265695	0.0304926627555
+GO:1900221	regulation of amyloid-beta clearance	2	3	0.000812809265695	0.0304926627555
+GO:2000074	regulation of type B pancreatic cell development	2	3	0.000812809265695	0.0304926627555
+GO:0150003	regulation of spontaneous synaptic transmission	2	3	0.000812809265695	0.0304926627555
+GO:1902895	positive regulation of miRNA transcription	5	42	0.000614972541906	0.0304926627555
+GO:0014823	response to activity	2	3	0.000812809265695	0.0304926627555
+GO:0040018	positive regulation of multicellular organism growth	2	3	0.000812809265695	0.0304926627555
+GO:0043535	regulation of blood vessel endothelial cell migration	2	3	0.000812809265695	0.0304926627555
+GO:0048853	forebrain morphogenesis	2	3	0.000812809265695	0.0304926627555
+GO:0006298	mismatch repair	3	12	0.000885417719138	0.0313184896084
+GO:0097435	supramolecular fiber organization	3	12	0.000885417719138	0.0313184896084
+GO:0050767	regulation of neurogenesis	3	13	0.00113705709528	0.0380453157825
+GO:0043153	entrainment of circadian clock by photoperiod	3	13	0.00113705709528	0.0380453157825
+GO:0032930	positive regulation of superoxide anion generation	3	14	0.00142959323393	0.0406230745749
+GO:0007217	tachykinin receptor signaling pathway	2	4	0.00160785997914	0.0406230745749
+GO:0051005	negative regulation of lipoprotein lipase activity	2	4	0.00160785997914	0.0406230745749
+GO:1990776	response to angiotensin	2	4	0.00160785997914	0.0406230745749
+GO:0042310	vasoconstriction	2	4	0.00160785997914	0.0406230745749
+GO:0051248	negative regulation of protein metabolic process	2	4	0.00160785997914	0.0406230745749
+GO:0031204	post-translational protein targeting to membrane, translocation	2	4	0.00160785997914	0.0406230745749
+GO:2001241	positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	2	4	0.00160785997914	0.0406230745749
+GO:0034382	chylomicron remnant clearance	2	4	0.00160785997914	0.0406230745749
+GO:0045187	regulation of circadian sleep/wake cycle, sleep	2	4	0.00160785997914	0.0406230745749
+GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	4	30	0.00143377368197	0.0406230745749
+GO:0034405	response to fluid shear stress	2	4	0.00160785997914	0.0406230745749
+GO:0031398	positive regulation of protein ubiquitination	5	52	0.00164425427032	0.0407117357332
+GO:0010628	positive regulation of gene expression	12	271	0.00185054765109	0.0432259998501
+GO:0071479	cellular response to ionizing radiation	4	32	0.00183348072062	0.0432259998501
+GO:0045892	negative regulation of DNA-templated transcription	15	384	0.0018041091759	0.0432259998501
+GO:0071480	cellular response to gamma radiation	3	16	0.00214635400776	0.0474497546715
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	3	16	0.00214635400776	0.0474497546715
+GO:0051091	positive regulation of DNA-binding transcription factor activity	6	80	0.00208742958882	0.0474497546715
+GO:0009416	response to light stimulus	2	5	0.00265053087659	0.0487297953085
+GO:0022614	membrane to membrane docking	2	5	0.00265053087659	0.0487297953085
+GO:0018393	internal peptidyl-lysine acetylation	2	5	0.00265053087659	0.0487297953085
+GO:0010288	response to lead ion	2	5	0.00265053087659	0.0487297953085
+GO:0030049	muscle filament sliding	2	5	0.00265053087659	0.0487297953085
+GO:0045893	positive regulation of DNA-templated transcription	16	435	0.0023543506567	0.0487297953085
+GO:0007155	cell adhesion	5	58	0.00267659618819	0.0487297953085
+GO:1990000	amyloid fibril formation	3	17	0.00257471778164	0.0487297953085
+GO:0035860	glial cell-derived neurotrophic factor receptor signaling pathway	2	5	0.00265053087659	0.0487297953085
+GO:0071402	cellular response to lipoprotein particle stimulus	2	5	0.00265053087659	0.0487297953085
+GO:2000001	regulation of DNA damage checkpoint	2	5	0.00265053087659	0.0487297953085
+GO:0045861	negative regulation of proteolysis	3	17	0.00257471778164	0.0487297953085

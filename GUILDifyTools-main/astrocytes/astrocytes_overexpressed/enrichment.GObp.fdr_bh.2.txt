@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031396	regulation of protein ubiquitination	6	12	1.18405260768e-06	0.00172990085982
+GO:0050821	protein stabilization	18	168	1.67852929716e-05	0.00817443767717
+GO:1990000	amyloid fibril formation	6	17	1.37117920389e-05	0.00817443767717
+GO:1904294	positive regulation of ERAD pathway	5	13	4.64530583325e-05	0.0169669795559
+GO:1901526	positive regulation of mitophagy	5	14	7.02434046596e-05	0.0171042690346
+GO:1903543	positive regulation of exosomal secretion	5	14	7.02434046596e-05	0.0171042690346
+GO:0071480	cellular response to gamma radiation	5	16	0.000144832198122	0.0302285487795
+GO:0045727	positive regulation of translation	8	49	0.000227039548948	0.0414630976267

@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070888	E-box binding	6	39	0.000120858932924	0.0371036924075

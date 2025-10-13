@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cognitive_impairment/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cognitive_impairment/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cognitive_impairment/output_scores.txt.nd
+Time: 3904520000 (3904.52s)

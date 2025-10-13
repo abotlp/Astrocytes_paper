@@ -1,0 +1,35 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034599	cellular response to oxidative stress	43	61	1.36606679959e-51	2.42613463608e-48
+GO:0006979	response to oxidative stress	36	53	2.62458081146e-42	4.66125552116e-39
+GO:0070301	cellular response to hydrogen peroxide	14	32	2.06896812561e-13	3.67448739109e-10
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	9	10	2.70068751416e-13	4.79642102514e-10
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	7	7	2.91989415879e-11	5.18573202601e-08
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	7	8	2.27278094726e-10	4.03645896233e-07
+GO:0006281	DNA repair	15	69	2.68128802084e-09	4.76196752502e-06
+GO:0010508	positive regulation of autophagy	14	62	5.41508173502e-09	9.6171851614e-06
+GO:0042744	hydrogen peroxide catabolic process	7	11	8.63592346586e-09	1.53374000754e-05
+GO:0006284	base-excision repair	8	20	8.14721143312e-08	0.000144694475052
+GO:0055089	fatty acid homeostasis	6	11	3.80625385072e-07	0.000675990683888
+GO:0019430	removal of superoxide radicals	6	11	3.80625385072e-07	0.000675990683888
+GO:0018105	peptidyl-serine phosphorylation	13	75	5.23890955177e-07	0.000930430336394
+GO:0071456	cellular response to hypoxia	12	65	7.11593603409e-07	0.00126379023965
+GO:0043066	negative regulation of apoptotic process	25	263	8.21349555519e-07	0.0014587168106
+GO:0006289	nucleotide-excision repair	8	26	8.55995539663e-07	0.00152024807844
+GO:0030091	protein repair	4	4	9.72867173442e-07	0.00172781210003
+GO:0035556	intracellular signal transduction	16	120	1.05562033421e-06	0.00187478171355
+GO:0051881	regulation of mitochondrial membrane potential	7	19	1.05971420053e-06	0.00188205242013
+GO:0007005	mitochondrion organization	11	57	1.31070926318e-06	0.0023278196514
+GO:0042149	cellular response to glucose starvation	9	37	1.58029358423e-06	0.0028066014056
+GO:0090201	negative regulation of release of cytochrome c from mitochondria	6	14	2.28269480803e-06	0.00405406597906
+GO:0045821	positive regulation of glycolytic process	6	14	2.28269480803e-06	0.00405406597906
+GO:1990535	neuron projection maintenance	5	9	3.44066142221e-06	0.00611061468585
+GO:0042542	response to hydrogen peroxide	5	9	3.44066142221e-06	0.00611061468585
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	6	15	3.70385619377e-06	0.00657804860014
+GO:0006915	apoptotic process	12	81	7.94512414424e-06	0.0141105404802
+GO:0034614	cellular response to reactive oxygen species	8	34	7.97819960766e-06	0.0141692825032
+GO:0035924	cellular response to vascular endothelial growth factor stimulus	7	25	8.58475574323e-06	0.0152465262
+GO:0045454	cell redox homeostasis	6	17	8.68087486002e-06	0.0154172337514
+GO:0043065	positive regulation of apoptotic process	19	192	9.92290913888e-06	0.0176230866306
+GO:1900407	regulation of cellular response to oxidative stress	4	6	1.38746236252e-05	0.0246413315584
+GO:0006974	DNA damage response	21	234	1.54831901316e-05	0.0274981456737
+GO:0043524	negative regulation of neuron apoptotic process	10	61	1.83457995394e-05	0.032582139982

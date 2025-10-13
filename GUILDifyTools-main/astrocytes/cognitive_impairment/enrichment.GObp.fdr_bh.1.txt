@@ -1,0 +1,38 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0007031	peroxisome organization	10	17	1.58641642797e-14	1.42460195232e-11
+GO:0016558	protein import into peroxisome matrix	8	10	1.68101187226e-13	7.54774330644e-11
+GO:0006289	nucleotide-excision repair	10	26	3.82439215788e-12	1.14476805259e-09
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	1.10494820003e-10	2.48060870907e-08
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	1.02318083341e-09	1.83763277681e-07
+GO:0006625	protein targeting to peroxisome	5	8	5.50880958844e-08	8.24485168403e-06
+GO:0016561	protein import into peroxisome matrix, translocation	4	4	6.50414581644e-08	8.34388991881e-06
+GO:0045046	protein import into peroxisome membrane	4	5	3.21114567481e-07	3.60451101997e-05
+GO:0016560	protein import into peroxisome matrix, docking	3	3	4.10958268491e-06	0.000410045027894
+GO:0022615	protein to membrane docking	3	4	1.62432063649e-05	0.00128987557871
+GO:0034614	cellular response to reactive oxygen species	6	34	1.47960933385e-05	0.00128987557871
+GO:0000724	double-strand break repair via homologous recombination	8	71	1.72366447044e-05	0.00128987557871
+GO:0000425	pexophagy	3	5	4.0126344061e-05	0.00277180438206
+GO:0045040	protein insertion into mitochondrial outer membrane	3	6	7.93014626099e-05	0.00508662238741
+GO:1901990	regulation of mitotic cell cycle phase transition	3	7	0.000137133845512	0.00820974621796
+GO:0060152	microtubule-based peroxisome localization	2	2	0.000258101839353	0.0115887725869
+GO:0016557	peroxisome membrane biogenesis	2	2	0.000258101839353	0.0115887725869
+GO:0006283	transcription-coupled nucleotide-excision repair	3	8	0.00021681726319	0.0115887725869
+GO:0007079	mitotic chromosome movement towards spindle pole	2	2	0.000258101839353	0.0115887725869
+GO:0034502	protein localization to chromosome	2	2	0.000258101839353	0.0115887725869
+GO:0016559	peroxisome fission	3	10	0.000453687700903	0.0194005502577
+GO:0035315	hair cell differentiation	2	3	0.000766086352686	0.0275178217885
+GO:0070141	response to UV-A	2	3	0.000766086352686	0.0275178217885
+GO:0036294	cellular response to decreased oxygen levels	2	3	0.000766086352686	0.0275178217885
+GO:0043335	protein unfolding	2	3	0.000766086352686	0.0275178217885
+GO:0006298	mismatch repair	3	12	0.000812238872389	0.0275596043852
+GO:0006281	DNA repair	6	69	0.000828629530513	0.0275596043852
+GO:0034644	cellular response to UV	5	48	0.00100049545653	0.03208731857
+GO:0006302	double-strand break repair	5	50	0.00120637820796	0.0373561251981
+GO:0009411	response to UV	4	30	0.00128483517068	0.0380170091412
+GO:0010569	regulation of double-strand break repair via homologous recombination	3	14	0.00131239118416	0.0380170091412
+GO:0048639	positive regulation of developmental growth	2	4	0.00151592949902	0.0412516572764
+GO:0098535	de novo centriole assembly involved in multi-ciliated epithelial cell differentiation	2	4	0.00151592949902	0.0412516572764
+GO:0050821	protein stabilization	9	168	0.00156569245721	0.0413527007816
+GO:0032869	cellular response to insulin stimulus	5	54	0.00170998584386	0.0438733510795
+GO:0071480	cellular response to gamma radiation	3	16	0.00197181598225	0.0478565068125
+GO:0007626	locomotory behavior	3	16	0.00197181598225	0.0478565068125

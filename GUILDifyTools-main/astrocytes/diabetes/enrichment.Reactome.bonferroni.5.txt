@@ -1,0 +1,34 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	21	46	2.39127102834e-11	2.97952370131e-08
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	29	97	9.3647495959e-10	1.16684779965e-06
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	26	83	2.28929782913e-09	2.85246509509e-06
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	13	22	2.73083073185e-09	3.40261509188e-06
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	19	49	6.24032136074e-09	7.77544041548e-06
+R-HSA-2408522	Selenoamino acid metabolism	9	11	1.06492252498e-08	1.32689346613e-05
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	28	104	2.39365049667e-08	2.98248851885e-05
+R-HSA-9845323	Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)	20	59	3.66223187868e-08	4.56314092084e-05
+R-HSA-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	16	39	3.8558532982e-08	4.80439320955e-05
+R-HSA-9707616	Heme signaling	17	44	4.21007090647e-08	5.24574834947e-05
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	9.49949136388e-08	0.000118363662394
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	14	36	6.0769809288e-07	0.000757191823729
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	7	9	9.81158114293e-07	0.00122252301041
+R-HSA-9018519	Estrogen-dependent gene expression	26	113	2.08438548234e-06	0.00259714431099
+R-HSA-9755511	KEAP1-NFE2L2 pathway	17	56	2.25712433004e-06	0.00281237691523
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	9	17	2.93637588062e-06	0.00365872434725
+R-HSA-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	13	36	4.10112998413e-06	0.00511000796023
+R-HSA-111465	Apoptotic cleavage of cellular proteins	9	18	5.42982517394e-06	0.00676556216673
+R-HSA-1368082	RORA activates gene expression	9	18	5.42982517394e-06	0.00676556216673
+R-HSA-5218921	VEGFR2 mediated cell proliferation	9	18	5.42982517394e-06	0.00676556216673
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	11	27	5.8434708625e-06	0.00728096469467
+R-HSA-4090294	SUMOylation of intracellular receptors	11	27	5.8434708625e-06	0.00728096469467
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	7	11	7.71661469719e-06	0.0096149019127
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	7	11	7.71661469719e-06	0.0096149019127
+R-HSA-9818749	Regulation of NFE2L2 gene expression	6	8	9.0475615145e-06	0.0112732616471
+R-HSA-383280	Nuclear Receptor transcription pathway	15	50	1.04523710157e-05	0.0130236542856
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	12	34	1.268074131e-05	0.0158002036723
+R-HSA-3214858	RMTs methylate histone arginines	14	45	1.2914592277e-05	0.0160915819771
+R-HSA-3899300	SUMOylation of transcription cofactors	13	40	1.54871201146e-05	0.0192969516628
+R-HSA-112412	SOS-mediated signalling	5	6	2.47270729886e-05	0.0308099329438
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	9	21	2.59552463617e-05	0.0323402369666
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	13	42	2.79752277067e-05	0.0348571337226
+R-HSA-6783783	Interleukin-10 signaling	13	43	3.70092515321e-05	0.046113527409

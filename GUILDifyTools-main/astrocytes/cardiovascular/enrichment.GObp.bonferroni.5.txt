@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042752	regulation of circadian rhythm	22	54	5.03761945866e-11	1.40247325729e-07
+GO:0032922	circadian regulation of gene expression	19	57	5.18478372348e-08	0.000144344378862
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	6	6	2.82914869274e-07	0.000787634996058
+GO:0045892	negative regulation of DNA-templated transcription	60	384	5.18873122574e-07	0.00144454277325
+GO:0042770	signal transduction in response to DNA damage	7	10	2.20073264798e-06	0.00612683969196
+GO:1902895	positive regulation of miRNA transcription	14	42	3.00004893789e-06	0.00835213624308
+GO:0050821	protein stabilization	32	168	4.21379177447e-06	0.0117311963001
+GO:0007623	circadian rhythm	10	24	8.1225953002e-06	0.0226133053157
+GO:0032212	positive regulation of telomere maintenance via telomerase	9	21	1.77512991322e-05	0.0494196167839
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	9	21	1.77512991322e-05	0.0494196167839
+GO:0002181	cytoplasmic translation	9	21	1.77512991322e-05	0.0494196167839

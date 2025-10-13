@@ -1,0 +1,35 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045429	positive regulation of nitric oxide biosynthetic process	8	26	3.28300059587e-10	3.8148466924e-07
+GO:1902430	negative regulation of amyloid-beta formation	6	16	1.52501933461e-08	1.77207246681e-05
+GO:1990535	neuron projection maintenance	5	9	2.29539788426e-08	2.66725234151e-05
+GO:0010629	negative regulation of gene expression	13	162	4.10375597425e-08	4.76856444208e-05
+GO:0045821	positive regulation of glycolytic process	5	14	3.48214561337e-07	0.000404625320274
+GO:0010628	positive regulation of gene expression	15	271	4.84334811642e-07	0.000562797051128
+GO:0030335	positive regulation of cell migration	12	172	6.44300474541e-07	0.000748677151417
+GO:1904646	cellular response to amyloid-beta	6	32	1.48398196456e-06	0.00172438704282
+GO:1900221	regulation of amyloid-beta clearance	3	3	1.50306123098e-06	0.00174655715039
+GO:0034205	amyloid-beta formation	4	9	2.03955353148e-06	0.00236996120358
+GO:0045840	positive regulation of mitotic nuclear division	5	20	2.55109251288e-06	0.00296436949996
+GO:0043410	positive regulation of MAPK cascade	9	104	2.95799159836e-06	0.00343718623729
+GO:0046628	positive regulation of insulin receptor signaling pathway	4	11	5.24682571599e-06	0.00609681148198
+GO:0043525	positive regulation of neuron apoptotic process	5	23	5.38536104763e-06	0.00625778953734
+GO:0014910	regulation of smooth muscle cell migration	3	4	5.96145695343e-06	0.00692721297989
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	4	13	1.11663586912e-05	0.0129753087991
+GO:0042987	amyloid precursor protein catabolic process	4	13	1.11663586912e-05	0.0129753087991
+GO:1904294	positive regulation of ERAD pathway	4	13	1.11663586912e-05	0.0129753087991
+GO:0045725	positive regulation of glycogen biosynthetic process	4	13	1.11663586912e-05	0.0129753087991
+GO:0043243	positive regulation of protein-containing complex disassembly	3	5	1.47778067777e-05	0.0171718114757
+GO:1903243	negative regulation of cardiac muscle hypertrophy in response to stress	3	5	1.47778067777e-05	0.0171718114757
+GO:0035094	response to nicotine	3	5	1.47778067777e-05	0.0171718114757
+GO:0007613	memory	5	28	1.50195584683e-05	0.0174527269401
+GO:0007611	learning or memory	5	28	1.50195584683e-05	0.0174527269401
+GO:0050731	positive regulation of peptidyl-tyrosine phosphorylation	6	48	1.72859937776e-05	0.0200863247696
+GO:0097242	amyloid-beta clearance	4	15	2.09394728512e-05	0.0243316674531
+GO:1902004	positive regulation of amyloid-beta formation	4	15	2.09394728512e-05	0.0243316674531
+GO:0008286	insulin receptor signaling pathway	5	30	2.13801354098e-05	0.0248437173462
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	4	16	2.76706933718e-05	0.032153345698
+GO:0008284	positive regulation of cell population proliferation	12	249	2.92879257801e-05	0.0340325697564
+GO:0050435	amyloid-beta metabolic process	3	6	2.93061900551e-05	0.034053792844
+GO:0043171	peptide catabolic process	3	6	2.93061900551e-05	0.034053792844
+GO:0001934	positive regulation of protein phosphorylation	8	107	3.14546551746e-05	0.0365503093129
+GO:0045861	negative regulation of proteolysis	4	17	3.58626488509e-05	0.0416723979648

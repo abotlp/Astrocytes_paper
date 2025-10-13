@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0007031	peroxisome organization	10	17	1.89429408632e-11	2.69558048484e-08
+GO:0016558	protein import into peroxisome matrix	8	10	5.01555492456e-11	7.13713465764e-08
+GO:0006289	nucleotide-excision repair	10	26	3.97937023352e-09	5.66264384229e-06
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	7.84592161203e-09	1.11647464539e-05
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	3.58531043717e-08	5.10189675209e-05
+GO:0006626	protein targeting to mitochondrion	6	12	9.01199278105e-07	0.00128240657274
+GO:0016561	protein import into peroxisome matrix, translocation	4	4	1.1120941832e-06	0.00158251002269
+GO:0006625	protein targeting to peroxisome	5	8	1.85081409576e-06	0.00263370845826
+GO:0045046	protein import into peroxisome membrane	4	5	5.41705849841e-06	0.00770847424324
+GO:0016559	peroxisome fission	5	10	7.88950641198e-06	0.0112267676242
+GO:0071816	tail-anchored membrane protein insertion into ER membrane	6	17	1.05073160804e-05	0.0149519107824
+GO:0045050	protein insertion into ER membrane by stop-transfer membrane-anchor sequence	5	11	1.40780158963e-05	0.0200330166205
+GO:0045040	protein insertion into mitochondrial outer membrane	4	6	1.58324633256e-05	0.0225295953123
+GO:0016560	protein import into peroxisome matrix, docking	3	3	3.43947687469e-05	0.0489437559269

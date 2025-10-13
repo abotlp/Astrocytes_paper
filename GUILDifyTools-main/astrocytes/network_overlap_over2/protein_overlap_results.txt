@@ -1,0 +1,11 @@
+Gene ID	UniProt ID	Gene Symbol	Seed Status	Seed Source
+207	P31749	AKT1	seed	Cardiovascular;Cognitive_Impairment;Inflammation;Oxidative_Stress
+351	P05067	APP	seed	Alzheimer;Cognitive_Impairment;Inflammation;Oxidative_Stress
+3845	P01116	KRAS	non-seed	None
+4000	P02545	LMNA	seed	Diabetes
+2908	P04150	NR3C1	non-seed	None
+6117	P27694	RPA1	non-seed	None
+6118	P15927	RPA2	non-seed	None
+6119	P35244	RPA3	non-seed	None
+10618	O43493	TGOLN2	non-seed	None
+7532	P61981	YWHAG	non-seed	None

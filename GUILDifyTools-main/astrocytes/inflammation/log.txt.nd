@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/inflammation/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/inflammation/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/inflammation/output_scores.txt.nd
+Time: 4002460000 (4002.46s)

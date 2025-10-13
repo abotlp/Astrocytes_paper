@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005125	cytokine activity	10	50	2.98398886811e-08	9.66812393267e-06
+GO:0005178	integrin binding	7	44	1.89022947893e-05	0.00612434351172
+GO:0042056	chemoattractant activity	5	23	6.51659192999e-05	0.0211137578532

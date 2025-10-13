@@ -1,0 +1,14 @@
+# Ignore everything by default in this subfolder
+*
+
+# Keep only the requested subset
+!.gitignore
+!astrocytes/
+!astrocytes/**
+!clinvar_top5.txt
+!overlap2sessions_functions.py
+!README.md
+!Datos_Genomica_Astrocitos_Baldo.xlsx
+!overlap.py
+!run_guildify_local.py
+

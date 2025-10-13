@@ -1,0 +1,24 @@
+# General ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# BIANA_phy large files that exceed GitHub limits
+/BIANA_phy/all_shortest_paths.txt
+/BIANA_phy/multi-fields_file.txt
+/BIANA_phy/network.method.txt
+/BIANA_phy/drugbank/
+/BIANA_phy/go/
+/BIANA_phy/sampled_graphs/
+
+# OS / editor clutter
+*~
+*.swp
+*.swo

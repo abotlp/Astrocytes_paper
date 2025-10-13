@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	4	6	1.65516149368e-06	0.000933511082435
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	9	66	3.11687264397e-06	0.0017579161712
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	6.24012928753e-06	0.00351943291817
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	6.24012928753e-06	0.00351943291817
+R-HSA-5654704	SHC-mediated cascade:FGFR3	4	11	3.38571492789e-05	0.0190954321933
+R-HSA-1169092	Activation of RAS in B cells	3	5	6.07094787006e-05	0.0342401459871
+R-HSA-5654706	FRS-mediated FGFR3 signaling	4	13	7.12559951185e-05	0.0401883812468

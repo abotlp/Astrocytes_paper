@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	11	31	1.16388941897e-12	2.60711229848e-10
+GO:0008320	protein transmembrane transporter activity	5	10	2.80197799295e-07	6.27643070421e-05
+GO:0044877	protein-containing complex binding	8	94	0.00016074707313	0.0360073443811

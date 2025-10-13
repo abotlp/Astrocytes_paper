@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004167	dopachrome isomerase activity	1	2	0.00593540951534	0.0330687101569
+GO:0047696	beta-adrenergic receptor kinase activity	1	2	0.00593540951534	0.0330687101569
+GO:0141106	tRNA methyltransferase activator activity	1	1	0.00297194484069	0.0330687101569
+GO:0050178	phenylpyruvate tautomerase activity	1	2	0.00593540951534	0.0330687101569
+GO:0001016	RNA polymerase III transcription regulatory region sequence-specific DNA binding	1	1	0.00297194484069	0.0330687101569
+GO:0072541	peroxynitrite reductase activity	1	1	0.00297194484069	0.0330687101569
+GO:0050613	delta14-sterol reductase activity	1	2	0.00593540951534	0.0330687101569
+GO:0005126	cytokine receptor binding	1	3	0.00889041721602	0.0346726271425
+GO:0070181	small ribosomal subunit rRNA binding	1	3	0.00889041721602	0.0346726271425
+GO:0030911	TPR domain binding	1	3	0.00889041721602	0.0346726271425
+GO:0003730	mRNA 3'-UTR binding	2	52	0.0102673583229	0.0364024522356
+GO:0008379	thioredoxin peroxidase activity	1	4	0.0118369910735	0.038470220989

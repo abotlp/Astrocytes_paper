@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected	Seed Gene IDs
+GO:0003684	damaged DNA binding	3	31	5.34465197843e-06	0.000149650255396	6118;6119;6117
+GO:0098505	G-rich strand telomeric DNA binding	2	9	4.55899947697e-05	0.00127651985355	6118;6117
+GO:0003697	single-stranded DNA binding	3	68	5.82245407175e-05	0.00163028714009	6118;6119;6117
+GO:0160123	structural constituent of nuclear lamina	1	1	0.00118877793627	0.0332857822154	4000

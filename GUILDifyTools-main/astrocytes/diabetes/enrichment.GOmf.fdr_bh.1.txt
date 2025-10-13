@@ -1,0 +1,26 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004879	nuclear receptor activity	7	26	4.1723601621e-07	0.000142277481528
+GO:0003700	DNA-binding transcription factor activity	15	206	9.3668146052e-06	0.00159704189019
+GO:0000976	transcription cis-regulatory region binding	14	208	4.52664888268e-05	0.00514529089665
+GO:0003677	DNA binding	16	270	6.04663323464e-05	0.00515475483253
+GO:0019899	enzyme binding	5	26	0.00011805942336	0.00805165267318
+GO:0004698	calcium,diacylglycerol-dependent serine/threonine kinase activity	2	2	0.000368632815767	0.00996062769382
+GO:0008233	peptidase activity	6	51	0.000408940726433	0.00996062769382
+GO:0141089	glucose sensor activity	2	2	0.000368632815767	0.00996062769382
+GO:0020037	heme binding	6	51	0.000408940726433	0.00996062769382
+GO:0034617	tetrahydrobiopterin binding	2	2	0.000368632815767	0.00996062769382
+GO:0035403	histone H3T6 kinase activity	2	2	0.000368632815767	0.00996062769382
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	15	271	0.000220518270465	0.00996062769382
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	16	302	0.00022361538835	0.00996062769382
+GO:0003684	damaged DNA binding	5	31	0.000282137090442	0.00996062769382
+GO:0004697	diacylglycerol-dependent serine/threonine kinase activity	3	9	0.000540830508555	0.0122948802278
+GO:0004699	diacylglycerol-dependent, calcium-independent serine/threonine kinase activity	2	3	0.00109187199057	0.0206849082658
+GO:0004784	superoxide dismutase activity	2	3	0.00109187199057	0.0206849082658
+GO:0004517	nitric-oxide synthase activity	2	3	0.00109187199057	0.0206849082658
+GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding	3	12	0.00135740862493	0.0243619126895
+GO:0097199	cysteine-type endopeptidase activity involved in apoptotic signaling pathway	2	4	0.00215608889262	0.0338391559704
+GO:0106310	protein serine kinase activity	3	14	0.00218317135293	0.0338391559704
+GO:0005159	insulin-like growth factor receptor binding	2	4	0.00215608889262	0.0338391559704
+GO:0004175	endopeptidase activity	5	49	0.00239644159945	0.0355298515396
+GO:0004340	glucokinase activity	2	5	0.00354804274741	0.0483953030747
+GO:0001221	transcription coregulator binding	2	5	0.00354804274741	0.0483953030747

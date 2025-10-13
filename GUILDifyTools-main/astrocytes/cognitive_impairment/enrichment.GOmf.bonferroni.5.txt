@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	15	31	4.93761864861e-08	3.75259017294e-05
+GO:0008320	protein transmembrane transporter activity	7	10	8.29879514697e-06	0.0063070843117
+GO:0044183	protein folding chaperone	12	30	1.29927979931e-05	0.00987452647478
+GO:0098505	G-rich strand telomeric DNA binding	6	9	5.94477306657e-05	0.0451802753059

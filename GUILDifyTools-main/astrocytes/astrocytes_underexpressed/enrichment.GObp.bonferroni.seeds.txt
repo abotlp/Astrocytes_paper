@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048861	leukemia inhibitory factor signaling pathway	2	3	8.99154690535e-05	0.0222990363253
+GO:0038165	oncostatin-M-mediated signaling pathway	2	4	0.000179191002596	0.0444393686438
+GO:0070120	ciliary neurotrophic factor-mediated signaling pathway	2	4	0.000179191002596	0.0444393686438

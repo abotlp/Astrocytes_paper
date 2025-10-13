@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031490	chromatin DNA binding	12	33	4.27608102821e-05	0.0108754994151
+GO:0030332	cyclin binding	6	8	2.2400431504e-05	0.0108754994151
+GO:0003743	translation initiation factor activity	11	28	3.87749818187e-05	0.0108754994151
+GO:0043426	MRF binding	4	4	9.73861094616e-05	0.0185764003798
+GO:0003697	single-stranded DNA binding	17	68	0.000264775888976	0.0404048006578

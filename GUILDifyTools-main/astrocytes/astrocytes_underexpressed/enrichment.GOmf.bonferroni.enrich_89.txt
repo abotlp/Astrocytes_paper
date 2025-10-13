@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0098505	G-rich strand telomeric DNA binding	3	9	0.000146102573495	0.0204543602893
+GO:0004923	leukemia inhibitory factor receptor activity	2	2	0.000151399230214	0.02119589223

@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0019828	aspartic-type endopeptidase inhibitor activity	4	6	1.88249829166e-06	0.000538394511414
+GO:0005159	insulin-like growth factor receptor binding	3	4	2.71454129469e-05	0.00776358810283
+GO:0004175	endopeptidase activity	7	49	3.60864623181e-05	0.010320728223
+GO:0019003	GDP binding	7	49	3.60864623181e-05	0.010320728223
+GO:0003924	GTPase activity	9	100	0.000118333435146	0.0338433624518

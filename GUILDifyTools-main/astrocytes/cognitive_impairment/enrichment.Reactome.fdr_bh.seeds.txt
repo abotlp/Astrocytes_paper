@@ -1,0 +1,28 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9603798	Class I peroxisomal membrane protein import	9	19	4.9812537216e-15	1.45950734043e-12
+R-HSA-9033241	Peroxisomal protein import	9	52	1.62140043126e-10	2.37535163179e-08
+R-HSA-5696395	Formation of Incision Complex in GG-NER	7	35	6.77871572434e-09	6.62054569077e-07
+R-HSA-5696400	Dual Incision in GG-NER	6	36	2.7440410016e-07	2.01001003367e-05
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	6	46	1.24180319907e-06	7.27696674654e-05
+R-HSA-71403	Citric acid cycle (TCA cycle)	4	17	7.13239420364e-06	0.000348298583611
+R-HSA-9854311	Maturation of TCA enzymes and regulation of TCA cycle	4	20	1.42677547159e-05	0.000597207447394
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	5	59	8.53215392356e-05	0.00277769011067
+R-HSA-6782135	Dual incision in TC-NER	5	58	7.85586993429e-05	0.00277769011067
+R-HSA-5620912	Anchoring of the basal body to the plasma membrane	5	88	0.000561622257523	0.0164555321454
+R-HSA-380259	Loss of Nlp from mitotic centrosomes	4	61	0.00121110058847	0.0295710393684
+R-HSA-380284	Loss of proteins required for interphase microtubule organization from the centrosome	4	61	0.00121110058847	0.0295710393684
+R-HSA-8854518	AURKA Activation by TPX2	4	64	0.00144918050668	0.032662299112
+R-HSA-199418	Negative regulation of the PI3K/AKT network	2	8	0.00158793746871	0.0332332627381
+R-HSA-167158	Formation of the HIV-1 Early Elongation Complex	3	32	0.00184917408751	0.0338630004775
+R-HSA-113418	Formation of the Early Elongation Complex	3	32	0.00184917408751	0.0338630004775
+R-HSA-3000178	ECM proteoglycans	4	70	0.00201997709388	0.0348148993239
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	3	36	0.00260394268438	0.0381477603262
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	4	73	0.00235668346462	0.0381477603262
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	4	74	0.00247700670971	0.0381477603262
+R-HSA-216083	Integrin cell surface interactions	4	78	0.00300065241079	0.0409247801845
+R-HSA-5654710	PI-3K cascade:FGFR3	2	11	0.00307285038928	0.0409247801845
+R-HSA-167246	Tat-mediated elongation of the HIV-1 transcript	3	39	0.0032784420475	0.041764500866
+R-HSA-611105	Respiratory electron transport	4	84	0.00392090902401	0.0441856286167
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	4	84	0.00392090902401	0.0441856286167
+R-HSA-167200	Formation of HIV-1 elongation complex containing HIV-1 Tat	3	41	0.00378227872291	0.0441856286167
+R-HSA-167152	Formation of HIV elongation complex in the absence of HIV Tat	3	43	0.0043308902189	0.0469981790421

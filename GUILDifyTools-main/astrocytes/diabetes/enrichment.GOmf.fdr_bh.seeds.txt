@@ -1,0 +1,22 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005179	hormone activity	7	25	9.27308289553e-06	0.00194237696233
+GO:0003700	DNA-binding transcription factor activity	20	206	8.84801704544e-06	0.00194237696233
+GO:0004879	nuclear receptor activity	7	26	1.2345616286e-05	0.00194237696233
+GO:0005125	cytokine activity	9	50	2.42568949114e-05	0.00286231359955
+GO:0004517	nitric-oxide synthase activity	3	3	3.23485964861e-05	0.00305370750829
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	22	271	5.28726560633e-05	0.00415931561031
+GO:0005159	insulin-like growth factor receptor binding	3	4	0.000126324558377	0.00619105028242
+GO:0019899	enzyme binding	6	26	0.00013572827652	0.00619105028242
+GO:0000976	transcription cis-regulatory region binding	18	208	0.000114380716739	0.00619105028242
+GO:0003677	DNA binding	21	270	0.000144282951497	0.00619105028242
+GO:0004697	diacylglycerol-dependent serine/threonine kinase activity	4	9	0.000113506370095	0.00619105028242
+GO:0141089	glucose sensor activity	2	2	0.00101892021143	0.0267183522107
+GO:0009378	four-way junction helicase activity	2	2	0.00101892021143	0.0267183522107
+GO:0050253	retinyl-palmitate esterase activity	2	2	0.00101892021143	0.0267183522107
+GO:0004698	calcium,diacylglycerol-dependent serine/threonine kinase activity	2	2	0.00101892021143	0.0267183522107
+GO:0035403	histone H3T6 kinase activity	2	2	0.00101892021143	0.0267183522107
+GO:0034617	tetrahydrobiopterin binding	2	2	0.00101892021143	0.0267183522107
+GO:0061749	forked DNA-dependent helicase activity	2	2	0.00101892021143	0.0267183522107
+GO:0020037	heme binding	7	51	0.00109739248975	0.0272615397455
+GO:0051880	G-quadruplex DNA binding	3	8	0.00160719008472	0.0361235104757
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	20	302	0.00159994750124	0.0361235104757

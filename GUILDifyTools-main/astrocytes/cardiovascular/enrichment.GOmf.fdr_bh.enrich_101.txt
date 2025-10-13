@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070888	E-box binding	6	39	6.84473956707e-06	0.00131418999688
+GO:0048018	receptor ligand activity	6	68	0.00017239056169	0.00643209962202
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	2	2	0.000148487706557	0.00643209962202
+GO:0030020	extracellular matrix structural constituent conferring tensile strength	3	10	0.000201003113188	0.00643209962202
+GO:0003914	DNA (6-4) photolyase activity	2	2	0.000148487706557	0.00643209962202
+GO:0043395	heparan sulfate proteoglycan binding	3	10	0.000201003113188	0.00643209962202
+GO:0050750	low-density lipoprotein particle receptor binding	3	12	0.000361986518782	0.00992877308658
+GO:0003684	damaged DNA binding	4	31	0.000517326848765	0.0124158443704
+GO:0005159	insulin-like growth factor receptor binding	2	4	0.000876723739468	0.0187034397753
+GO:0005178	integrin binding	4	44	0.00197607057049	0.0376482906686
+GO:0072341	modified amino acid binding	2	6	0.00215693331956	0.0376482906686

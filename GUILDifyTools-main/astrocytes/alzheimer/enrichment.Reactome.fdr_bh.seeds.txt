@@ -1,0 +1,46 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	3	3	3.69609984678e-07	6.69073558421e-05
+R-HSA-977225	Amyloid fiber formation	7	68	5.43962242619e-07	6.69073558421e-05
+R-HSA-1251985	Nuclear signaling by ERBB4	5	30	2.18926284644e-06	0.000179519553408
+R-HSA-422085	Synthesis, secretion, and deacylation of Ghrelin	4	15	3.31008673602e-06	0.000203570334265
+R-HSA-2428928	IRS-related events triggered by IGF1R	3	6	7.27689969736e-06	0.00035802346511
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	7	110	1.40234113841e-05	0.000551123009813
+R-HSA-114608	Platelet degranulation 	7	116	1.98512093616e-05	0.000551123009813
+R-HSA-2428933	SHC-related events triggered by IGF1R	3	8	2.01630369444e-05	0.000551123009813
+R-HSA-9017802	Noncanonical activation of NOTCH3	3	8	2.01630369444e-05	0.000551123009813
+R-HSA-9013700	NOTCH4 Activation and Transmission of Signal to the Nucleus	3	9	3.00866538568e-05	0.000740131684877
+R-HSA-9839383	TGFBR3 PTM regulation	3	10	4.27565987664e-05	0.000956193026957
+R-HSA-74752	Signaling by Insulin receptor	2	2	5.22508938638e-05	0.00107114332421
+R-HSA-193692	Regulated proteolysis of p75NTR	3	11	5.84835553696e-05	0.00110668881699
+R-HSA-205043	NRIF signals cell death from the nucleus	3	12	7.7571294696e-05	0.00136303846394
+R-HSA-2979096	NOTCH2 Activation and Transmission of Signal to the Nucleus	3	16	0.000193368952367	0.00317125081882
+R-HSA-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	3	18	0.000278838539313	0.00428714254193
+R-HSA-112311	Neurotransmitter clearance	2	4	0.000310556212359	0.00449393107297
+R-HSA-3928665	EPH-ephrin mediated repulsion of cells	4	46	0.000333816714503	0.00456216176488
+R-HSA-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	3	21	0.000447419464309	0.00579290464316
+R-HSA-74713	IRS activation	2	5	0.000515155313416	0.00633641035502
+R-HSA-9660826	Purinergic signaling in leishmaniasis infection	3	25	0.000757764109637	0.00847318049867
+R-HSA-2122948	Activated NOTCH1 Transmits Signal to the Nucleus	3	25	0.000757764109637	0.00847318049867
+R-HSA-5620971	Pyroptosis	3	26	0.000852151614922	0.00873455405295
+R-HSA-70263	Gluconeogenesis	3	26	0.000852151614922	0.00873455405295
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	3	27	0.000953690285321	0.00902337731496
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	5	104	0.000931817620275	0.00902337731496
+R-HSA-77387	Insulin receptor recycling	3	30	0.00130324255549	0.0117701851392
+R-HSA-74751	Insulin receptor signalling cascade	2	8	0.00142216579692	0.0117701851392
+R-HSA-9022702	MECP2 regulates transcription of neuronal ligands	2	8	0.00142216579692	0.0117701851392
+R-HSA-70171	Glycolysis	3	31	0.00143538843161	0.0117701851392
+R-HSA-629594	Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	2	9	0.00181990269496	0.0139905019675
+R-HSA-74749	Signal attenuation	2	9	0.00181990269496	0.0139905019675
+R-HSA-1474228	Degradation of the extracellular matrix	4	73	0.00192123011185	0.0143218971974
+R-HSA-264870	Caspase-mediated cleavage of cytoskeletal proteins	2	12	0.00328970098084	0.0231218983225
+R-HSA-977606	Regulation of Complement cascade	3	41	0.00323175042471	0.0231218983225
+R-HSA-8866910	TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	2	13	0.00386958901877	0.0264421916283
+R-HSA-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	4	94	0.00480170227239	0.0319248313246
+R-HSA-8957275	Post-translational protein phosphorylation	4	95	0.00498562434541	0.0322753576045
+R-HSA-399956	CRMPs in Sema3A signaling	2	16	0.00586990656795	0.0335813259469
+R-HSA-844456	The NLRP3 inflammasome	2	16	0.00586990656795	0.0335813259469
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	3	50	0.00567139004243	0.0335813259469
+R-HSA-9009391	Extra-nuclear estrogen signaling	3	50	0.00567139004243	0.0335813259469
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	3	50	0.00567139004243	0.0335813259469
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	2	17	0.00662141651713	0.0370197378003
+R-HSA-9768919	NPAS4 regulates expression of target genes	2	20	0.00912133193545	0.0498632812472

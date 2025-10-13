@@ -1,0 +1,20 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003730	mRNA 3'-UTR binding	12	52	1.08586612495e-06	0.000436518182231
+GO:0098505	G-rich strand telomeric DNA binding	5	9	1.36771298447e-05	0.00274910309878
+GO:0030911	TPR domain binding	3	3	7.26733083867e-05	0.00973822332382
+GO:0008143	poly(A) binding	5	13	0.000121539502628	0.0122147200141
+GO:0030235	nitric-oxide synthase regulator activity	3	4	0.000281644719588	0.0226442354549
+GO:0003697	single-stranded DNA binding	10	68	0.000482351680162	0.0323175625709
+GO:0034450	ubiquitin-ubiquitin ligase activity	4	11	0.000787092837891	0.039551415104
+GO:0031593	polyubiquitin modification-dependent protein binding	6	27	0.000721226549303	0.039551415104
+GO:0031624	ubiquitin conjugating enzyme binding	2	2	0.00174623578152	0.0430756376382
+GO:0031625	ubiquitin protein ligase binding	7	39	0.00102192544718	0.0430756376382
+GO:0001018	mitochondrial promoter sequence-specific DNA binding	2	2	0.00174623578152	0.0430756376382
+GO:0003684	damaged DNA binding	6	31	0.00155755190884	0.0430756376382
+GO:0042162	telomeric DNA binding	5	22	0.00182160656679	0.0430756376382
+GO:0046625	sphingolipid binding	2	2	0.00174623578152	0.0430756376382
+GO:0008308	voltage-gated monoatomic anion channel activity	2	2	0.00174623578152	0.0430756376382
+GO:0003725	double-stranded RNA binding	8	53	0.00147828234592	0.0430756376382
+GO:0061752	telomeric repeat-containing RNA binding	2	2	0.00174623578152	0.0430756376382
+GO:0003724	RNA helicase activity	5	23	0.00224888209418	0.0475816106243
+GO:0051575	5'-deoxyribose-5-phosphate lyase activity	3	7	0.00224223973445	0.0475816106243

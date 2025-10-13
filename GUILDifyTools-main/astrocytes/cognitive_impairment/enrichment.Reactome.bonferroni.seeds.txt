@@ -1,0 +1,10 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9603798	Class I peroxisomal membrane protein import	9	19	4.9812537216e-15	1.45950734043e-12
+R-HSA-9033241	Peroxisomal protein import	9	52	1.62140043126e-10	4.75070326359e-08
+R-HSA-5696395	Formation of Incision Complex in GG-NER	7	35	6.77871572434e-09	1.98616370723e-06
+R-HSA-5696400	Dual Incision in GG-NER	6	36	2.7440410016e-07	8.04004013468e-05
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	6	46	1.24180319907e-06	0.000363848337327
+R-HSA-71403	Citric acid cycle (TCA cycle)	4	17	7.13239420364e-06	0.00208979150167
+R-HSA-9854311	Maturation of TCA enzymes and regulation of TCA cycle	4	20	1.42677547159e-05	0.00418045213176
+R-HSA-6782135	Dual incision in TC-NER	5	58	7.85586993429e-05	0.0230176989075
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	5	59	8.53215392356e-05	0.024999210996

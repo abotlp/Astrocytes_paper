@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	2	2	0.000410864042418	0.0315338152555
+GO:0003914	DNA (6-4) photolyase activity	2	2	0.000410864042418	0.0315338152555
+GO:0070888	E-box binding	6	39	0.000120858932924	0.0315338152555
+GO:0003684	damaged DNA binding	5	31	0.000362391745293	0.0315338152555
+GO:0098505	G-rich strand telomeric DNA binding	3	9	0.000633606475047	0.0389034375679
+GO:0030020	extracellular matrix structural constituent conferring tensile strength	3	10	0.000891664966673	0.0391058778241
+GO:0043395	heparan sulfate proteoglycan binding	3	10	0.000891664966673	0.0391058778241
+GO:0070573	metallodipeptidase activity	2	3	0.00121607939879	0.0466670469287

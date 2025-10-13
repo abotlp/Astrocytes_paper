@@ -1,0 +1,44 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003914	DNA (6-4) photolyase activity	2	2	4.19768216717e-05	0.0020708565358
+GO:0030020	extracellular matrix structural constituent conferring tensile strength	3	10	3.07289418858e-05	0.0020708565358
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	2	2	4.19768216717e-05	0.0020708565358
+GO:0072341	modified amino acid binding	2	6	0.00061914414817	0.0229083334823
+GO:0048018	receptor ligand activity	4	68	0.00097689096282	0.0289159724995
+GO:0005148	prolactin receptor binding	1	1	0.00653827864953	0.0358394533382
+GO:0004489	methylenetetrahydrofolate reductase (NAD(P)H) activity	1	1	0.00653827864953	0.0358394533382
+GO:0016314	phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity	1	1	0.00653827864953	0.0358394533382
+GO:0008083	growth factor activity	3	37	0.00175597490854	0.0358394533382
+GO:0070186	growth hormone activity	1	1	0.00653827864953	0.0358394533382
+GO:0005543	phospholipid binding	3	47	0.00349945134869	0.0358394533382
+GO:0010465	nerve growth factor receptor activity	1	1	0.00653827864953	0.0358394533382
+GO:0004465	lipoprotein lipase activity	1	1	0.00653827864953	0.0358394533382
+GO:0015377	chloride:monoatomic cation symporter activity	1	1	0.00653827864953	0.0358394533382
+GO:0050750	low-density lipoprotein particle receptor binding	2	12	0.00265647124683	0.0358394533382
+GO:0005178	integrin binding	3	44	0.00289802085747	0.0358394533382
+GO:0030379	neurotensin receptor activity, non-G protein-coupled	1	1	0.00653827864953	0.0358394533382
+GO:0020037	heme binding	3	51	0.00441240718583	0.0358394533382
+GO:0004122	cystathionine beta-synthase activity	1	1	0.00653827864953	0.0358394533382
+GO:0043395	heparan sulfate proteoglycan binding	2	10	0.00182648831332	0.0358394533382
+GO:0046911	metal chelating activity	1	1	0.00653827864953	0.0358394533382
+GO:0031707	endothelin A receptor binding	1	1	0.00653827864953	0.0358394533382
+GO:0004940	beta1-adrenergic receptor activity	1	1	0.00653827864953	0.0358394533382
+GO:0031708	endothelin B receptor binding	1	1	0.00653827864953	0.0358394533382
+GO:0000146	microfilament motor activity	2	15	0.00417341709664	0.0358394533382
+GO:0052866	phosphatidylinositol phosphate phosphatase activity	1	1	0.00653827864953	0.0358394533382
+GO:0051800	phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity	1	1	0.00653827864953	0.0358394533382
+GO:0008201	heparin binding	3	61	0.00728324727856	0.0384971641867
+GO:0008511	sodium:potassium:chloride symporter activity	1	2	0.0130345804775	0.0448632072249
+GO:0051717	inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity	1	2	0.0130345804775	0.0448632072249
+GO:0070026	nitric oxide binding	1	2	0.0130345804775	0.0448632072249
+GO:0070025	carbon monoxide binding	1	2	0.0130345804775	0.0448632072249
+GO:0102007	acyl-L-homoserine-lactone lactonohydrolase activity	1	2	0.0130345804775	0.0448632072249
+GO:0046873	metal ion transmembrane transporter activity	1	2	0.0130345804775	0.0448632072249
+GO:0005179	hormone activity	2	25	0.0114361916299	0.0448632072249
+GO:0047696	beta-adrenergic receptor kinase activity	1	2	0.0130345804775	0.0448632072249
+GO:0008240	tripeptidyl-peptidase activity	1	2	0.0130345804775	0.0448632072249
+GO:0008241	peptidyl-dipeptidase activity	1	2	0.0130345804775	0.0448632072249
+GO:0031727	CCR2 chemokine receptor binding	1	2	0.0130345804775	0.0448632072249
+GO:0034617	tetrahydrobiopterin binding	1	2	0.0130345804775	0.0448632072249
+GO:0030351	inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity	1	2	0.0130345804775	0.0448632072249
+GO:0030492	hemoglobin binding	1	2	0.0130345804775	0.0448632072249
+GO:0004666	prostaglandin-endoperoxide synthase activity	1	2	0.0130345804775	0.0448632072249

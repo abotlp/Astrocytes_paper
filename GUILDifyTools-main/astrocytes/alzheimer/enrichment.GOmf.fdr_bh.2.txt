@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004713	protein tyrosine kinase activity	12	52	5.45900925439e-07	0.000240196407193
+GO:0019003	GDP binding	11	49	2.19257191588e-06	0.000482365821493
+GO:0003924	GTPase activity	14	100	3.22237674254e-05	0.00360559263258
+GO:0019828	aspartic-type endopeptidase inhibitor activity	4	6	3.27781148416e-05	0.00360559263258
+GO:0160185	phospholipase C activator activity	3	3	5.98467800258e-05	0.00438876386856
+GO:0043559	insulin binding	3	3	5.98467800258e-05	0.00438876386856
+GO:0005159	insulin-like growth factor receptor binding	3	4	0.000232405351614	0.0137825283665
+GO:0098505	G-rich strand telomeric DNA binding	4	9	0.000250591424845	0.0137825283665
+GO:0050321	tau-protein kinase activity	4	10	0.000404778889514	0.019789190154
+GO:0005007	fibroblast growth factor receptor activity	3	5	0.000564100360415	0.0248204158583
+GO:0001018	mitochondrial promoter sequence-specific DNA binding	2	2	0.00153448603664	0.0482267040087
+GO:0004104	cholinesterase activity	2	2	0.00153448603664	0.0482267040087
+GO:0008240	tripeptidyl-peptidase activity	2	2	0.00153448603664	0.0482267040087
+GO:0003990	acetylcholinesterase activity	2	2	0.00153448603664	0.0482267040087

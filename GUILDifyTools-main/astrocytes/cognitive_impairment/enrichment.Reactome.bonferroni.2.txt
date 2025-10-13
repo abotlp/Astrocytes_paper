@@ -1,0 +1,19 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9603798	Class I peroxisomal membrane protein import	13	19	2.07160216521e-15	1.47912394596e-12
+R-HSA-9013408	RHOG GTPase cycle	16	72	2.40878501825e-09	1.71987250303e-06
+R-HSA-5696395	Formation of Incision Complex in GG-NER	11	35	1.58628106472e-08	1.13260468021e-05
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	1.33935320577e-07	9.56298188918e-05
+R-HSA-9013404	RAC2 GTPase cycle	15	86	2.37343581933e-07	0.0001694633175
+R-HSA-5696400	Dual Incision in GG-NER	10	36	2.68710373563e-07	0.000191859206724
+R-HSA-9013405	RHOD GTPase cycle	11	53	1.64797467251e-06	0.00117665391617
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	7	19	2.09658015715e-06	0.0014969582322
+R-HSA-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	7	21	4.55413523802e-06	0.00325165255995
+R-HSA-2980766	Nuclear Envelope Breakdown	5	9	5.67879038635e-06	0.00405465633586
+R-HSA-71403	Citric acid cycle (TCA cycle)	6	17	1.555128039e-05	0.0111036141985
+R-HSA-9013423	RAC3 GTPase cycle	13	92	1.69574628586e-05	0.012107628481
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	1.96480733627e-05	0.014028724381
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	5	11	1.96480733627e-05	0.014028724381
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	11	72	3.60817402651e-05	0.0257623625493
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.2307581776e-05	0.030207613388
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.2307581776e-05	0.030207613388
+R-HSA-9033241	Peroxisomal protein import	9	52	6.80680616275e-05	0.0486005960021

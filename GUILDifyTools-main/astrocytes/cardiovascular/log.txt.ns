@@ -1,0 +1,2 @@
+Arguments: scoring type s, nRepetition 3, nIteration 2, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cardiovascular/node_scores.txt, edgeFile /home/patricia/BIANA_phy/edge_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cardiovascular/output_scores.txt.ns
+Time: 2642220000 (2642.22s)

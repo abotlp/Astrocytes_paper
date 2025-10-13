@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-8963901	Chylomicron remodeling	4	10	1.96176057352e-07	4.55128453056e-05
+R-HSA-400253	Circadian Clock	6	50	3.46735076294e-07	8.04425377003e-05
+R-HSA-216083	Integrin cell surface interactions	6	78	4.95769653917e-06	0.00115018559709
+R-HSA-8963888	Chylomicron assembly	3	10	2.06608563329e-05	0.00479331866923
+R-HSA-419037	NCAM1 interactions	4	34	3.91246935634e-05	0.00907692890672
+R-HSA-975634	Retinoid metabolism and transport	4	38	6.12257449069e-05	0.0142043728184

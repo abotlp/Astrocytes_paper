@@ -1,0 +1,39 @@
+nohup: ignoring input
+['BIN1', 'BDNF', 'PSEN2', 'BAX', 'BCL2', 'CR1', 'VSNL1', 'ACHE', 'CLU', 'APOE', 'A2M', 'TF', 'EPHA1', 'CST3', 'PAXIP1', 'NCSTN', 'EIF2S1', 'PRNP', 'IDE', 'ESR1', 'SOD2', 'BLMH', 'TNF', 'GATA1', 'PSEN1', 'PLAU', 'HMOX1', 'GAPDHS', 'ENO1', 'TFAM', 'CHRFAM7A', 'CHRNA7', 'CRH', 'APP', 'CYP46A1', 'AMFR', 'DPYSL2', 'MTHFR', 'GSK3B', 'CHRNB2', 'CD2AP', 'IGF1R', 'INS', 'F2', 'DHCR24', 'NOS3', 'INSR', 'SORL1', 'VEGFA', 'TPI1', 'IGF2', 'IGF1', 'IL1B', 'APBB2', 'MAPT', 'SLC30A6', 'PYY', 'PICALM', 'MAOB', 'PPARG', 'BCHE', 'SLC2A4', 'ACE', 'BACE1', 'NPY', 'SLC30A4', 'IGF2R', 'TPP1', 'CASP3', 'CD33']
+{'di': None, 'nd': None, 'nz': [5], 'ff': [5, 1.0], 'np': None, 'nr': None, 'ns': [3, 2], 'nw': None}
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=di / Parameters=None.
+
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=nd / Parameters=None.
+
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=nz / Parameters=[5].
+
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=ff / Parameters=[5, 1.0].
+
+R --slave --args /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/node_scores.txt /home/patricia/BIANA_phy/edge_scores_spaces.txt /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/output_scores.txt.np 1 < /home/patricia/guild/src/random_walk.r &> /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/log.txt.np
+GUILDIFY INFO:	Executing GUILD with the following parameters: Score=np / Parameters=None.
+
+GUILDIFY INFO:	GUILD has finished.
+
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=nr / Parameters=None.
+
+GUILDIFY INFO:	The scoring of the network with GUILD was already done for: Score=ns / Parameters=[3, 2].
+
+R --slave --args /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/node_scores.txt /home/patricia/BIANA_phy/edge_scores_spaces.txt /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/output_scores.txt.nw < /home/patricia/guild/src/random_walk.r &> /home/patricia/GUILDifyTools-main/new_corrected_networks/alzheimer/log.txt.nw
+GUILDIFY INFO:	Executing GUILD with the following parameters: Score=nw / Parameters=None.
+
+GUILDIFY INFO:	GUILD has finished.
+
+GUILDIFY INFO:	Creating DIAMOnD-specific output file.
+
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+set(['89832', '26330', '627', '7018', '596', '5664', '1200', '3630', '3479', '5663', '1141', '274', '8301', '7019', '10858', '2099', '4129', '836', '1636', '1191', '1965', '22976', '43', '5621', '6517', '323', '642', '3162', '1378', '4846', '4524', '348', '1392', '7422', '3643', '2623', '23607', '581', '3481', '3480', '3482', '2932', '267', '6648', '7124', '7782', '5328', '23621', '2', '3416', ' 1139', '1718', '7447', '2041', '590', '5468', '945', '6653', '7167', '1808', '2147', '1471', '23385', '5697', '351', '2023', '4137', '4852', '55676', '3553'])
+Initial position: 36
+Final position: 465
+calculating shortest paths...
+...shortest paths calculated.
+writing shortest paths...
+...shortest paths written.

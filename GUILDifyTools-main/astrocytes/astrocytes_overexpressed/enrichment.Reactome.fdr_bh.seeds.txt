@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9673324	WNT5:FZD7-mediated leishmania damping	2	11	0.000351903886625	0.0169677913445
+R-HSA-6790901	rRNA modification in the nucleus and cytosol	3	59	0.000458588955255	0.0169677913445
+R-HSA-72764	Eukaryotic Translation Termination	3	72	0.000822769153158	0.0202949724446

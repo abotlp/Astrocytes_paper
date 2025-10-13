@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004923	leukemia inhibitory factor receptor activity	2	2	4.5114483089e-05	0.00378961657947
+GO:0004924	oncostatin-M receptor activity	2	3	0.000134753366847	0.0113192828151
+GO:0004897	ciliary neurotrophic factor receptor activity	2	3	0.000134753366847	0.0113192828151

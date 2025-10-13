@@ -1,0 +1,18 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	112	646	2.97812476864e-10	1.69455299336e-07
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	64	302	1.01832175892e-09	2.89712540413e-07
+GO:0003713	transcription coactivator activity	41	162	5.86896535809e-09	1.11314709625e-06
+GO:0003712	transcription coregulator activity	16	33	1.34387093112e-08	1.91165639952e-06
+GO:0000976	transcription cis-regulatory region binding	45	208	1.7780594017e-07	2.02343159914e-05
+GO:0003700	DNA-binding transcription factor activity	44	206	3.57495716314e-07	3.39025104304e-05
+GO:0046966	nuclear thyroid hormone receptor binding	9	14	9.61442687945e-07	7.76444259318e-05
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	52	271	1.09166152452e-06	7.76444259318e-05
+GO:0008143	poly(A) binding	7	13	8.20017066567e-05	0.00507720835161
+GO:0003714	transcription corepressor activity	25	115	8.9230375248e-05	0.00507720835161
+GO:0030374	nuclear receptor coactivator activity	12	37	0.000124475167269	0.00643876092509
+GO:1990837	sequence-specific double-stranded DNA binding	72	500	0.000372198756371	0.0176484243646
+GO:1990841	promoter-specific chromatin binding	11	36	0.000427073187767	0.0186926649107
+GO:0033592	RNA strand annealing activity	3	3	0.000919848637017	0.0349615787694
+GO:0004402	histone acetyltransferase activity	7	18	0.000983102390703	0.0349615787694
+GO:0003682	chromatin binding	31	178	0.000935774456306	0.0349615787694
+GO:0008013	beta-catenin binding	9	29	0.00125298007582	0.0419379801847

@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0002181	cytoplasmic translation	13	21	6.66788441838e-10	1.64563387446e-06
+GO:0017148	negative regulation of translation	21	59	2.58670468451e-09	6.38398716136e-06
+GO:0050821	protein stabilization	38	168	4.25268914371e-09	1.04956368067e-05
+GO:0032212	positive regulation of telomere maintenance via telomerase	12	21	1.11773793513e-08	2.7585772239e-05
+GO:0061077	chaperone-mediated protein folding	13	26	2.32009820634e-08	5.72600237324e-05
+GO:0051086	chaperone mediated protein folding independent of cofactor	7	8	1.68383469338e-07	0.000415570402325
+GO:0031396	regulation of protein ubiquitination	7	12	1.24561012805e-05	0.0307416579603
+GO:0000398	mRNA splicing, via spliceosome	21	93	1.29198604389e-05	0.0318862155631
+GO:0006413	translational initiation	10	26	1.87310534768e-05	0.0462282399807
+GO:0032873	negative regulation of stress-activated MAPK cascade	5	6	1.94785366444e-05	0.0480730284383

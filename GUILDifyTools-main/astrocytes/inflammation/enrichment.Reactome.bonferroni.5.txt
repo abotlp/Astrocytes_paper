@@ -1,0 +1,53 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	41	104	8.92568475921e-18	1.10410720471e-14
+R-HSA-5357905	Regulation of TNFR1 signaling	22	40	8.41050134221e-14	1.04037901603e-10
+R-HSA-5357956	TNFR1-induced NF-kappa-B signaling pathway	18	27	1.43684932835e-13	1.77738261916e-10
+R-HSA-5357786	TNFR1-induced proapoptotic signaling	16	24	3.39102804119e-12	4.19470168695e-09
+R-HSA-6783783	Interleukin-10 signaling	19	43	5.91628031858e-10	7.31843875409e-07
+R-HSA-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation	10	12	1.28740782506e-09	1.59252347959e-06
+R-HSA-933542	TRAF6 mediated NF-kB activation	14	25	2.20982933814e-09	2.73355889128e-06
+R-HSA-450341	Activation of the AP-1 family of transcription factors	9	10	2.46507156021e-09	3.04929351998e-06
+R-HSA-9018519	Estrogen-dependent gene expression	31	113	4.00395379304e-09	4.95289084199e-06
+R-HSA-445989	TAK1-dependent IKK and NF-kappa-B activation  	15	30	4.69503229217e-09	5.80775494542e-06
+R-HSA-383280	Nuclear Receptor transcription pathway	19	50	1.25016529727e-08	1.54645447272e-05
+R-HSA-9660826	Purinergic signaling in leishmaniasis infection	13	25	2.78816702675e-08	3.44896261209e-05
+R-HSA-5603029	IkBA variant leads to EDA-ID	7	7	3.60995753094e-08	4.46551746577e-05
+R-HSA-168638	NOD1/2 Signaling Pathway	14	31	8.00423286534e-08	9.90123605443e-05
+R-HSA-844456	The NLRP3 inflammasome	10	16	1.12969070933e-07	0.000139742740744
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	13	28	1.56825875811e-07	0.000193993608379
+R-HSA-1810476	RIP-mediated NFkB activation via ZBP1	10	17	2.53037857514e-07	0.000313007829744
+R-HSA-5675482	Regulation of necroptotic cell death	11	21	3.06976645519e-07	0.000379730110507
+R-HSA-9707616	Heme signaling	16	44	3.63502843573e-07	0.000449653017499
+R-HSA-9020702	Interleukin-1 signaling	20	66	4.0207897903e-07	0.000497371697061
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	8	11	4.03995020586e-07	0.000499741840465
+R-HSA-400253	Circadian Clock	17	50	4.79429622152e-07	0.000593054442603
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	16	46	7.3261264378e-07	0.000906241840355
+R-HSA-4090294	SUMOylation of intracellular receptors	12	27	8.56484426091e-07	0.00105947123508
+R-HSA-209560	NF-kB is activated and signals survival	7	9	1.11130907856e-06	0.00137468933018
+R-HSA-5602498	MyD88 deficiency (TLR2/4)	9	16	1.74269062533e-06	0.00215570830353
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	16	50	2.61121808903e-06	0.00323007677613
+R-HSA-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	6	7	2.71596985977e-06	0.00335965471654
+R-HSA-75893	TNF signaling	6	7	2.71596985977e-06	0.00335965471654
+R-HSA-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	11	25	2.80260472877e-06	0.00346682204949
+R-HSA-2871796	FCERI mediated MAPK activation	12	30	3.3353090443e-06	0.00412577728779
+R-HSA-5603041	IRAK4 deficiency (TLR2/4)	9	17	3.41854998915e-06	0.00422874633658
+R-HSA-450321	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	9	17	3.41854998915e-06	0.00422874633658
+R-HSA-9693928	Defective RIPK1-mediated regulated necrosis	5	5	4.85644871017e-06	0.00600742705448
+R-HSA-5213460	RIPK1-mediated regulated necrosis	10	22	5.61985026711e-06	0.00695175478042
+R-HSA-9705671	SARS-CoV-2 activates/modulates innate and adaptive immune responses	25	110	5.71514661772e-06	0.00706963636612
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	23	97	6.33417206031e-06	0.0078353708386
+R-HSA-2408522	Selenoamino acid metabolism	7	11	8.71463396084e-06	0.0107800022096
+R-HSA-1169091	Activation of NF-kappaB in B cells	15	49	9.8968849881e-06	0.0122424467303
+R-HSA-9818749	Regulation of NFE2L2 gene expression	6	8	1.0062741643e-05	0.0124476114123
+R-HSA-1236974	ER-Phagosome pathway	18	69	1.58369694081e-05	0.0195903311579
+R-HSA-400206	Regulation of lipid metabolism by PPARalpha	9	20	1.85880623296e-05	0.0229934331017
+R-HSA-6802946	Signaling by moderate kinase activity BRAF mutants	13	40	1.88348942724e-05	0.0232987642149
+R-HSA-9649948	Signaling downstream of RAS mutants	13	40	1.88348942724e-05	0.0232987642149
+R-HSA-6802955	Paradoxical activation of RAF signaling by kinase inactive BRAF	13	40	1.88348942724e-05	0.0232987642149
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	20	83	1.95504558251e-05	0.0241839138556
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	20	83	1.95504558251e-05	0.0241839138556
+R-HSA-5673000	RAF activation	11	30	2.29028737921e-05	0.0283308548808
+R-HSA-9634635	Estrogen-stimulated signaling through PRKCZ	5	6	2.70440013235e-05	0.0334534296372
+R-HSA-5660668	CLEC7A/inflammasome pathway	5	6	2.70440013235e-05	0.0334534296372
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	16	59	2.76344369761e-05	0.0341837985394
+R-HSA-448706	Interleukin-1 processing	6	9	2.7965606772e-05	0.034593455577

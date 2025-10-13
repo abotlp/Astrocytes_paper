@@ -1,0 +1,97 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	10	10	2.37879455772e-11	2.94732645702e-08
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	21	49	1.57871343384e-10	1.95602594453e-07
+R-HSA-2408522	Selenoamino acid metabolism	10	11	2.41185744926e-10	2.98829137963e-07
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	10	11	2.41185744926e-10	2.98829137963e-07
+R-HSA-400253	Circadian Clock	21	50	2.50157742935e-10	3.09945443497e-07
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	20	46	3.1626911414e-10	3.9185743242e-07
+R-HSA-389513	CTLA4 inhibitory signaling	13	20	6.56428205733e-10	8.13314546903e-07
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	28	90	1.0850360521e-09	1.34435966855e-06
+R-HSA-1169091	Activation of NF-kappaB in B cells	20	49	1.23842421745e-09	1.53440760542e-06
+R-HSA-187577	SCF(Skp2)-mediated degradation of p27/p21	19	45	1.61927764635e-09	2.00628500382e-06
+R-HSA-432142	Platelet sensitization by LDL	11	16	5.93629892952e-09	7.35507437367e-06
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	27	91	6.86710387889e-09	8.50834170595e-06
+R-HSA-379716	Cytosolic tRNA aminoacylation	13	24	1.51794196543e-08	1.88073009516e-05
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	17	42	2.54711429232e-08	3.15587460818e-05
+R-HSA-69231	Cyclin D associated events in G1	17	42	2.54711429232e-08	3.15587460818e-05
+R-HSA-6804757	Regulation of TP53 Degradation	14	29	2.89159869976e-08	3.58269078901e-05
+R-HSA-5675221	Negative regulation of MAPK pathway	15	34	4.2304569061e-08	5.24153610666e-05
+R-HSA-5673000	RAF activation	14	30	4.99005834923e-08	6.18268229469e-05
+R-HSA-9018519	Estrogen-dependent gene expression	29	113	6.95105752856e-08	8.61236027788e-05
+R-HSA-2871837	FCERI mediated NF-kB activation	20	61	9.94749830049e-08	0.000123249503943
+R-HSA-912446	Meiotic recombination	18	51	1.21269361037e-07	0.000150252738325
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	16	41	1.21275328051e-07	0.000150260131455
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	13	28	1.63605201598e-07	0.00020270684478
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	15	37	1.66301556682e-07	0.000206047628729
+R-HSA-68949	Orc1 removal from chromatin	18	52	1.70566305512e-07	0.00021133165253
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	12	24	1.77176699163e-07	0.000219521930263
+R-HSA-202424	Downstream TCR signaling	22	75	2.14528114624e-07	0.00026580033402
+R-HSA-72689	Formation of a pool of free 40S subunits	23	81	2.19596175268e-07	0.000272079661157
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	19	59	2.86237706542e-07	0.000354648518405
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	11	21	3.18434549822e-07	0.000394540407229
+R-HSA-5250924	B-WICH complex positively regulates rRNA expression	18	54	3.27682980448e-07	0.000405999212774
+R-HSA-5339716	Signaling by GSK3beta mutants	9	14	3.69202837522e-07	0.000457442315689
+R-HSA-5358747	CTNNB1 S33 mutants aren't phosphorylated	9	14	3.69202837522e-07	0.000457442315689
+R-HSA-5358749	CTNNB1 S37 mutants aren't phosphorylated	9	14	3.69202837522e-07	0.000457442315689
+R-HSA-5358752	CTNNB1 T41 mutants aren't phosphorylated	9	14	3.69202837522e-07	0.000457442315689
+R-HSA-5358751	CTNNB1 S45 mutants aren't phosphorylated	9	14	3.69202837522e-07	0.000457442315689
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	17	50	5.04583163437e-07	0.000625178539499
+R-HSA-9616222	Transcriptional regulation of granulopoiesis	17	50	5.04583163437e-07	0.000625178539499
+R-HSA-9010553	Regulation of expression of SLITs and ROBOs	30	132	7.31464097578e-07	0.000906284016899
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	10	19	1.0572669883e-06	0.00130995379851
+R-HSA-6802952	Signaling by BRAF and RAF1 fusions	18	58	1.08849958091e-06	0.00134865098075
+R-HSA-2559582	Senescence-Associated Secretory Phenotype (SASP)	20	70	1.21229209987e-06	0.00150202991174
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	24	95	1.26924350647e-06	0.00157259270452
+R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	15	43	1.63487046526e-06	0.00202560450646
+R-HSA-196299	Beta-catenin phosphorylation cascade	9	16	1.79639317943e-06	0.00222573114932
+R-HSA-9020702	Interleukin-1 signaling	19	66	1.97120748703e-06	0.00244232607644
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	19	66	1.97120748703e-06	0.00244232607644
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	16	49	2.02294469426e-06	0.00250642847619
+R-HSA-3371568	Attenuation phase	8	13	2.76397189875e-06	0.00342456118256
+R-HSA-5467337	APC truncation mutants have impaired AXIN binding	8	13	2.76397189875e-06	0.00342456118256
+R-HSA-5467340	AXIN missense mutants destabilize the destruction complex	8	13	2.76397189875e-06	0.00342456118256
+R-HSA-5467348	Truncations of AMER1 destabilize the destruction complex	8	13	2.76397189875e-06	0.00342456118256
+R-HSA-5603029	IkBA variant leads to EDA-ID	6	7	2.77449536583e-06	0.00343759975826
+R-HSA-72649	Translation initiation complex formation	15	45	3.15198051402e-06	0.00390530385687
+R-HSA-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	20	74	3.15331198494e-06	0.00390695354934
+R-HSA-3371511	HSF1 activation	7	10	3.51046317582e-06	0.00434946387484
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	7	10	3.51046317582e-06	0.00434946387484
+R-HSA-450341	Activation of the AP-1 family of transcription factors	7	10	3.51046317582e-06	0.00434946387484
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	9	17	3.52283603858e-06	0.00436479385179
+R-HSA-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	16	51	3.67060043176e-06	0.00454787393495
+R-HSA-2559580	Oxidative Stress Induced Senescence	21	82	4.60292385673e-06	0.00570302265849
+R-HSA-9013418	RHOBTB2 GTPase cycle	10	22	5.80512694581e-06	0.00719255228586
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	8	14	5.95699731384e-06	0.00738071967184
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	8	14	5.95699731384e-06	0.00738071967184
+R-HSA-9604323	Negative regulation of NOTCH4 signaling	13	37	7.41551897717e-06	0.00918782801272
+R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	13	37	7.41551897717e-06	0.00918782801272
+R-HSA-2299718	Condensation of Prophase Chromosomes	13	37	7.41551897717e-06	0.00918782801272
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	16	54	8.41112344116e-06	0.0104213819436
+R-HSA-8939211	ESR-mediated signaling	7	11	8.92674578339e-06	0.0110602380256
+R-HSA-5693571	Nonhomologous End-Joining (NHEJ)	15	49	1.03381852289e-05	0.0128090114986
+R-HSA-5689880	Ub-specific processing proteases	32	165	1.1758271533e-05	0.0145684984294
+R-HSA-69473	G2/M DNA damage checkpoint	17	62	1.39364364461e-05	0.0172672447567
+R-HSA-9755511	KEAP1-NFE2L2 pathway	16	56	1.40657993992e-05	0.0174275254556
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer	10	24	1.49794730459e-05	0.0185595671038
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	19	75	1.5391173309e-05	0.0190696637298
+R-HSA-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	12	34	1.5829822786e-05	0.0196131504319
+R-HSA-9837999	Mitochondrial protein degradation	22	95	1.58812943736e-05	0.0196769237288
+R-HSA-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	11	29	1.62753716021e-05	0.0201651854151
+R-HSA-72702	Ribosomal scanning and start codon recognition	14	45	1.65599523251e-05	0.0205177809308
+R-HSA-9768919	NPAS4 regulates expression of target genes	9	20	1.91379051598e-05	0.023711864493
+R-HSA-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation	7	12	1.98127745132e-05	0.0245480276218
+R-HSA-9825892	Regulation of MITF-M-dependent genes involved in cell cycle and proliferation	8	16	2.17868937882e-05	0.0269939614036
+R-HSA-9617828	FOXO-mediated transcription of cell cycle genes	8	16	2.17868937882e-05	0.0269939614036
+R-HSA-933542	TRAF6 mediated NF-kB activation	10	25	2.30300186264e-05	0.0285341930781
+R-HSA-2871796	FCERI mediated MAPK activation	11	30	2.36926180041e-05	0.0293551537071
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	11	30	2.36926180041e-05	0.0293551537071
+R-HSA-5693607	Processing of DNA double-strand break ends	18	71	2.5390217893e-05	0.0314584799694
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	21	91	2.6075880915e-05	0.0323080164537
+R-HSA-8849470	PTK6 Regulates Cell Cycle	5	6	2.75273857778e-05	0.0341064309787
+R-HSA-1295596	Spry regulation of FGF signaling	6	9	2.85518082762e-05	0.0353756904543
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	2.85518082762e-05	0.0353756904543
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	6	9	2.85518082762e-05	0.0353756904543
+R-HSA-2465910	MASTL Facilitates Mitotic Progression	6	9	2.85518082762e-05	0.0353756904543
+R-HSA-176187	Activation of ATR in response to replication stress	12	36	3.0687013e-05	0.038021209107
+R-HSA-9762114	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	12	36	3.0687013e-05	0.038021209107
+R-HSA-3232118	SUMOylation of transcription factors	8	17	3.80216117879e-05	0.0471087770052

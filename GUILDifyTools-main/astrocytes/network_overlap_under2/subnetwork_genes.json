@@ -1,0 +1,62 @@
+[
+{
+ data: { id: "13960", size: 100.000000, xref: "P61981", label: "YWHAG", score: 1.000000, rank: "1", type: "seed" } 
+}, {
+ data: { id: "15369", size: 100.000000, xref: "P01116", label: "KRAS", score: 1.000000, rank: "2", type: "seed" } 
+}, {
+ data: { id: "15936", size: 100.000000, xref: "P02545", label: "LMNA", score: 1.000000, rank: "3", type: "seed" } 
+}, {
+ data: { id: "30211", size: 100.000000, xref: "P15927", label: "RPA2", score: 1.000000, rank: "4", type: "seed" } 
+}, {
+ data: { id: "9708", size: 100.000000, xref: "P05067", label: "APP", score: 1.000000, rank: "5", type: "seed" } 
+}, {
+ data: { id: "8284", size: 100.000000, xref: "P04150", label: "NR3C1", score: 1.000000, rank: "6", type: "seed" } 
+}, {
+ data: { id: "30207", size: 100.000000, xref: "P35244", label: "RPA3", score: 1.000000, rank: "7", type: "seed" } 
+}, {
+ data: { id: "11875", size: 100.000000, xref: "P27694", label: "RPA1", score: 1.000000, rank: "8", type: "seed" } 
+}, {
+ data: { id: "22929", size: 100.000000, xref: "O43493", label: "TGOLN2", score: 1.000000, rank: "9", type: "seed" } 
+}, {
+ data: { id: "57774", size: 100.000000, xref: "O95994", label: "AGR2", score: 1.000000, rank: "10", type: "seed" } 
+},
+{
+ data: { id: "15369-9708", source: "15369", target: "9708" } 
+}, {
+ data: { id: "11875-30207", source: "11875", target: "30207" } 
+}, {
+ data: { id: "11875-8284", source: "11875", target: "8284" } 
+}, {
+ data: { id: "11875-15936", source: "11875", target: "15936" } 
+}, {
+ data: { id: "11875-30211", source: "11875", target: "30211" } 
+}, {
+ data: { id: "11875-13960", source: "11875", target: "13960" } 
+}, {
+ data: { id: "30211-15936", source: "30211", target: "15936" } 
+}, {
+ data: { id: "30211-8284", source: "30211", target: "8284" } 
+}, {
+ data: { id: "30211-30207", source: "30211", target: "30207" } 
+}, {
+ data: { id: "30211-13960", source: "30211", target: "13960" } 
+}, {
+ data: { id: "13960-15936", source: "13960", target: "15936" } 
+}, {
+ data: { id: "13960-9708", source: "13960", target: "9708" } 
+}, {
+ data: { id: "13960-57774", source: "13960", target: "57774" } 
+}, {
+ data: { id: "13960-30207", source: "13960", target: "30207" } 
+}, {
+ data: { id: "13960-22929", source: "13960", target: "22929" } 
+}, {
+ data: { id: "9708-22929", source: "9708", target: "22929" } 
+}, {
+ data: { id: "57774-15936", source: "57774", target: "15936" } 
+}, {
+ data: { id: "30207-15936", source: "30207", target: "15936" } 
+}, {
+ data: { id: "30207-8284", source: "30207", target: "8284" } 
+}
+]

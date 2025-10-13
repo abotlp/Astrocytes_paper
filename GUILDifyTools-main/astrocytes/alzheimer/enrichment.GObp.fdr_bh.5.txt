@@ -1,0 +1,35 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0018108	peptidyl-tyrosine phosphorylation	18	43	1.59767597894e-09	4.66681153449e-06
+GO:1904646	cellular response to amyloid-beta	13	32	4.69060161163e-07	0.000685062365378
+GO:1904294	positive regulation of ERAD pathway	8	13	1.57659201281e-06	0.00153507508981
+GO:0045429	positive regulation of nitric oxide biosynthetic process	11	26	2.25353522012e-06	0.00164564409449
+GO:0035094	response to nicotine	5	5	3.41834483576e-06	0.00199699705305
+GO:0043525	positive regulation of neuron apoptotic process	10	23	4.89211892673e-06	0.00238164656416
+GO:0008284	positive regulation of cell population proliferation	41	249	8.33958895278e-06	0.00347999133301
+GO:1903078	positive regulation of protein localization to plasma membrane	13	41	1.19829180212e-05	0.00388912261555
+GO:0017148	negative regulation of translation	16	59	1.15370056864e-05	0.00388912261555
+GO:0030335	positive regulation of cell migration	31	172	1.72392072517e-05	0.00503557243822
+GO:0043410	positive regulation of MAPK cascade	22	104	2.29202780917e-05	0.00608637566417
+GO:0070372	regulation of ERK1 and ERK2 cascade	9	24	6.0831654295e-05	0.0148074385163
+GO:0043066	negative regulation of apoptotic process	40	263	6.97511997811e-05	0.0156725580431
+GO:0043536	positive regulation of blood vessel endothelial cell migration	11	37	0.000109037704059	0.0227499381112
+GO:0032212	positive regulation of telomere maintenance via telomerase	8	21	0.000138677315204	0.0238280257477
+GO:0046326	positive regulation of D-glucose import	8	21	0.000138677315204	0.0238280257477
+GO:1902430	negative regulation of amyloid-beta formation	7	16	0.000131596957262	0.0238280257477
+GO:0071218	cellular response to misfolded protein	5	8	0.000155532225755	0.0252394239684
+GO:1990000	amyloid fibril formation	7	17	0.000208175745588	0.0320042817297
+GO:0006888	endoplasmic reticulum to Golgi vesicle-mediated transport	13	53	0.000230332314238	0.0336400344944
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	22	121	0.000245490089891	0.0341465025033
+GO:0010628	positive regulation of gene expression	39	271	0.000280004148233	0.0364424407794
+GO:0045725	positive regulation of glycogen biosynthetic process	6	13	0.000286948352594	0.0364424407794
+GO:1990535	neuron projection maintenance	5	9	0.000326638286486	0.0366965551856
+GO:1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	5	9	0.000326638286486	0.0366965551856
+GO:0036010	protein localization to endosome	5	9	0.000326638286486	0.0366965551856
+GO:0032880	regulation of protein localization	12	49	0.000404460987241	0.0421939479903
+GO:0045070	positive regulation of viral genome replication	8	24	0.000402787006723	0.0421939479903
+GO:2000767	positive regulation of cytoplasmic translation	6	14	0.000467955406507	0.0471344049106
+GO:0034605	cellular response to heat	8	25	0.000550790346635	0.0479094420569
+GO:1900221	regulation of amyloid-beta clearance	3	3	0.000526903634239	0.0479094420569
+GO:0048660	regulation of smooth muscle cell proliferation	4	6	0.000557658688782	0.0479094420569
+GO:0032873	negative regulation of stress-activated MAPK cascade	4	6	0.000557658688782	0.0479094420569
+GO:0038091	positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	3	3	0.000526903634239	0.0479094420569

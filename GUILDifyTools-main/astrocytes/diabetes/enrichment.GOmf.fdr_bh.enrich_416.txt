@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004879	nuclear receptor activity	10	26	3.03768158045e-07	0.000188336257988
+GO:0003700	DNA-binding transcription factor activity	26	206	1.95460811844e-05	0.00605928516715
+GO:0000976	transcription cis-regulatory region binding	25	208	6.43519809594e-05	0.0132994093983
+GO:0004517	nitric-oxide synthase activity	3	3	0.000136432701884	0.0169176550336
+GO:0003684	damaged DNA binding	8	31	0.00012976305047	0.0169176550336
+GO:0005179	hormone activity	7	25	0.00019795895147	0.0204557583186
+GO:0019899	enzyme binding	7	26	0.000258998693238	0.0229398842582
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	28	271	0.000332746524964	0.0257878556847
+GO:0005159	insulin-like growth factor receptor binding	3	4	0.000524752393509	0.0361496093306
+GO:0003677	DNA binding	27	270	0.000706652606121	0.0403296320509
+GO:0004697	diacylglycerol-dependent serine/threonine kinase activity	4	9	0.000715525729936	0.0403296320509
+GO:0005125	cytokine activity	9	50	0.000902551986129	0.0466318526166

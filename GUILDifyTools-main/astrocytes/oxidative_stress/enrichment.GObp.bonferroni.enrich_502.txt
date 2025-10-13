@@ -1,0 +1,25 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034599	cellular response to oxidative stress	44	61	4.21073889746e-44	9.26362557442e-41
+GO:0006979	response to oxidative stress	36	53	1.05220507788e-34	2.31485117135e-31
+GO:1902176	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	9	10	1.96884891961e-11	4.33146762313e-08
+GO:0070301	cellular response to hydrogen peroxide	14	32	1.25592050056e-10	2.76302510123e-07
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	7	7	8.25246293754e-10	1.81554184626e-06
+GO:1903377	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	7	8	6.31299386735e-09	1.38885865082e-05
+GO:0006284	base-excision repair	9	20	2.09196069861e-07	0.000460231353693
+GO:0042744	hydrogen peroxide catabolic process	7	11	2.27730721513e-07	0.000501007587328
+GO:0006281	DNA repair	16	69	2.36329165247e-07	0.000519924163544
+GO:1990535	neuron projection maintenance	6	9	1.21262328761e-06	0.00266777123275
+GO:0042149	cellular response to glucose starvation	11	37	1.30674471397e-06	0.00287483837073
+GO:0010508	positive regulation of autophagy	14	62	1.894143735e-06	0.00416711621699
+GO:0045821	positive regulation of glycolytic process	7	14	2.07173950879e-06	0.00455782691933
+GO:0043066	negative regulation of apoptotic process	32	263	3.49432728321e-06	0.00768752002307
+GO:0006268	DNA unwinding involved in DNA replication	7	15	3.71526602494e-06	0.00817358525488
+GO:0055089	fatty acid homeostasis	6	11	6.1103905185e-06	0.0134428591407
+GO:0019430	removal of superoxide radicals	6	11	6.1103905185e-06	0.0134428591407
+GO:0030091	protein repair	4	4	6.51997172321e-06	0.0143439377911
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	11	43	6.66250080524e-06	0.0146575017715
+GO:0045454	cell redox homeostasis	7	17	1.02722173303e-05	0.0225988781266
+GO:0006915	apoptotic process	15	81	1.11667096371e-05	0.0245667612016
+GO:0006998	nuclear envelope organization	6	12	1.16980884604e-05	0.0257357946128
+GO:0018105	peptidyl-serine phosphorylation	14	75	1.98857059877e-05	0.043748553173
+GO:0007005	mitochondrion organization	12	57	2.20519394565e-05	0.0485142668043

@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004713	protein tyrosine kinase activity	19	52	2.18599211502e-07	0.000166572599165

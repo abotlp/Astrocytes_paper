@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/oxidative_stress/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/oxidative_stress/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/oxidative_stress/output_scores.txt.nd
+Time: 3961190000 (3961.19s)

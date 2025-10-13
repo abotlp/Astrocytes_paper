@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	3	31	0.000350360084521	0.02557628617

@@ -1,0 +1,27 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	36	104	2.42944622754e-23	2.42215788886e-20
+R-HSA-6783783	Interleukin-10 signaling	18	43	5.88763424281e-14	5.86997134009e-11
+R-HSA-9660826	Purinergic signaling in leishmaniasis infection	12	25	1.3930220732e-10	1.38884300698e-07
+R-HSA-844456	The NLRP3 inflammasome	9	16	4.93413911482e-09	4.91933669747e-06
+R-HSA-5357905	Regulation of TNFR1 signaling	12	40	8.19183671757e-08	8.16726120742e-05
+R-HSA-5602498	MyD88 deficiency (TLR2/4)	8	16	1.23941493544e-07	0.000123569669063
+R-HSA-5603041	IRAK4 deficiency (TLR2/4)	8	17	2.25152364412e-07	0.000224476907319
+R-HSA-5357786	TNFR1-induced proapoptotic signaling	9	24	4.11397838175e-07	0.000410163644661
+R-HSA-448706	Interleukin-1 processing	6	9	5.25392319357e-07	0.000523816142399
+R-HSA-933542	TRAF6 mediated NF-kB activation	9	25	6.17999972984e-07	0.000616145973065
+R-HSA-5660668	CLEC7A/inflammasome pathway	5	6	9.31580841825e-07	0.0009287860993
+R-HSA-5686938	Regulation of TLR by endogenous ligand	8	20	1.03792073136e-06	0.00103480696917
+R-HSA-3134963	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	5	7	3.14246505825e-06	0.00313303766308
+R-HSA-5603029	IkBA variant leads to EDA-ID	5	7	3.14246505825e-06	0.00313303766308
+R-HSA-445989	TAK1-dependent IKK and NF-kappa-B activation  	9	30	3.55553483775e-06	0.00354486823323
+R-HSA-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	8	25	7.33586386032e-06	0.00731385626874
+R-HSA-9818749	Regulation of NFE2L2 gene expression	5	8	8.07676222887e-06	0.00805253194219
+R-HSA-9018519	Estrogen-dependent gene expression	17	113	8.08647532805e-06	0.00806221590207
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	14	83	1.34401604882e-05	0.0133998400067
+R-HSA-5357956	TNFR1-induced NF-kappa-B signaling pathway	8	27	1.3932115646e-05	0.0138903192991
+R-HSA-9692916	SARS-CoV-1 activates/modulates innate immune responses	9	35	1.44208454594e-05	0.0143775829231
+R-HSA-9662834	CD163 mediating an anti-inflammatory response	5	9	1.75159746158e-05	0.017463426692
+R-HSA-209560	NF-kB is activated and signals survival	5	9	1.75159746158e-05	0.017463426692
+R-HSA-5621575	CD209 (DC-SIGN) signaling	7	21	2.06326237184e-05	0.0205707258472
+R-HSA-380108	Chemokine receptors bind chemokines	10	46	2.39464665902e-05	0.0238746271904
+R-HSA-4755510	SUMOylation of immune response proteins	5	10	3.37672207269e-05	0.0336659190647

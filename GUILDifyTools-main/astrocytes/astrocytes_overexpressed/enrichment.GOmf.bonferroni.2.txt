@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003730	mRNA 3'-UTR binding	12	52	1.08586612495e-06	0.000436518182231
+GO:0098505	G-rich strand telomeric DNA binding	5	9	1.36771298447e-05	0.00549820619756
+GO:0030911	TPR domain binding	3	3	7.26733083867e-05	0.0292146699714
+GO:0008143	poly(A) binding	5	13	0.000121539502628	0.0488588800563

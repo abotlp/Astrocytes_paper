@@ -1,0 +1,71 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034502	protein localization to chromosome	2	2	1.32490392891e-05	0.00208672368803
+GO:0006298	mismatch repair	3	12	9.9563696619e-06	0.00208672368803
+GO:0006284	base-excision repair	3	20	5.05506637308e-05	0.00530781969174
+GO:0006260	DNA replication	3	23	7.7932963182e-05	0.00613722085058
+GO:0006289	nucleotide-excision repair	3	26	0.000113542263642	0.00715316260946
+GO:0141163	positive regulation of cAMP/PKA signal transduction	2	7	0.00027500479284	0.0144377516241
+GO:0050808	synapse organization	2	23	0.0031920978473	0.0429564290731
+GO:0050803	regulation of synapse structure or activity	1	1	0.00368860415456	0.0429564290731
+GO:0007617	mating behavior	1	2	0.00736395926968	0.0429564290731
+GO:0007612	learning	2	27	0.00438763515769	0.0429564290731
+GO:0017004	cytochrome complex assembly	1	2	0.00736395926968	0.0429564290731
+GO:2001057	reactive nitrogen species metabolic process	1	1	0.00368860415456	0.0429564290731
+GO:0060157	urinary bladder development	1	2	0.00736395926968	0.0429564290731
+GO:1904472	positive regulation of endothelin production	1	2	0.00736395926968	0.0429564290731
+GO:0051580	regulation of neurotransmitter uptake	1	2	0.00736395926968	0.0429564290731
+GO:0032760	positive regulation of tumor necrosis factor production	3	71	0.00222627963354	0.0429564290731
+GO:2001015	negative regulation of skeletal muscle cell differentiation	1	1	0.00368860415456	0.0429564290731
+GO:0141137	positive regulation of gene expression, epigenetic	1	2	0.00736395926968	0.0429564290731
+GO:0098696	regulation of neurotransmitter receptor localization to postsynaptic specialization membrane	1	2	0.00736395926968	0.0429564290731
+GO:0090096	positive regulation of metanephric cap mesenchymal cell proliferation	1	1	0.00368860415456	0.0429564290731
+GO:0019752	carboxylic acid metabolic process	1	1	0.00368860415456	0.0429564290731
+GO:0000724	double-strand break repair via homologous recombination	3	71	0.00222627963354	0.0429564290731
+GO:0000165	MAPK cascade	2	33	0.00650902185604	0.0429564290731
+GO:0008088	axo-dendritic transport	1	2	0.00736395926968	0.0429564290731
+GO:2000479	regulation of cAMP-dependent protein kinase activity	1	2	0.00736395926968	0.0429564290731
+GO:0060785	regulation of apoptosis involved in tissue homeostasis	1	1	0.00368860415456	0.0429564290731
+GO:1904591	positive regulation of protein import	1	2	0.00736395926968	0.0429564290731
+GO:0048146	positive regulation of fibroblast proliferation	2	26	0.00407206293745	0.0429564290731
+GO:0070476	rRNA (guanine-N7)-methylation	1	2	0.00736395926968	0.0429564290731
+GO:0045815	transcription initiation-coupled chromatin remodeling	2	30	0.00539996354395	0.0429564290731
+GO:0044795	trans-Golgi network to recycling endosome transport	1	1	0.00368860415456	0.0429564290731
+GO:0031943	regulation of glucocorticoid metabolic process	1	1	0.00368860415456	0.0429564290731
+GO:0032986	protein-DNA complex disassembly	1	1	0.00368860415456	0.0429564290731
+GO:1905898	positive regulation of response to endoplasmic reticulum stress	1	2	0.00736395926968	0.0429564290731
+GO:0070206	protein trimerization	1	1	0.00368860415456	0.0429564290731
+GO:0031583	phospholipase D-activating G protein-coupled receptor signaling pathway	1	1	0.00368860415456	0.0429564290731
+GO:0071549	cellular response to dexamethasone stimulus	1	2	0.00736395926968	0.0429564290731
+GO:0007613	memory	2	28	0.00471419659159	0.0429564290731
+GO:1905289	regulation of CAMKK-AMPK signaling cascade	1	2	0.00736395926968	0.0429564290731
+GO:1903523	negative regulation of blood circulation	1	2	0.00736395926968	0.0429564290731
+GO:1903381	regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	1	2	0.00736395926968	0.0429564290731
+GO:0048669	collateral sprouting in absence of injury	1	2	0.00736395926968	0.0429564290731
+GO:0016072	rRNA metabolic process	1	2	0.00736395926968	0.0429564290731
+GO:0090035	positive regulation of chaperone-mediated protein complex assembly	1	1	0.00368860415456	0.0429564290731
+GO:0050679	positive regulation of epithelial cell proliferation	2	32	0.0061287208796	0.0429564290731
+GO:0097368	establishment of Sertoli cell barrier	1	1	0.00368860415456	0.0429564290731
+GO:0018364	peptidyl-glutamine methylation	1	1	0.00368860415456	0.0429564290731
+GO:1905945	regulation of response to calcium ion	1	1	0.00368860415456	0.0429564290731
+GO:0014895	smooth muscle hypertrophy	1	1	0.00368860415456	0.0429564290731
+GO:1901526	positive regulation of mitophagy	2	14	0.00117241929206	0.0429564290731
+GO:0045730	respiratory burst	1	2	0.00736395926968	0.0429564290731
+GO:1905906	regulation of amyloid fibril formation	1	2	0.00736395926968	0.0429564290731
+GO:0045752	positive regulation of Toll signaling pathway	1	1	0.00368860415456	0.0429564290731
+GO:0001934	positive regulation of protein phosphorylation	3	107	0.00705816992837	0.0429564290731
+GO:0000723	telomere maintenance	2	38	0.00856660575415	0.049063287501
+GO:0055096	low-density lipoprotein particle mediated signaling	1	3	0.0110261116531	0.0496175024389
+GO:1905908	positive regulation of amyloid fibril formation	1	3	0.0110261116531	0.0496175024389
+GO:0034121	regulation of toll-like receptor signaling pathway	1	3	0.0110261116531	0.0496175024389
+GO:1900221	regulation of amyloid-beta clearance	1	3	0.0110261116531	0.0496175024389
+GO:1902895	positive regulation of miRNA transcription	2	42	0.0103953249825	0.0496175024389
+GO:0150003	regulation of spontaneous synaptic transmission	1	3	0.0110261116531	0.0496175024389
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	3	122	0.0101088439234	0.0496175024389
+GO:0060947	cardiac vascular smooth muscle cell differentiation	1	3	0.0110261116531	0.0496175024389
+GO:0016480	negative regulation of transcription by RNA polymerase III	1	3	0.0110261116531	0.0496175024389
+GO:0014005	microglia development	1	3	0.0110261116531	0.0496175024389
+GO:0031648	protein destabilization	2	39	0.00900879456404	0.0496175024389
+GO:1904022	positive regulation of G protein-coupled receptor internalization	1	3	0.0110261116531	0.0496175024389
+GO:1904672	regulation of somatic stem cell population maintenance	1	3	0.0110261116531	0.0496175024389
+GO:1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	3	0.0110261116531	0.0496175024389
+GO:2000630	positive regulation of miRNA metabolic process	1	3	0.0110261116531	0.0496175024389

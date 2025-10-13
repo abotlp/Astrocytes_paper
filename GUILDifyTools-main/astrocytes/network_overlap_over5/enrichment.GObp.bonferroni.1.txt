@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0032212	positive regulation of telomere maintenance via telomerase	5	21	2.24095798558e-05	0.0201462122904
+GO:0050808	synapse organization	5	23	3.60432908302e-05	0.0324029184564

@@ -1,0 +1,3 @@
+GObp	9390
+Reactome	2150
+GOmf	3550

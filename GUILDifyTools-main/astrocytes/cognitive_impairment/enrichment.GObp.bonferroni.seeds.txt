@@ -1,0 +1,16 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0007031	peroxisome organization	10	17	3.63457764861e-18	2.01719059498e-15
+GO:0016558	protein import into peroxisome matrix	8	10	2.13664661462e-16	1.18583887111e-13
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	7.7772892462e-13	4.31639553164e-10
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	1.66746743843e-11	9.25444428329e-09
+GO:0006289	nucleotide-excision repair	7	26	4.35521032152e-10	2.41714172844e-07
+GO:0006625	protein targeting to peroxisome	5	8	9.18227018937e-10	5.0961599551e-07
+GO:0016561	protein import into peroxisome matrix, translocation	4	4	2.45308281159e-09	1.36146096043e-06
+GO:0045046	protein import into peroxisome membrane	4	5	1.21987153603e-08	6.77028702495e-06
+GO:0034614	cellular response to reactive oxygen species	6	34	1.28199123261e-07	7.11505134096e-05
+GO:0016560	protein import into peroxisome matrix, docking	3	3	3.55835209527e-07	0.000197488541287
+GO:1901990	regulation of mitotic cell cycle phase transition	3	7	1.21987518366e-05	0.00677030726934
+GO:0006283	transcription-coupled nucleotide-excision repair	3	8	1.94171958355e-05	0.0107765436887
+GO:0016557	peroxisome membrane biogenesis	2	2	5.09042035849e-05	0.0282518329896
+GO:0060152	microtubule-based peroxisome localization	2	2	5.09042035849e-05	0.0282518329896
+GO:0009411	response to UV	4	30	5.83561469438e-05	0.0323876615538

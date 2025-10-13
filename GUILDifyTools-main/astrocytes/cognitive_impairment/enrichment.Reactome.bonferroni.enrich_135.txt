@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9603798	Class I peroxisomal membrane protein import	11	19	2.86930328351e-16	1.48342979757e-13
+R-HSA-5696395	Formation of Incision Complex in GG-NER	11	35	1.29906735149e-12	6.7161782072e-10
+R-HSA-5696400	Dual Incision in GG-NER	10	36	5.70599906988e-11	2.95000151913e-08
+R-HSA-9033241	Peroxisomal protein import	9	52	4.91489382676e-08	2.54100010843e-05
+R-HSA-6782135	Dual incision in TC-NER	8	58	1.71560728426e-06	0.000886968965965
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	7	46	3.97741684939e-06	0.00205632451114
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	6	36	1.16372286335e-05	0.00601644720352
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	4	14	3.84852735797e-05	0.0198968864407
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	4	14	3.84852735797e-05	0.0198968864407
+R-HSA-5655332	Signaling by FGFR3 in disease	4	15	5.18881841113e-05	0.0268261911855
+R-HSA-9665348	Signaling by ERBB2 ECD mutants	4	15	5.18881841113e-05	0.0268261911855
+R-HSA-71403	Citric acid cycle (TCA cycle)	4	17	8.8444220282e-05	0.0457256618858
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	4	17	8.8444220282e-05	0.0457256618858

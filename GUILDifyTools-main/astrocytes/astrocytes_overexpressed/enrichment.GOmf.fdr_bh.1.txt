@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031625	ubiquitin protein ligase binding	6	39	0.000150680485987	0.0271729801764
+GO:0031593	polyubiquitin modification-dependent protein binding	5	27	0.000221820246338	0.0271729801764
+GO:0003730	mRNA 3'-UTR binding	6	52	0.000749037536014	0.0458785490808
+GO:0098505	G-rich strand telomeric DNA binding	3	9	0.000712442848335	0.0458785490808

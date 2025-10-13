@@ -1,0 +1,16 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	3	3	3.69609984678e-07	9.09240562309e-05
+R-HSA-977225	Amyloid fiber formation	7	68	5.43962242619e-07	0.000133814711684
+R-HSA-1251985	Nuclear signaling by ERBB4	5	30	2.18926284644e-06	0.000538558660223
+R-HSA-422085	Synthesis, secretion, and deacylation of Ghrelin	4	15	3.31008673602e-06	0.000814281337062
+R-HSA-2428928	IRS-related events triggered by IGF1R	3	6	7.27689969736e-06	0.00179011732555
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	7	110	1.40234113841e-05	0.00344975920048
+R-HSA-114608	Platelet degranulation 	7	116	1.98512093616e-05	0.00488339750294
+R-HSA-2428933	SHC-related events triggered by IGF1R	3	8	2.01630369444e-05	0.00496010708832
+R-HSA-9017802	Noncanonical activation of NOTCH3	3	8	2.01630369444e-05	0.00496010708832
+R-HSA-9013700	NOTCH4 Activation and Transmission of Signal to the Nucleus	3	9	3.00866538568e-05	0.00740131684877
+R-HSA-9839383	TGFBR3 PTM regulation	3	10	4.27565987664e-05	0.0105181232965
+R-HSA-74752	Signaling by Insulin receptor	2	2	5.22508938638e-05	0.0128537198905
+R-HSA-193692	Regulated proteolysis of p75NTR	3	11	5.84835553696e-05	0.0143869546209
+R-HSA-205043	NRIF signals cell death from the nucleus	3	12	7.7571294696e-05	0.0190825384952
+R-HSA-2979096	NOTCH2 Activation and Transmission of Signal to the Nucleus	3	16	0.000193368952367	0.0475687622823

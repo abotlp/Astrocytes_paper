@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0097100	supercoiled DNA binding	6	6	8.68998006165e-07	0.000709102373031
+GO:0003697	single-stranded DNA binding	20	68	4.53675342523e-06	0.00370199079499
+GO:0004601	peroxidase activity	8	14	1.43845882854e-05	0.0117378240409
+GO:0003684	damaged DNA binding	12	31	1.74947438141e-05	0.0142757109523
+GO:0008301	DNA binding, bending	7	12	4.29981246099e-05	0.0350864696816
+GO:0098505	G-rich strand telomeric DNA binding	6	9	5.62389949791e-05	0.045891019903

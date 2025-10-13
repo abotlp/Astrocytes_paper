@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	6	31	3.55565763285e-05	0.00778689021595
+GO:0001046	core promoter sequence-specific DNA binding	4	12	7.86332478195e-05	0.00861034063623
+GO:0004923	leukemia inhibitory factor receptor activity	2	2	0.000430368424207	0.0188501369803
+GO:0043993	histone H3K18 acetyltransferase activity	2	2	0.000430368424207	0.0188501369803
+GO:0044017	histone H3K27 acetyltransferase activity	2	2	0.000430368424207	0.0188501369803
+GO:0098505	G-rich strand telomeric DNA binding	3	9	0.000677925628484	0.0247442854397
+GO:0004924	oncostatin-M receptor activity	2	3	0.00127339927086	0.0348593050399
+GO:0004897	ciliary neurotrophic factor receptor activity	2	3	0.00127339927086	0.0348593050399

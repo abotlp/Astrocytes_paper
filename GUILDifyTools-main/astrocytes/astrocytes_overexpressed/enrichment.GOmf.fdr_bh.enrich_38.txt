@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	3	31	0.000350360084521	0.02557628617
+GO:0098505	G-rich strand telomeric DNA binding	2	9	0.000701229192883	0.0255948655402
+GO:0001046	core promoter sequence-specific DNA binding	2	12	0.00127463564716	0.031016134081
+GO:0042056	chemoattractant activity	2	23	0.00473549892398	0.0432114276813
+GO:0141106	tRNA methyltransferase activator activity	1	1	0.00451735615789	0.0432114276813
+GO:0001016	RNA polymerase III transcription regulatory region sequence-specific DNA binding	1	1	0.00451735615789	0.0432114276813
+GO:0072541	peroxynitrite reductase activity	1	1	0.00451735615789	0.0432114276813
+GO:0003697	single-stranded DNA binding	3	68	0.00348174582311	0.0432114276813

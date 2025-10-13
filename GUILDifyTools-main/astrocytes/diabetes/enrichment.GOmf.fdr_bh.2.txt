@@ -1,0 +1,25 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004879	nuclear receptor activity	8	26	3.61017836698e-06	0.000976553248267
+GO:0003700	DNA-binding transcription factor activity	23	206	3.56373178043e-06	0.000976553248267
+GO:0003677	DNA binding	26	270	1.271498665e-05	0.00166794499729
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	26	271	1.35810355322e-05	0.00166794499729
+GO:0003684	damaged DNA binding	8	31	1.5415388145e-05	0.00166794499729
+GO:0005179	hormone activity	7	25	2.98886130223e-05	0.00269495660751
+GO:0019899	enzyme binding	7	26	3.957014158e-05	0.0030582066564
+GO:0004517	nitric-oxide synthase activity	3	3	5.55863284967e-05	0.00375902546459
+GO:0005125	cytokine activity	9	50	9.87500786896e-05	0.00593597695234
+GO:0004697	diacylglycerol-dependent serine/threonine kinase activity	4	9	0.000227946243348	0.0112108106956
+GO:0005159	insulin-like growth factor receptor binding	3	4	0.000216019220945	0.0112108106956
+GO:0000976	transcription cis-regulatory region binding	19	208	0.000376119612669	0.0169567258712
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	24	302	0.000538803140533	0.0224224999252
+GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding	4	12	0.000817214475353	0.0315795022261
+GO:0009378	four-way junction helicase activity	2	2	0.00146087819582	0.0343623958234
+GO:0044017	histone H3K27 acetyltransferase activity	2	2	0.00146087819582	0.0343623958234
+GO:0050253	retinyl-palmitate esterase activity	2	2	0.00146087819582	0.0343623958234
+GO:0043993	histone H3K18 acetyltransferase activity	2	2	0.00146087819582	0.0343623958234
+GO:0141089	glucose sensor activity	2	2	0.00146087819582	0.0343623958234
+GO:0034617	tetrahydrobiopterin binding	2	2	0.00146087819582	0.0343623958234
+GO:0035403	histone H3T6 kinase activity	2	2	0.00146087819582	0.0343623958234
+GO:0061749	forked DNA-dependent helicase activity	2	2	0.00146087819582	0.0343623958234
+GO:0004698	calcium,diacylglycerol-dependent serine/threonine kinase activity	2	2	0.00146087819582	0.0343623958234
+GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding	13	132	0.00158228178835	0.0356672686458

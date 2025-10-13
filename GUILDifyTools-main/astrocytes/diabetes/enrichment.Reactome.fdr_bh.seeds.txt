@@ -1,0 +1,55 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	1.7195344914e-12	1.28793133406e-09
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	20	104	6.63865819692e-12	2.48617749475e-09
+R-HSA-6783783	Interleukin-10 signaling	13	43	8.33318636012e-11	2.08051886124e-08
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	9	22	3.32457653551e-09	6.22526956273e-07
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	12	83	2.97270246501e-06	0.000371092357715
+R-HSA-74713	IRS activation	4	5	2.93114253621e-06	0.000371092357715
+R-HSA-2586552	Signaling by Leptin	5	11	6.64684689418e-06	0.000638361678026
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	7	27	6.81828227531e-06	0.000638361678026
+R-HSA-5660668	CLEC7A/inflammasome pathway	4	6	8.59962723542e-06	0.000715680088814
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	7	34	3.4923931656e-05	0.00261580248103
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	12	110	5.51984306968e-05	0.00351804936852
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	8	49	5.63639418188e-05	0.00351804936852
+R-HSA-74749	Signal attenuation	4	9	6.75731031249e-05	0.0038932503262
+R-HSA-5218921	VEGFR2 mediated cell proliferation	5	18	0.000104913196067	0.0052386655903
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	6	28	0.000101709264362	0.0052386655903
+R-HSA-418597	G alpha (z) signalling events	7	42	0.000144650869413	0.00637314712886
+R-HSA-163560	Triglyceride catabolism	5	19	0.000139148150475	0.00637314712886
+R-HSA-982772	Growth hormone receptor signaling	5	22	0.000294166275293	0.0121905921163
+R-HSA-8957275	Post-translational protein phosphorylation	10	95	0.000309240654485	0.0121905921163
+R-HSA-210747	Regulation of gene expression in early pancreatic precursor cells	3	6	0.000406842642507	0.0126968808016
+R-HSA-2428928	IRS-related events triggered by IGF1R	3	6	0.000406842642507	0.0126968808016
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	10	97	0.000366480683542	0.0126968808016
+R-HSA-392154	Nitric oxide stimulates guanylate cyclase	3	6	0.000406842642507	0.0126968808016
+R-HSA-5668599	RHO GTPases Activate NADPH Oxidases	5	23	0.00036736321723	0.0126968808016
+R-HSA-189200	Cellular hexose transport	4	14	0.000480508103332	0.0143960227758
+R-HSA-9660826	Purinergic signaling in leishmaniasis infection	5	25	0.000554086831375	0.01596196295
+R-HSA-422356	Regulation of insulin secretion	5	26	0.000670500342829	0.018600176177
+R-HSA-1489509	DAG and IP3 signaling	3	7	0.000697256667764	0.0186516158627
+R-HSA-74752	Signaling by Insulin receptor	2	2	0.000779890567386	0.0189719722025
+R-HSA-381771	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	4	16	0.00083588128529	0.0189719722025
+R-HSA-8963889	Assembly of active LPL and LIPC lipase complexes	4	16	0.00083588128529	0.0189719722025
+R-HSA-1592389	Activation of Matrix Metalloproteinases	5	27	0.000804292167974	0.0189719722025
+R-HSA-167826	The fatty acid cycling model	2	2	0.000779890567386	0.0189719722025
+R-HSA-9700645	ALK mutants bind TKIs	3	8	0.00109258003928	0.0240688955713
+R-HSA-111465	Apoptotic cleavage of cellular proteins	4	18	0.00134473529968	0.0287773354131
+R-HSA-1989781	PPARA activates gene expression	10	115	0.001399116265	0.0291093911802
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	3	9	0.00160508350737	0.0308258345389
+R-HSA-448706	Interleukin-1 processing	3	9	0.00160508350737	0.0308258345389
+R-HSA-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	3	9	0.00160508350737	0.0308258345389
+R-HSA-1250196	SHC1 events in ERBB2 signaling	4	19	0.00166622520613	0.0312000669848
+R-HSA-114508	Effects of PIP2 hydrolysis	4	20	0.00203745165482	0.035920280724
+R-HSA-1222556	ROS and RNS production in phagocytes	5	33	0.00206217900018	0.035920280724
+R-HSA-8854691	Interleukin-20 family signaling	4	20	0.00203745165482	0.035920280724
+R-HSA-844455	The NLRP1 inflammasome	2	3	0.0022963489556	0.0373905514727
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	2	3	0.0022963489556	0.0373905514727
+R-HSA-9854907	Regulation of MITF-M dependent genes involved in metabolism	2	3	0.0022963489556	0.0373905514727
+R-HSA-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	5	34	0.0023633524906	0.037662787563
+R-HSA-9009391	Extra-nuclear estrogen signaling	6	50	0.00256455296288	0.0392010238611
+R-HSA-383280	Nuclear Receptor transcription pathway	6	50	0.00256455296288	0.0392010238611
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	3	11	0.00302444923654	0.0435637015032
+R-HSA-1059683	Interleukin-6 signaling	3	11	0.00302444923654	0.0435637015032
+R-HSA-2168880	Scavenging of heme from plasma	3	11	0.00302444923654	0.0435637015032
+R-HSA-9664323	FCGR3A-mediated IL10 synthesis	5	37	0.00345838446367	0.0479690733943
+R-HSA-9634597	GPER1 signaling	5	37	0.00345838446367	0.0479690733943

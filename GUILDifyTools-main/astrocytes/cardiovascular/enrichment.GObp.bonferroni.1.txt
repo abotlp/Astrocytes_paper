@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	6	6	1.91676451851e-11	2.37295447391e-08
+GO:0032922	circadian regulation of gene expression	10	57	2.68763269958e-08	3.32728928208e-05
+GO:0042754	negative regulation of circadian rhythm	4	7	2.46757541316e-06	0.00305485836149
+GO:0042753	positive regulation of circadian rhythm	4	10	1.42377198747e-05	0.0176262972049
+GO:0006641	triglyceride metabolic process	4	11	2.20841197761e-05	0.0273401402828
+GO:0000122	negative regulation of transcription by RNA polymerase II	23	537	2.60850773585e-05	0.0322933257698
+GO:0042752	regulation of circadian rhythm	7	54	2.81882517427e-05	0.0348970556575
+GO:0007623	circadian rhythm	5	24	3.9112146461e-05	0.0484208373187

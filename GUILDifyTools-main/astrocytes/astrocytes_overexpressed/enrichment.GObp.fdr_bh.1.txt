@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904294	positive regulation of ERAD pathway	5	13	1.67476626595e-06	0.00147881861284
+GO:1901526	positive regulation of mitophagy	4	14	7.53308246683e-05	0.0221723727274
+GO:1903543	positive regulation of exosomal secretion	4	14	7.53308246683e-05	0.0221723727274
+GO:0071480	cellular response to gamma radiation	4	16	0.000133306547023	0.0294274202553
+GO:1990000	amyloid fibril formation	4	17	0.000171981736639	0.0303719746905
+GO:0034502	protein localization to chromosome	2	2	0.000296887789358	0.0436919863338
+GO:1903265	positive regulation of tumor necrosis factor-mediated signaling pathway	3	9	0.000394631768808	0.0452243182589
+GO:0002181	cytoplasmic translation	4	21	0.000409733347759	0.0452243182589

@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045944	positive regulation of transcription by RNA polymerase II	137	781	4.88111723531e-20	1.22613664951e-16
+GO:0000122	negative regulation of transcription by RNA polymerase II	97	537	4.14276002465e-15	1.04066131819e-11
+GO:0045893	positive regulation of DNA-templated transcription	80	435	4.93182729907e-13	1.23887501753e-09
+GO:0045892	negative regulation of DNA-templated transcription	72	384	2.99962998073e-12	7.5350705116e-09
+GO:0006338	chromatin remodeling	31	116	9.89848023499e-10	2.48649823503e-06
+GO:0060261	positive regulation of transcription initiation by RNA polymerase II	14	33	7.07060253063e-08	0.000177613535569
+GO:0006337	nucleosome disassembly	9	16	8.34097890001e-07	0.00209525389968
+GO:1902895	positive regulation of miRNA transcription	14	42	2.31800913937e-06	0.0058228389581
+GO:0045995	regulation of embryonic development	12	35	8.83593118164e-06	0.0221958591283
+GO:0090043	regulation of tubulin deacetylation	7	12	1.08655970814e-05	0.0272943798685

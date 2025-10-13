@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9694548	Maturation of spike protein	14	36	4.84579484518e-07	0.000308677131638
+R-HSA-352230	Amino acid transport across the plasma membrane	12	28	9.32395995941e-07	0.000593936249414
+R-HSA-975577	N-Glycan antennae elongation	7	10	2.67206208438e-06	0.00170210354775
+R-HSA-2022854	Keratan sulfate biosynthesis	9	18	4.65666028391e-06	0.00296629260085
+R-HSA-5173105	O-linked glycosylation	6	8	8.11830586774e-06	0.00517136083775
+R-HSA-9683673	Maturation of protein 3a	6	9	2.26265193406e-05	0.0144130928199
+R-HSA-9694719	Maturation of protein 3a	6	9	2.26265193406e-05	0.0144130928199

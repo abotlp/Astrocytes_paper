@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031396	regulation of protein ubiquitination	6	12	1.18405260768e-06	0.00172990085982
+GO:1990000	amyloid fibril formation	6	17	1.37117920389e-05	0.0200329281688
+GO:0050821	protein stabilization	18	168	1.67852929716e-05	0.0245233130315

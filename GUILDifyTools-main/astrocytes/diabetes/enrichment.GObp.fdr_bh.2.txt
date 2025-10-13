@@ -1,0 +1,206 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042593	glucose homeostasis	23	65	7.66840513089e-19	1.69931857701e-15
+GO:0045893	positive regulation of DNA-templated transcription	46	435	2.08989967345e-13	2.31560883818e-10
+GO:0046326	positive regulation of D-glucose import	11	21	6.26725104557e-12	4.62940943899e-09
+GO:1902895	positive regulation of miRNA transcription	14	42	1.53864078908e-11	8.52406997149e-09
+GO:0010628	positive regulation of gene expression	31	271	3.34212413113e-10	1.48122941492e-07
+GO:0032869	cellular response to insulin stimulus	14	54	6.72676206656e-10	2.48441745658e-07
+GO:0045725	positive regulation of glycogen biosynthetic process	8	13	9.38672536337e-10	2.71364707645e-07
+GO:0045944	positive regulation of transcription by RNA polymerase II	57	781	9.79655984279e-10	2.71364707645e-07
+GO:0001934	positive regulation of protein phosphorylation	18	107	4.69448028697e-09	1.15588536844e-06
+GO:0008286	insulin receptor signaling pathway	10	30	1.33456399158e-08	2.95739380535e-06
+GO:0050796	regulation of insulin secretion	9	25	3.34715029672e-08	6.74298641594e-06
+GO:0042542	response to hydrogen peroxide	6	9	6.90960780226e-08	1.27597424082e-05
+GO:0048661	positive regulation of smooth muscle cell proliferation	9	29	1.4690434812e-07	2.50415411872e-05
+GO:0009749	response to glucose	8	23	2.71856175245e-07	4.30309488817e-05
+GO:0046627	negative regulation of insulin receptor signaling pathway	8	24	3.96772952131e-07	5.86165907947e-05
+GO:0010629	negative regulation of gene expression	19	162	6.76198341421e-07	9.36534702868e-05
+GO:0038108	negative regulation of appetite by leptin-mediated signaling pathway	4	4	9.37277841635e-07	0.000115389316504
+GO:0036016	cellular response to interleukin-3	4	4	9.37277841635e-07	0.000115389316504
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	7	20	1.49088309919e-06	0.000166123869976
+GO:0031018	endocrine pancreas development	5	8	1.49931290592e-06	0.000166123869976
+GO:0030335	positive regulation of cell migration	19	172	1.69740153632e-06	0.000179116276404
+GO:0006357	regulation of transcription by RNA polymerase II	18	157	1.86364428906e-06	0.000187719806571
+GO:0032024	positive regulation of insulin secretion	7	21	2.17673577974e-06	0.000209723760344
+GO:0010507	negative regulation of autophagy	9	40	2.96068541259e-06	0.000273369953096
+GO:0008284	positive regulation of cell population proliferation	23	249	3.19366701498e-06	0.000283086644208
+GO:0010613	positive regulation of cardiac muscle hypertrophy	6	15	3.50993098743e-06	0.000299154118005
+GO:0045444	fat cell differentiation	9	41	3.69025822366e-06	0.000302874526801
+GO:0043410	positive regulation of MAPK cascade	14	104	4.0159199624e-06	0.000317831379881
+GO:0010907	positive regulation of glucose metabolic process	4	5	4.57061746458e-06	0.000349258217293
+GO:0120162	positive regulation of cold-induced thermogenesis	13	93	5.82463754653e-06	0.000427125373409
+GO:0010575	positive regulation of vascular endothelial growth factor production	7	24	5.97512932116e-06	0.000427125373409
+GO:0032402	melanosome transport	5	10	6.40596540575e-06	0.000443613104348
+GO:0032755	positive regulation of interleukin-6 production	11	68	7.31477446872e-06	0.000491198188566
+GO:0045429	positive regulation of nitric oxide biosynthetic process	7	26	1.07601340361e-05	0.000681270200686
+GO:0032757	positive regulation of interleukin-8 production	10	58	1.06452743011e-05	0.000681270200686
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	15	129	1.14169304515e-05	0.000702775496682
+GO:0033210	leptin-mediated signaling pathway	4	6	1.33734474389e-05	0.000800961068235
+GO:0070328	triglyceride homeostasis	6	19	1.7112263108e-05	0.000997915132825
+GO:0030073	insulin secretion	5	12	1.91170303222e-05	0.00108623946651
+GO:0043066	negative regulation of apoptotic process	22	263	2.53047808419e-05	0.00140188485864
+GO:0000122	negative regulation of transcription by RNA polymerase II	35	537	2.81944962611e-05	0.00152387813938
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	5	13	3.02720124805e-05	0.00152460862856
+GO:0090335	regulation of brown fat cell differentiation	3	3	3.02602648623e-05	0.00152460862856
+GO:0030730	sequestering of triglyceride	3	3	3.02602648623e-05	0.00152460862856
+GO:0051091	positive regulation of DNA-binding transcription factor activity	11	80	3.57913264192e-05	0.00176252398544
+GO:1900182	positive regulation of protein localization to nucleus	7	31	3.75967073552e-05	0.0017726447553
+GO:0097191	extrinsic apoptotic signaling pathway	7	31	3.75967073552e-05	0.0017726447553
+GO:0051247	positive regulation of protein metabolic process	6	22	4.34662240179e-05	0.00200669067549
+GO:0032930	positive regulation of superoxide anion generation	5	14	4.58883370049e-05	0.00203377109606
+GO:0090201	negative regulation of release of cytochrome c from mitochondria	5	14	4.58883370049e-05	0.00203377109606
+GO:0070301	cellular response to hydrogen peroxide	7	32	4.68470525692e-05	0.00203555036262
+GO:0006260	DNA replication	6	23	5.72726176553e-05	0.00243642522279
+GO:0051384	response to glucocorticoid	4	8	5.93713727576e-05	0.00243642522279
+GO:0010745	negative regulation of macrophage derived foam cell differentiation	4	8	5.93713727576e-05	0.00243642522279
+GO:0001822	kidney development	8	45	6.55712386465e-05	0.00264192481528
+GO:1902004	positive regulation of amyloid-beta formation	5	15	6.70775400132e-05	0.00265435408338
+GO:0008217	regulation of blood pressure	6	24	7.4371780434e-05	0.00289136606038
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	13	121	0.000100394284947	0.00383575405937
+GO:0044320	cellular response to leptin stimulus	3	4	0.000118229225923	0.00396963582796
+GO:0048639	positive regulation of developmental growth	3	4	0.000118229225923	0.00396963582796
+GO:0019953	sexual reproduction	3	4	0.000118229225923	0.00396963582796
+GO:0010748	negative regulation of long-chain fatty acid import across plasma membrane	3	4	0.000118229225923	0.00396963582796
+GO:1904385	cellular response to angiotensin	3	4	0.000118229225923	0.00396963582796
+GO:0031622	positive regulation of fever generation	3	4	0.000118229225923	0.00396963582796
+GO:2000675	negative regulation of type B pancreatic cell apoptotic process	3	4	0.000118229225923	0.00396963582796
+GO:0021756	striatum development	3	4	0.000118229225923	0.00396963582796
+GO:0043407	negative regulation of MAP kinase activity	6	26	0.00012067061432	0.00399113554227
+GO:0045494	photoreceptor cell maintenance	6	28	0.000187313988761	0.00610423233961
+GO:0034976	response to endoplasmic reticulum stress	9	66	0.000196199735729	0.00630113933877
+GO:0006915	apoptotic process	10	81	0.000202916328423	0.00642375119693
+GO:0019430	removal of superoxide radicals	4	11	0.00025975595363	0.00777863774655
+GO:0006801	superoxide metabolic process	4	11	0.00025975595363	0.00777863774655
+GO:0006641	triglyceride metabolic process	4	11	0.00025975595363	0.00777863774655
+GO:0055089	fatty acid homeostasis	4	11	0.00025975595363	0.00777863774655
+GO:0060271	cilium assembly	14	151	0.000265927659356	0.00785727590843
+GO:0071316	cellular response to nicotine	3	5	0.000288717138609	0.00809869847034
+GO:0060259	regulation of feeding behavior	3	5	0.000288717138609	0.00809869847034
+GO:0060252	positive regulation of glial cell proliferation	3	5	0.000288717138609	0.00809869847034
+GO:0060296	regulation of cilium beat frequency involved in ciliary motility	3	5	0.000288717138609	0.00809869847034
+GO:0006284	base-excision repair	5	20	0.000304442873767	0.00832895565762
+GO:0045840	positive regulation of mitotic nuclear division	5	20	0.000304442873767	0.00832895565762
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	7	43	0.000333920692755	0.00902400311152
+GO:0030225	macrophage differentiation	4	12	0.000380075415283	0.0099087896502
+GO:0010906	regulation of glucose metabolic process	4	12	0.000380075415283	0.0099087896502
+GO:0050995	negative regulation of lipid catabolic process	4	12	0.000380075415283	0.0099087896502
+GO:1904707	positive regulation of vascular associated smooth muscle cell proliferation	5	21	0.000389437739936	0.0100348143221
+GO:0097009	energy homeostasis	6	32	0.000405511849446	0.0103288995215
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	12	122	0.000422547349868	0.0106405105376
+GO:0045766	positive regulation of angiogenesis	10	89	0.000440681085835	0.01097246389
+GO:0042632	cholesterol homeostasis	8	59	0.000461421645505	0.0113612262938
+GO:0010875	positive regulation of cholesterol efflux	5	22	0.000491194068144	0.0119613852198
+GO:0044321	response to leptin	3	6	0.000564060829781	0.0124995879879
+GO:0021766	hippocampus development	4	13	0.000535543594306	0.0124995879879
+GO:0106071	positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	3	6	0.000564060829781	0.0124995879879
+GO:0045737	positive regulation of cyclin-dependent protein serine/threonine kinase activity	4	13	0.000535543594306	0.0124995879879
+GO:0060047	heart contraction	3	6	0.000564060829781	0.0124995879879
+GO:0010891	negative regulation of sequestering of triglyceride	3	6	0.000564060829781	0.0124995879879
+GO:0010573	vascular endothelial growth factor production	3	6	0.000564060829781	0.0124995879879
+GO:0010815	bradykinin catabolic process	3	6	0.000564060829781	0.0124995879879
+GO:0001836	release of cytochrome c from mitochondria	4	13	0.000535543594306	0.0124995879879
+GO:0043525	positive regulation of neuron apoptotic process	5	23	0.000611727804389	0.0131610564517
+GO:1902894	negative regulation of miRNA transcription	5	23	0.000611727804389	0.0131610564517
+GO:0070555	response to interleukin-1	5	23	0.000611727804389	0.0131610564517
+GO:0034116	positive regulation of heterotypic cell-cell adhesion	4	14	0.000731405697226	0.0151476170566
+GO:2000811	negative regulation of anoikis	4	14	0.000731405697226	0.0151476170566
+GO:0045821	positive regulation of glycolytic process	4	14	0.000731405697226	0.0151476170566
+GO:0097696	cell surface receptor signaling pathway via STAT	4	14	0.000731405697226	0.0151476170566
+GO:0009267	cellular response to starvation	7	49	0.000758290485694	0.0155589973731
+GO:0060559	positive regulation of calcidiol 1-monooxygenase activity	2	2	0.000974002275249	0.0159880669774
+GO:1905049	negative regulation of metallopeptidase activity	2	2	0.000974002275249	0.0159880669774
+GO:0043536	positive regulation of blood vessel endothelial cell migration	6	37	0.00091228886209	0.0159880669774
+GO:0035565	regulation of pronephros size	2	2	0.000974002275249	0.0159880669774
+GO:0000303	response to superoxide	2	2	0.000974002275249	0.0159880669774
+GO:0046325	negative regulation of D-glucose import	3	7	0.000964279944991	0.0159880669774
+GO:0051877	pigment granule aggregation in cell center	2	2	0.000974002275249	0.0159880669774
+GO:0071456	cellular response to hypoxia	8	65	0.000893062715686	0.0159880669774
+GO:2000467	positive regulation of glycogen (starch) synthase activity	2	2	0.000974002275249	0.0159880669774
+GO:0032817	regulation of natural killer cell proliferation	2	2	0.000974002275249	0.0159880669774
+GO:0034141	positive regulation of toll-like receptor 3 signaling pathway	3	7	0.000964279944991	0.0159880669774
+GO:0003100	regulation of systemic arterial blood pressure by endothelin	2	2	0.000974002275249	0.0159880669774
+GO:2001258	negative regulation of cation channel activity	2	2	0.000974002275249	0.0159880669774
+GO:0032000	positive regulation of fatty acid beta-oxidation	3	7	0.000964279944991	0.0159880669774
+GO:0050805	negative regulation of synaptic transmission	2	2	0.000974002275249	0.0159880669774
+GO:1900017	positive regulation of cytokine production involved in inflammatory response	4	15	0.000972979572594	0.0159880669774
+GO:1902512	positive regulation of apoptotic DNA fragmentation	2	2	0.000974002275249	0.0159880669774
+GO:0051580	regulation of neurotransmitter uptake	2	2	0.000974002275249	0.0159880669774
+GO:0001819	positive regulation of cytokine production	6	37	0.00091228886209	0.0159880669774
+GO:0034502	protein localization to chromosome	2	2	0.000974002275249	0.0159880669774
+GO:1903597	negative regulation of gap junction assembly	2	2	0.000974002275249	0.0159880669774
+GO:0032350	regulation of hormone metabolic process	2	2	0.000974002275249	0.0159880669774
+GO:0050853	B cell receptor signaling pathway	5	25	0.000917594941156	0.0159880669774
+GO:0050999	regulation of nitric-oxide synthase activity	2	2	0.000974002275249	0.0159880669774
+GO:0048854	brain morphogenesis	3	7	0.000964279944991	0.0159880669774
+GO:1905906	regulation of amyloid fibril formation	2	2	0.000974002275249	0.0159880669774
+GO:0045892	negative regulation of DNA-templated transcription	24	384	0.000962064369017	0.0159880669774
+GO:0006355	regulation of DNA-templated transcription	14	172	0.000988409292039	0.0161052572879
+GO:0008285	negative regulation of cell population proliferation	15	194	0.00111636426494	0.0180573957014
+GO:0006979	response to oxidative stress	7	53	0.00122308314901	0.0196402337551
+GO:1904706	negative regulation of vascular associated smooth muscle cell proliferation	4	16	0.00126561225986	0.0201769551644
+GO:0007259	cell surface receptor signaling pathway via JAK-STAT	5	27	0.00132466403338	0.0209675392712
+GO:0006954	inflammatory response	7	54	0.00136832343062	0.0215049980302
+GO:0043129	surfactant homeostasis	3	8	0.00150722508832	0.0228767862721
+GO:0019433	triglyceride catabolic process	3	8	0.00150722508832	0.0228767862721
+GO:2000272	negative regulation of signaling receptor activity	3	8	0.00150722508832	0.0228767862721
+GO:0071492	cellular response to UV-A	3	8	0.00150722508832	0.0228767862721
+GO:0071639	positive regulation of monocyte chemotactic protein-1 production	3	8	0.00150722508832	0.0228767862721
+GO:1903078	positive regulation of protein localization to plasma membrane	6	41	0.00158894247906	0.0239530376435
+GO:0043537	negative regulation of blood vessel endothelial cell migration	4	17	0.0016146408277	0.0241759734741
+GO:0048662	negative regulation of smooth muscle cell proliferation	4	18	0.00202535720737	0.0297231229903
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	4	18	0.00202535720737	0.0297231229903
+GO:0045742	positive regulation of epidermal growth factor receptor signaling pathway	4	18	0.00202535720737	0.0297231229903
+GO:0071222	cellular response to lipopolysaccharide	8	74	0.00209237788556	0.0303052901595
+GO:0001525	angiogenesis	8	74	0.00209237788556	0.0303052901595
+GO:0038166	angiotensin-activated signaling pathway	3	9	0.0022087182306	0.030400742851
+GO:1990535	neuron projection maintenance	3	9	0.0022087182306	0.030400742851
+GO:2000273	positive regulation of signaling receptor activity	3	9	0.0022087182306	0.030400742851
+GO:1903140	regulation of establishment of endothelial barrier	3	9	0.0022087182306	0.030400742851
+GO:0000731	DNA synthesis involved in DNA repair	3	9	0.0022087182306	0.030400742851
+GO:0048009	insulin-like growth factor receptor signaling pathway	3	9	0.0022087182306	0.030400742851
+GO:0030889	negative regulation of B cell proliferation	3	9	0.0022087182306	0.030400742851
+GO:0032204	regulation of telomere maintenance	3	9	0.0022087182306	0.030400742851
+GO:0018105	peptidyl-serine phosphorylation	8	75	0.0022800606248	0.0311889774355
+GO:0090090	negative regulation of canonical Wnt signaling pathway	9	93	0.0024420946843	0.0332005019657
+GO:0001676	long-chain fatty acid metabolic process	4	19	0.00250297674519	0.0334017981194
+GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	4	19	0.00250297674519	0.0334017981194
+GO:0019722	calcium-mediated signaling	5	31	0.00251719326983	0.0334017981194
+GO:0051881	regulation of mitochondrial membrane potential	4	19	0.00250297674519	0.0334017981194
+GO:0002003	angiotensin maturation	2	3	0.00286148629602	0.0340916861935
+GO:0098868	bone growth	2	3	0.00286148629602	0.0340916861935
+GO:1902952	positive regulation of dendritic spine maintenance	2	3	0.00286148629602	0.0340916861935
+GO:2000481	positive regulation of cAMP-dependent protein kinase activity	2	3	0.00286148629602	0.0340916861935
+GO:2000630	positive regulation of miRNA metabolic process	2	3	0.00286148629602	0.0340916861935
+GO:2000635	negative regulation of primary miRNA processing	2	3	0.00286148629602	0.0340916861935
+GO:0032310	prostaglandin secretion	2	3	0.00286148629602	0.0340916861935
+GO:1990048	anterograde neuronal dense core vesicle transport	2	3	0.00286148629602	0.0340916861935
+GO:0003309	type B pancreatic cell differentiation	2	3	0.00286148629602	0.0340916861935
+GO:1900221	regulation of amyloid-beta clearance	2	3	0.00286148629602	0.0340916861935
+GO:1902339	positive regulation of apoptotic process involved in morphogenesis	2	3	0.00286148629602	0.0340916861935
+GO:0018076	N-terminal peptidyl-lysine acetylation	2	3	0.00286148629602	0.0340916861935
+GO:0070141	response to UV-A	2	3	0.00286148629602	0.0340916861935
+GO:0061051	positive regulation of cell growth involved in cardiac muscle cell development	2	3	0.00286148629602	0.0340916861935
+GO:0006527	arginine catabolic process	2	3	0.00286148629602	0.0340916861935
+GO:0043065	positive regulation of apoptotic process	14	192	0.00279524067048	0.0340916861935
+GO:0010814	substance P catabolic process	2	3	0.00286148629602	0.0340916861935
+GO:1905908	positive regulation of amyloid fibril formation	2	3	0.00286148629602	0.0340916861935
+GO:0141156	cAMP/PKA signal transduction	2	3	0.00286148629602	0.0340916861935
+GO:1904646	cellular response to amyloid-beta	5	32	0.00290824538477	0.0342801690034
+GO:0050679	positive regulation of epithelial cell proliferation	5	32	0.00290824538477	0.0342801690034
+GO:0034115	negative regulation of heterotypic cell-cell adhesion	3	10	0.00308268574538	0.0357656105328
+GO:1904996	positive regulation of leukocyte adhesion to vascular endothelial cell	3	10	0.00308268574538	0.0357656105328
+GO:0042594	response to starvation	3	10	0.00308268574538	0.0357656105328
+GO:0050728	negative regulation of inflammatory response	7	63	0.0033658381406	0.0388473818728
+GO:0034644	cellular response to UV	6	48	0.00361223883252	0.0414752396521
+GO:0002092	positive regulation of receptor internalization	4	21	0.00367923903031	0.042026771604
+GO:0032731	positive regulation of interleukin-1 beta production	6	49	0.00401046418318	0.0453427991323
+GO:0007186	G protein-coupled receptor signaling pathway	8	82	0.00399147575222	0.0453427991323
+GO:0006809	nitric oxide biosynthetic process	3	11	0.00414128441717	0.0454311201408
+GO:2000147	positive regulation of cell motility	3	11	0.00414128441717	0.0454311201408
+GO:0046628	positive regulation of insulin receptor signaling pathway	3	11	0.00414128441717	0.0454311201408
+GO:1904659	D-glucose transmembrane transport	3	11	0.00414128441717	0.0454311201408
+GO:0042744	hydrogen peroxide catabolic process	3	11	0.00414128441717	0.0454311201408
+GO:0032469	endoplasmic reticulum calcium ion homeostasis	3	11	0.00414128441717	0.0454311201408
+GO:0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	4	22	0.00438769346627	0.0476623956924
+GO:0046427	positive regulation of receptor signaling pathway via JAK-STAT	4	22	0.00438769346627	0.0476623956924
+GO:0010595	positive regulation of endothelial cell migration	6	50	0.00444027430566	0.0479982822504

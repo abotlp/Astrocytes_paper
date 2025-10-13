@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9694548	Maturation of spike protein	14	36	4.92024300988e-07	0.00028881826468
+R-HSA-975577	N-Glycan antennae elongation	7	10	2.694709295e-06	0.000790897178084
+R-HSA-2022854	Keratan sulfate biosynthesis	9	18	4.70505184769e-06	0.000920621811532
+R-HSA-352230	Amino acid transport across the plasma membrane	11	28	7.52547606242e-06	0.000960062099779
+R-HSA-5173105	O-linked glycosylation	6	8	8.17770102027e-06	0.000960062099779
+R-HSA-9683673	Maturation of protein 3a	6	9	2.27898853771e-05	0.00191109467376
+R-HSA-9694719	Maturation of protein 3a	6	9	2.27898853771e-05	0.00191109467376
+R-HSA-416700	Other semaphorin interactions	7	16	0.000163868403135	0.01202384408
+R-HSA-2243919	Crosslinking of collagen fibrils	7	17	0.000258553949737	0.0168634631662
+R-HSA-442380	Zinc influx into cells by the SLC39 gene family	5	9	0.000384729125591	0.0192105415267
+R-HSA-2022870	Chondroitin sulfate biosynthesis	7	18	0.000392719758639	0.0192105415267
+R-HSA-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	6	13	0.000347108241335	0.0192105415267

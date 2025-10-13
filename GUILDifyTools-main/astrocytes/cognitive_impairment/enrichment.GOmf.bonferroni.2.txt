@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	11	31	1.45023939921e-08	5.64143126293e-06
+GO:0008320	protein transmembrane transporter activity	7	10	1.6505946049e-08	6.42081301306e-06
+GO:0032977	membrane insertase activity	7	15	7.43891693131e-07	0.000289373868628
+GO:0033149	FFAT motif binding	3	3	6.31811691945e-05	0.0245774748167
+GO:0019003	GDP binding	9	49	0.000116091984403	0.0451597819328

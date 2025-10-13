@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042752	regulation of circadian rhythm	17	54	6.51036504179e-13	1.20376649623e-09
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	6	6	1.21613009192e-09	2.24862453996e-06
+GO:0032922	circadian regulation of gene expression	14	57	2.85424945941e-09	5.27750725046e-06
+GO:0045892	negative regulation of DNA-templated transcription	34	384	1.285730646e-07	0.000237731596445
+GO:0031648	protein destabilization	9	39	3.60139402876e-06	0.00665897755917
+GO:0043525	positive regulation of neuron apoptotic process	7	23	6.10787047838e-06	0.0112934525145
+GO:0000122	negative regulation of transcription by RNA polymerase II	38	537	6.24241760659e-06	0.0115422301546
+GO:0042753	positive regulation of circadian rhythm	5	10	8.24000059113e-06	0.015235761093
+GO:0007623	circadian rhythm	7	24	8.38109332134e-06	0.0154966415512
+GO:0050821	protein stabilization	18	168	1.00670396158e-05	0.0186139562495
+GO:0045429	positive regulation of nitric oxide biosynthetic process	7	26	1.50487623899e-05	0.027825161659
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	9	47	1.83563779295e-05	0.0339409427916
+GO:0006473	protein acetylation	5	12	2.45214471476e-05	0.0453401557759
+GO:0031396	regulation of protein ubiquitination	5	12	2.45214471476e-05	0.0453401557759

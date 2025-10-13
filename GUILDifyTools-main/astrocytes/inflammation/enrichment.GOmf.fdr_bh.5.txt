@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003714	transcription corepressor activity	28	115	5.0060145766e-06	0.00194483666301
+GO:0005125	cytokine activity	17	50	3.08530498011e-06	0.00194483666301
+GO:0000976	transcription cis-regulatory region binding	40	208	2.77081001485e-05	0.00717639793847
+GO:0008143	poly(A) binding	7	13	9.22118130348e-05	0.0163363106554
+GO:0004879	nuclear receptor activity	10	26	0.000105124264192	0.0163363106554

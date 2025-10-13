@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0006298	mismatch repair	3	12	1.44252615748e-07	2.20706502094e-05
+GO:0006284	base-excision repair	3	20	7.44446286316e-07	0.000113900281806
+GO:0034502	protein localization to chromosome	2	2	8.48089285923e-07	0.000129757660746
+GO:0006260	DNA replication	3	23	1.15473473776e-06	0.000176674414878
+GO:0006289	nucleotide-excision repair	3	26	1.69266916947e-06	0.000258978382929
+GO:0000724	double-strand break repair via homologous recombination	3	71	3.63637407538e-05	0.00556365233533

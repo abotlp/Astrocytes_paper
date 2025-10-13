@@ -1,0 +1,22 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0018108	peptidyl-tyrosine phosphorylation	14	43	3.08181156909e-11	5.85852379284e-08
+GO:0045429	positive regulation of nitric oxide biosynthetic process	10	26	3.34396350347e-09	6.35687462009e-06
+GO:1904646	cellular response to amyloid-beta	10	32	3.42122735563e-08	6.50375320306e-05
+GO:1903078	positive regulation of protein localization to plasma membrane	11	41	4.1247227202e-08	7.8410978911e-05
+GO:0001934	positive regulation of protein phosphorylation	17	107	4.41581252833e-08	8.39445961636e-05
+GO:1904294	positive regulation of ERAD pathway	7	13	4.72346858899e-08	8.97931378767e-05
+GO:0046326	positive regulation of D-glucose import	8	21	1.44010778469e-07	0.00027376448987
+GO:0010628	positive regulation of gene expression	26	271	5.51123867584e-07	0.00104768647228
+GO:0008284	positive regulation of cell population proliferation	24	249	1.40347638822e-06	0.00266800861401
+GO:0045725	positive regulation of glycogen biosynthetic process	6	13	1.46505182422e-06	0.00278506351784
+GO:0071218	cellular response to misfolded protein	5	8	1.69296460988e-06	0.00321832572338
+GO:0007611	learning or memory	8	28	1.8072469196e-06	0.00343557639416
+GO:0030335	positive regulation of cell migration	19	172	2.4429765087e-06	0.00464409834305
+GO:0008286	insulin receptor signaling pathway	8	30	3.21772229678e-06	0.00611689008618
+GO:1990535	neuron projection maintenance	5	9	3.70918939952e-06	0.00705116904849
+GO:0043525	positive regulation of neuron apoptotic process	7	23	5.1141974378e-06	0.00972208932925
+GO:1902430	negative regulation of amyloid-beta formation	6	16	6.3005741531e-06	0.011977391465
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	15	121	6.95713647259e-06	0.0132255164344
+GO:0045861	negative regulation of proteolysis	6	17	9.4759407717e-06	0.018013763407
+GO:0046628	positive regulation of insulin receptor signaling pathway	5	11	1.28965171066e-05	0.0245162790196
+GO:0043410	positive regulation of MAPK cascade	13	104	2.60966285913e-05	0.049609690952

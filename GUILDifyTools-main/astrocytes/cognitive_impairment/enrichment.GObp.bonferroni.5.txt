@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0016558	protein import into peroxisome matrix	9	10	1.3032992431e-09	3.29734708503e-06
+GO:0007031	peroxisome organization	11	17	7.04113226106e-09	1.78140646205e-05
+GO:0032212	positive regulation of telomere maintenance via telomerase	11	21	1.48271752581e-07	0.00037512753403
+GO:0006289	nucleotide-excision repair	12	26	2.37782103237e-07	0.000601588721189
+GO:0050821	protein stabilization	34	168	4.29414899188e-07	0.00108641969495
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	1.77890819176e-06	0.00450063772514
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	3.39782655939e-06	0.00859650119525
+GO:0051086	chaperone mediated protein folding independent of cofactor	6	8	6.62704100812e-06	0.0167664137505
+GO:0006626	protein targeting to mitochondrion	7	12	1.20653177818e-05	0.030525253988
+GO:0061077	chaperone-mediated protein folding	10	26	1.79572094478e-05	0.045431739903
+GO:0045040	protein insertion into mitochondrial outer membrane	5	6	1.90224830214e-05	0.0481268820442

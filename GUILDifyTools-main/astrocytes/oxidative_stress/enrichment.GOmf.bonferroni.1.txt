@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0008379	thioredoxin peroxidase activity	4	4	1.32608313652e-07	4.52194349553e-05
+GO:0003684	damaged DNA binding	7	31	1.53805085215e-06	0.000524475340584
+GO:0097100	supercoiled DNA binding	4	6	1.92978384652e-06	0.000658056291664
+GO:1903136	cuprous ion binding	4	8	8.73728313529e-06	0.00297941354913
+GO:0005507	copper ion binding	6	27	9.84495077347e-06	0.00335712821375
+GO:0004672	protein kinase activity	10	104	2.92724885311e-05	0.0099819185891
+GO:0004674	protein serine/threonine kinase activity	15	229	3.29668787723e-05	0.0112417056613
+GO:0000405	bubble DNA binding	3	6	0.00013438643709	0.0458257750477

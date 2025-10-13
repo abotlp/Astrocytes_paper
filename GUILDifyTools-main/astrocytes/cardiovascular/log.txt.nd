@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cardiovascular/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cardiovascular/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/cardiovascular/output_scores.txt.nd
+Time: 3823150000 (3823.15s)

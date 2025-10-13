@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004601	peroxidase activity	8	14	1.11782662595e-08	5.55559833095e-06
+GO:0003684	damaged DNA binding	10	31	1.38905626729e-07	6.90360964845e-05
+GO:0008379	thioredoxin peroxidase activity	4	4	2.18876693798e-06	0.00108781716818
+GO:0020037	heme binding	11	51	2.88042077411e-06	0.00143156912473
+GO:0097100	supercoiled DNA binding	4	6	3.08578089673e-05	0.0153363310568
+GO:0016209	antioxidant activity	5	12	5.2844240699e-05	0.0262635876274
+GO:0005507	copper ion binding	7	27	5.48316985563e-05	0.0272513541825
+GO:0033743	peptide-methionine (R)-S-oxide reductase activity	3	3	5.71594446644e-05	0.0284082439982
+GO:0016684	oxidoreductase activity, acting on peroxide as acceptor	3	3	5.71594446644e-05	0.0284082439982
+GO:0004784	superoxide dismutase activity	3	3	5.71594446644e-05	0.0284082439982

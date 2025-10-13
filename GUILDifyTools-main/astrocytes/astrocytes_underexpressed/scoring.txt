@@ -1,0 +1,8 @@
+di
+nd
+nz	5
+ff	5	1.0
+np
+nr
+ns	3	2
+nw

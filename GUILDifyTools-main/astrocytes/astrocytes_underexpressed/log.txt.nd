@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/astrocytes_underexpressed/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/new_corrected_networks/astrocytes_underexpressed/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/new_corrected_networks/astrocytes_underexpressed/output_scores.txt.nd
+Time: 3794130000 (3794.13s)

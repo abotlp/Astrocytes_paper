@@ -1,0 +1,44 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	24	34	2.05902446096e-28	1.72752152274e-25
+R-HSA-5628897	TP53 Regulates Metabolic Genes	20	78	7.07879040107e-13	2.96955257325e-10
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	11	18	1.43464434101e-12	4.01222200702e-10
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	6	9	1.09852765926e-07	2.30416176529e-05
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	6	11	5.70355694525e-07	9.57056855413e-05
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	7	21	3.65192074532e-06	0.000510660250887
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	4.82209511167e-06	0.00057796254267
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	6	17	1.28577473691e-05	0.00119862778252
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	6	17	1.28577473691e-05	0.00119862778252
+R-HSA-5676934	Protein repair	4	6	1.8219676954e-05	0.00133419997743
+R-HSA-5696395	Formation of Incision Complex in GG-NER	8	35	1.65606015104e-05	0.00133419997743
+R-HSA-5696400	Dual Incision in GG-NER	8	36	2.06729436313e-05	0.00133419997743
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	8	36	2.06729436313e-05	0.00133419997743
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	7	27	2.34089577244e-05	0.00140286539505
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	10	66	6.64593485888e-05	0.00371729289773
+R-HSA-9755511	KEAP1-NFE2L2 pathway	9	56	9.61399289437e-05	0.00504133752399
+R-HSA-6782135	Dual incision in TC-NER	9	58	0.000127345370844	0.00628486859634
+R-HSA-198693	AKT phosphorylates targets in the nucleus	4	9	0.000141139485834	0.00657866825638
+R-HSA-211163	AKT-mediated inactivation of FOXO1A	3	4	0.000149254536127	0.00659076609529
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	12	104	0.000192539339951	0.00807702531095
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	4	10	0.000228980902513	0.008732498964
+R-HSA-3371511	HSF1 activation	4	10	0.000228980902513	0.008732498964
+R-HSA-912446	Meiotic recombination	8	51	0.0002797618582	0.0102052260448
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	5	19	0.000336467411016	0.0117387937021
+R-HSA-174403	Glutathione synthesis and recycling	4	11	0.000350274828656	0.0117387937021
+R-HSA-2142770	Synthesis of 15-eicosatetraenoic acid derivatives	3	5	0.000363776682067	0.0117387937021
+R-HSA-611105	Respiratory electron transport	10	84	0.000508088676619	0.0152245142744
+R-HSA-6804756	Regulation of TP53 Activity through Phosphorylation	10	84	0.000508088676619	0.0152245142744
+R-HSA-5651801	PCNA-Dependent Long Patch Base Excision Repair	5	21	0.00055694401629	0.0161129665402
+R-HSA-171007	p38MAPK events	4	13	0.000719234544607	0.0194657349331
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	7	45	0.000709376594343	0.0194657349331
+R-HSA-6783310	Fanconi Anemia Pathway	6	34	0.000859850266016	0.0225441991621
+R-HSA-69166	Removal of the Flap Intermediate	4	14	0.000980286978267	0.0249230537808
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer	5	24	0.00107033299272	0.0264120406146
+R-HSA-5578999	Defective GCLC causes HAGGSD	2	2	0.00113913439417	0.0273066787632
+R-HSA-5649702	APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	3	7	0.00121029964197	0.0282067055448
+R-HSA-110320	Translesion Synthesis by POLH	4	15	0.00130142712637	0.0293467971769
+R-HSA-9833482	PKR-mediated signaling	8	64	0.00132917555747	0.0293467971769
+R-HSA-74751	Insulin receptor signalling cascade	3	8	0.00188814703983	0.0377179849148
+R-HSA-2142688	Synthesis of 5-eicosatetraenoic acids	3	8	0.00188814703983	0.0377179849148
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	6	39	0.00181012014713	0.0377179849148
+R-HSA-110362	POLB-Dependent Long Patch Base Excision Repair	3	8	0.00188814703983	0.0377179849148
+R-HSA-499943	Interconversion of nucleotide di- and triphosphates	5	28	0.00221542851525	0.0432266168441

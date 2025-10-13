@@ -1,0 +1,21 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	22	104	2.76364237349e-12	2.46516899715e-09
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	1.03573392517e-11	9.23874661252e-09
+R-HSA-6783783	Interleukin-10 signaling	13	43	7.74553242438e-10	6.90901492255e-07
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	10	27	7.85130952054e-09	7.00336809232e-06
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	9	22	1.60583321008e-08	1.43240322339e-05
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	15	83	8.35224406247e-08	7.45020170373e-05
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	1.03947865016e-07	9.27214955939e-05
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	6	11	5.39993577022e-07	0.000481674270704
+R-HSA-9818749	Regulation of NFE2L2 gene expression	5	8	2.10538968734e-06	0.00187800760111
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	14	97	3.81708516962e-06	0.0034048399713
+R-HSA-74713	IRS activation	4	5	6.01305180201e-06	0.00536364220739
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	6	17	1.21932342668e-05	0.010876364966
+R-HSA-2586552	Signaling by Leptin	5	11	1.59800234857e-05	0.0142541809492
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	1.59800234857e-05	0.0142541809492
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	14	110	1.69298974768e-05	0.0151014685493
+R-HSA-5660668	CLEC7A/inflammasome pathway	4	6	1.75621647325e-05	0.0156654509414
+R-HSA-5218921	VEGFR2 mediated cell proliferation	6	18	1.77773136857e-05	0.0158573638076
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	9	49	2.98403663299e-05	0.0266176067662
+R-HSA-8854691	Interleukin-20 family signaling	6	20	3.5068017512e-05	0.0312806716207
+R-HSA-5621575	CD209 (DC-SIGN) signaling	6	21	4.77217384215e-05	0.042567790672

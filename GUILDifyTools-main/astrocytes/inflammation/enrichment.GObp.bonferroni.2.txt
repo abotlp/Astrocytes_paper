@@ -1,0 +1,60 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0032731	positive regulation of interleukin-1 beta production	21	49	2.44265597584e-19	5.21751316439e-16
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	30	129	2.50625584358e-18	5.35336248188e-15
+GO:0032755	positive regulation of interleukin-6 production	23	68	2.66689066475e-18	5.6964784599e-15
+GO:0010628	positive regulation of gene expression	36	271	1.36034619705e-13	2.9056994769e-10
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	19	70	2.36346548264e-13	5.04836227093e-10
+GO:0050729	positive regulation of inflammatory response	17	55	4.17052496543e-13	8.90824132616e-10
+GO:0032757	positive regulation of interleukin-8 production	17	58	1.10826459249e-12	2.36725316955e-09
+GO:0032722	positive regulation of chemokine production	13	31	2.76298263324e-12	5.90173090459e-09
+GO:0032760	positive regulation of tumor necrosis factor production	17	71	4.01203410153e-11	8.56970484086e-08
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	20	103	4.56377486667e-11	9.7482231152e-08
+GO:0050728	negative regulation of inflammatory response	16	63	5.80911911395e-11	1.24082784274e-07
+GO:0071222	cellular response to lipopolysaccharide	17	74	8.16024922218e-11	1.74302923386e-07
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	21	122	1.60274903053e-10	3.42347192922e-07
+GO:0010595	positive regulation of endothelial cell migration	14	50	2.26781317695e-10	4.84404894598e-07
+GO:1902895	positive regulation of miRNA transcription	13	42	2.50310222773e-10	5.34662635843e-07
+GO:0006954	inflammatory response	14	54	7.0054291019e-10	1.49635965617e-06
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	19	121	6.01910828341e-09	1.28568152934e-05
+GO:0032733	positive regulation of interleukin-10 production	10	28	6.34974689776e-09	1.35630593736e-05
+GO:0045944	positive regulation of transcription by RNA polymerase II	55	781	8.23031168381e-09	1.75799457566e-05
+GO:0008284	positive regulation of cell population proliferation	27	249	1.6692266345e-08	3.56546809129e-05
+GO:0043410	positive regulation of MAPK cascade	17	104	2.07853228168e-08	4.43974495367e-05
+GO:0035094	response to nicotine	5	5	2.9398013483e-08	6.27941567996e-05
+GO:0045429	positive regulation of nitric oxide biosynthetic process	9	26	5.11446627092e-08	0.000109244999547
+GO:0030335	positive regulation of cell migration	21	172	9.09503661766e-08	0.000194269982153
+GO:0043536	positive regulation of blood vessel endothelial cell migration	10	37	1.31073633495e-07	0.000279973281145
+GO:0010629	negative regulation of gene expression	20	162	1.54220351733e-07	0.000329414671301
+GO:0001934	positive regulation of protein phosphorylation	16	107	1.96594891976e-07	0.00041992668926
+GO:0007204	positive regulation of cytosolic calcium ion concentration	10	39	2.26237981679e-07	0.000483244328867
+GO:1901224	positive regulation of non-canonical NF-kappaB signal transduction	10	43	6.10271251645e-07	0.00130353939351
+GO:0045893	positive regulation of DNA-templated transcription	34	435	7.69863742729e-07	0.00164442895447
+GO:0031640	killing of cells of another organism	11	55	8.46113264538e-07	0.00180729793305
+GO:0071347	cellular response to interleukin-1	9	35	9.00611039412e-07	0.00192370518018
+GO:0042742	defense response to bacterium	12	67	9.37857661504e-07	0.00200326396497
+GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway	4	4	9.49030541858e-07	0.00202712923741
+GO:1904294	positive regulation of ERAD pathway	6	13	1.29230772774e-06	0.00276036930644
+GO:0050830	defense response to Gram-positive bacterium	11	59	1.76927026324e-06	0.00377916128227
+GO:0048661	positive regulation of smooth muscle cell proliferation	8	29	2.06704215403e-06	0.00441520204101
+GO:0032930	positive regulation of superoxide anion generation	6	14	2.20206034082e-06	0.00470360088798
+GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	7	21	2.22225065892e-06	0.00474672740746
+GO:0050727	regulation of inflammatory response	9	40	3.03713769237e-06	0.0064873261109
+GO:1900017	positive regulation of cytokine production involved in inflammatory response	6	15	3.57362598648e-06	0.00763326510711
+GO:1902894	negative regulation of miRNA transcription	7	23	4.43826068269e-06	0.00948012481822
+GO:1904646	cellular response to amyloid-beta	8	32	4.66569025631e-06	0.00996591438747
+GO:2001240	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	6	16	5.56757604294e-06	0.0118923424277
+GO:0071346	cellular response to type II interferon	8	33	5.9923290124e-06	0.0127996147705
+GO:0010575	positive regulation of vascular endothelial growth factor production	7	24	6.09849001463e-06	0.0130263746713
+GO:0046330	positive regulation of JNK cascade	11	67	6.49406560653e-06	0.0138713241355
+GO:0019732	antifungal humoral response	5	10	6.50399430205e-06	0.0138925318292
+GO:0051091	positive regulation of DNA-binding transcription factor activity	12	80	6.53742715547e-06	0.0139639444041
+GO:0042102	positive regulation of T cell proliferation	8	34	7.62448910579e-06	0.01628590873
+GO:0001774	microglial cell activation	5	11	1.16181620707e-05	0.0248163941829
+GO:0019221	cytokine-mediated signaling pathway	8	36	1.20306692589e-05	0.025697509537
+GO:0045742	positive regulation of epidermal growth factor receptor signaling pathway	6	18	1.22378687485e-05	0.0261400876467
+GO:0032495	response to muramyl dipeptide	4	6	1.35389847285e-05	0.02891927138
+GO:2000320	negative regulation of T-helper 17 cell differentiation	4	6	1.35389847285e-05	0.02891927138
+GO:0001819	positive regulation of cytokine production	8	37	1.49353127747e-05	0.0319018280867
+GO:0032481	positive regulation of type I interferon production	7	28	1.87248271638e-05	0.0399962308219
+GO:0032735	positive regulation of interleukin-12 production	7	28	1.87248271638e-05	0.0399962308219
+GO:0045766	positive regulation of angiogenesis	12	89	2.0007210046e-05	0.0427354006583

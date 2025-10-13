@@ -1,0 +1,55 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042752	regulation of circadian rhythm	22	54	5.03761945866e-11	1.40247325729e-07
+GO:0032922	circadian regulation of gene expression	19	57	5.18478372348e-08	7.21721894308e-05
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	6	6	2.82914869274e-07	0.000262544998686
+GO:0045892	negative regulation of DNA-templated transcription	60	384	5.18873122574e-07	0.000361135693312
+GO:0042770	signal transduction in response to DNA damage	7	10	2.20073264798e-06	0.00122536793839
+GO:1902895	positive regulation of miRNA transcription	14	42	3.00004893789e-06	0.00139202270718
+GO:0050821	protein stabilization	32	168	4.21379177447e-06	0.00167588518573
+GO:0007623	circadian rhythm	10	24	8.1225953002e-06	0.00282666316447
+GO:0032212	positive regulation of telomere maintenance via telomerase	9	21	1.77512991322e-05	0.0043915229618
+GO:0002181	cytoplasmic translation	9	21	1.77512991322e-05	0.0043915229618
+GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	9	21	1.77512991322e-05	0.0043915229618
+GO:0006413	translational initiation	10	26	1.89289782836e-05	0.0043915229618
+GO:0060395	SMAD protein signal transduction	8	17	2.29931942854e-05	0.00492408099158
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	8	18	3.84497635748e-05	0.00764601012803
+GO:0050872	white fat cell differentiation	4	4	4.32863579036e-05	0.00776554601496
+GO:0042753	positive regulation of circadian rhythm	6	10	4.46295747986e-05	0.00776554601496
+GO:0045893	positive regulation of DNA-templated transcription	59	435	5.64824558536e-05	0.00924983277037
+GO:0042754	negative regulation of circadian rhythm	5	7	6.39701370526e-05	0.00989404786413
+GO:0070934	CRD-mediated mRNA stabilization	6	11	9.1433221387e-05	0.0133973730706
+GO:0000122	negative regulation of transcription by RNA polymerase II	68	537	0.000134948645016	0.0187848513862
+GO:0016925	protein sumoylation	8	21	0.000143431977674	0.0190149821831
+GO:0038061	non-canonical NF-kappaB signal transduction	6	12	0.000170311002364	0.0197560762742
+GO:0031396	regulation of protein ubiquitination	6	12	0.000170311002364	0.0197560762742
+GO:1904668	positive regulation of ubiquitin protein ligase activity	5	8	0.000159146651643	0.0197560762742
+GO:0007346	regulation of mitotic cell cycle	9	27	0.000181259222359	0.0201850270019
+GO:0031648	protein destabilization	11	39	0.000191990369643	0.0205577380418
+GO:1901673	regulation of mitotic spindle assembly	8	22	0.00020945856061	0.0213298443732
+GO:1990000	amyloid fibril formation	7	17	0.000214524296857	0.0213298443732
+GO:0043525	positive regulation of neuron apoptotic process	8	23	0.000298488256967	0.0268061712063
+GO:0006974	DNA damage response	35	234	0.000296411207045	0.0268061712063
+GO:0043153	entrainment of circadian clock by photoperiod	6	13	0.000294610032805	0.0268061712063
+GO:0042542	response to hydrogen peroxide	5	9	0.000334114629314	0.0281871250912
+GO:1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	5	9	0.000334114629314	0.0281871250912
+GO:0031281	positive regulation of cyclase activity	3	3	0.000534539808216	0.035944644136
+GO:0070849	response to epidermal growth factor	3	3	0.000534539808216	0.035944644136
+GO:0048227	plasma membrane to endosome transport	4	6	0.00056809064008	0.035944644136
+GO:0106071	positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	4	6	0.00056809064008	0.035944644136
+GO:2000767	positive regulation of cytoplasmic translation	6	14	0.000480282389075	0.035944644136
+GO:0048660	regulation of smooth muscle cell proliferation	4	6	0.00056809064008	0.035944644136
+GO:0018076	N-terminal peptidyl-lysine acetylation	3	3	0.000534539808216	0.035944644136
+GO:0014823	response to activity	3	3	0.000534539808216	0.035944644136
+GO:0032873	negative regulation of stress-activated MAPK cascade	4	6	0.00056809064008	0.035944644136
+GO:0043536	positive regulation of blood vessel endothelial cell migration	10	37	0.000545323745279	0.035944644136
+GO:2000630	positive regulation of miRNA metabolic process	3	3	0.000534539808216	0.035944644136
+GO:0045429	positive regulation of nitric oxide biosynthetic process	8	26	0.00076384175117	0.0408949122165
+GO:0043066	negative regulation of apoptotic process	37	263	0.000676582789063	0.0408949122165
+GO:0006268	DNA unwinding involved in DNA replication	6	15	0.000745776693396	0.0408949122165
+GO:0051131	chaperone-mediated protein complex assembly	6	15	0.000745776693396	0.0408949122165
+GO:0061077	chaperone-mediated protein folding	8	26	0.00076384175117	0.0408949122165
+GO:0060766	negative regulation of androgen receptor signaling pathway	6	15	0.000745776693396	0.0408949122165
+GO:0007249	canonical NF-kappaB signal transduction	8	26	0.00076384175117	0.0408949122165
+GO:0017148	negative regulation of translation	13	59	0.000737057981377	0.0408949122165
+GO:0018107	peptidyl-threonine phosphorylation	10	39	0.000857702608881	0.0450536615684
+GO:0018105	peptidyl-serine phosphorylation	15	75	0.000878391873923	0.0452859810556

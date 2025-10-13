@@ -1,0 +1,26 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045944	positive regulation of transcription by RNA polymerase II	137	781	4.88111723531e-20	1.56732674426e-16
+GO:0045893	positive regulation of DNA-templated transcription	88	435	7.37042738616e-17	2.3666442337e-13
+GO:0000122	negative regulation of transcription by RNA polymerase II	92	537	5.89921438106e-13	1.89423773776e-09
+GO:0045892	negative regulation of DNA-templated transcription	70	384	2.38855094545e-11	7.66963708585e-08
+GO:1902895	positive regulation of miRNA transcription	19	42	8.07048623811e-11	2.59143313106e-07
+GO:0042593	glucose homeostasis	23	65	3.42769221889e-10	1.10063197149e-06
+GO:0010628	positive regulation of gene expression	51	271	4.46029535604e-09	1.43220083883e-05
+GO:0010629	negative regulation of gene expression	34	162	1.18646326815e-07	0.000380973355402
+GO:0046326	positive regulation of D-glucose import	11	21	1.2611300165e-07	0.000404948848297
+GO:0006338	chromatin remodeling	27	116	2.69745595672e-07	0.000866153107701
+GO:0032869	cellular response to insulin stimulus	17	54	4.8717158073e-07	0.00156430794572
+GO:0006357	regulation of transcription by RNA polymerase II	32	157	5.59823632481e-07	0.0017975936839
+GO:0042542	response to hydrogen peroxide	7	9	6.11618315906e-07	0.00196390641237
+GO:0051091	positive regulation of DNA-binding transcription factor activity	21	80	6.94793117317e-07	0.00223098069971
+GO:0045725	positive regulation of glycogen biosynthetic process	8	13	1.38481843881e-06	0.00444665200701
+GO:0032212	positive regulation of telomere maintenance via telomerase	10	21	1.49920227767e-06	0.00481393851358
+GO:0043066	negative regulation of apoptotic process	44	263	1.6172791519e-06	0.00519308335675
+GO:1902894	negative regulation of miRNA transcription	10	23	4.19704133803e-06	0.0134766997364
+GO:0051086	chaperone mediated protein folding independent of cofactor	6	8	6.04178860556e-06	0.0194001832124
+GO:0048661	positive regulation of smooth muscle cell proliferation	11	29	6.83365500555e-06	0.0219428662228
+GO:0001934	positive regulation of protein phosphorylation	23	107	8.61946033377e-06	0.0276770871317
+GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	9	20	9.14523497749e-06	0.0293653495127
+GO:0008286	insulin receptor signaling pathway	11	30	1.00204606909e-05	0.0321756992786
+GO:0071480	cellular response to gamma radiation	8	16	1.11511701273e-05	0.0358064072788
+GO:0006337	nucleosome disassembly	8	16	1.11511701273e-05	0.0358064072788

@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	6	31	3.55565763285e-05	0.00778689021595
+GO:0001046	core promoter sequence-specific DNA binding	4	12	7.86332478195e-05	0.0172206812725

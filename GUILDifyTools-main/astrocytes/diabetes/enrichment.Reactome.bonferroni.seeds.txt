@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	1.7195344914e-12	1.28793133406e-09
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	20	104	6.63865819692e-12	4.97235498949e-09
+R-HSA-6783783	Interleukin-10 signaling	13	43	8.33318636012e-11	6.24155658373e-08
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	9	22	3.32457653551e-09	2.49010782509e-06
+R-HSA-74713	IRS activation	4	5	2.93114253621e-06	0.00219542575962
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	12	83	2.97270246501e-06	0.00222655414629
+R-HSA-2586552	Signaling by Leptin	5	11	6.64684689418e-06	0.00497848832374
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	7	27	6.81828227531e-06	0.00510689342421
+R-HSA-5660668	CLEC7A/inflammasome pathway	4	6	8.59962723542e-06	0.00644112079933
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	7	34	3.4923931656e-05	0.0261580248103
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	12	110	5.51984306968e-05	0.0413436245919
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	8	49	5.63639418188e-05	0.0422165924223

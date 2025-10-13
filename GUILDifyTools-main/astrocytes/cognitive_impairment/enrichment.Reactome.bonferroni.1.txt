@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9603798	Class I peroxisomal membrane protein import	12	19	2.13340302709e-17	1.20537271031e-14
+R-HSA-5696395	Formation of Incision Complex in GG-NER	11	35	8.49657266561e-12	4.80056355607e-09
+R-HSA-5696400	Dual Incision in GG-NER	10	36	3.09624081111e-10	1.74937605828e-07
+R-HSA-9033241	Peroxisomal protein import	9	52	2.13592515379e-07	0.000120679771189
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	7	36	2.2061319483e-06	0.00124646455079
+R-HSA-6782135	Dual incision in TC-NER	8	58	6.13382359127e-06	0.00346561032907
+R-HSA-8866654	E3 ubiquitin ligases ubiquitinate target proteins	7	46	1.22348782022e-05	0.00691270618427
+R-HSA-9709570	Impaired BRCA2 binding to RAD51	6	34	2.17947943347e-05	0.0123140587991
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	8	72	3.12045785091e-05	0.0176305868576
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	6	39	4.92294686283e-05	0.027814649775
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	4	14	7.49377727416e-05	0.042339841599
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	4	14	7.49377727416e-05	0.042339841599

@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904294	positive regulation of ERAD pathway	5	13	1.67476626595e-06	0.00147881861284

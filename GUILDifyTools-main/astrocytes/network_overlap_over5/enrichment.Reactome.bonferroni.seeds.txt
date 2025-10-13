@@ -1,0 +1,20 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	8.14998194509e-08	4.27874052117e-05
+R-HSA-3371511	HSF1 activation	5	10	1.61051088076e-07	8.455182124e-05
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	6	19	2.25413131555e-07	0.000118341894066
+R-HSA-2408522	Selenoamino acid metabolism	5	11	2.91731612124e-07	0.000153159096365
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	3.22204161857e-06	0.00169157184975
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	3.22204161857e-06	0.00169157184975
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	4	10	9.19116931457e-06	0.00482536389015
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	4	11	1.42765622872e-05	0.00749519520076
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	4	11	1.42765622872e-05	0.00749519520076
+R-HSA-379716	Cytosolic tRNA aminoacylation	5	24	2.29624255453e-05	0.0120552734113
+R-HSA-901042	Calnexin/calreticulin cycle	3	5	3.15205468382e-05	0.01654828709
+R-HSA-1169092	Activation of RAS in B cells	3	5	3.15205468382e-05	0.01654828709
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	6	46	5.59208612957e-05	0.0293584521802
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	5.63762512992e-05	0.0295975319321
+R-HSA-110320	Translesion Synthesis by POLH	4	15	5.63762512992e-05	0.0295975319321
+R-HSA-9634635	Estrogen-stimulated signaling through PRKCZ	3	6	6.23533438517e-05	0.0327355055221
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	3	6	6.23533438517e-05	0.0327355055221
+R-HSA-112412	SOS-mediated signalling	3	6	6.23533438517e-05	0.0327355055221
+R-HSA-5673000	RAF activation	5	30	7.16526089149e-05	0.0376176196803

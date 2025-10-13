@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003684	damaged DNA binding	11	31	7.63330892455e-12	1.95412708468e-09
+GO:0008320	protein transmembrane transporter activity	6	10	1.06168961416e-08	1.35896270612e-06
+GO:0044877	protein-containing complex binding	8	94	0.000511968095271	0.029741812126
+GO:0008177	succinate dehydrogenase (quinone) activity	2	2	0.000387119577636	0.029741812126
+GO:0098505	G-rich strand telomeric DNA binding	3	9	0.000580894768086	0.029741812126
+GO:0048039	ubiquinone binding	2	3	0.00114626060908	0.0489071193207

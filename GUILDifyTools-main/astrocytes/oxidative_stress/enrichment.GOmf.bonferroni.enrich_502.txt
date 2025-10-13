@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004601	peroxidase activity	8	14	4.49092325909e-07	0.000287419088581
+GO:0003684	damaged DNA binding	10	31	1.05121525742e-05	0.00672777764749
+GO:0008379	thioredoxin peroxidase activity	4	4	1.46687018884e-05	0.00938796920859
+GO:0003697	single-stranded DNA binding	14	68	5.78274434318e-05	0.0370095637964

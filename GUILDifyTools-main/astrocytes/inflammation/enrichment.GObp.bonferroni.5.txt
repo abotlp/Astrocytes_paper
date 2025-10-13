@@ -1,0 +1,44 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	49	129	1.86377368702e-21	5.94916560896e-18
+GO:0010628	positive regulation of gene expression	63	271	6.67005808625e-15	2.12908254113e-11
+GO:0032731	positive regulation of interleukin-1 beta production	24	49	4.08770364323e-14	1.30479500292e-10
+GO:0045944	positive regulation of transcription by RNA polymerase II	121	781	5.92295475333e-13	1.89060715726e-09
+GO:1902895	positive regulation of miRNA transcription	21	42	9.71753752445e-13	3.10183797781e-09
+GO:0032755	positive regulation of interleukin-6 production	26	68	4.60158307212e-12	1.46882531662e-08
+GO:0050729	positive regulation of inflammatory response	23	55	8.84608746093e-12	2.82367111753e-08
+GO:0045893	positive regulation of DNA-templated transcription	77	435	2.52831118933e-11	8.07036931634e-08
+GO:0043536	positive regulation of blood vessel endothelial cell migration	17	37	7.941744727e-10	2.53500491686e-06
+GO:0032757	positive regulation of interleukin-8 production	21	58	1.72511333412e-09	5.50656176252e-06
+GO:0032760	positive regulation of tumor necrosis factor production	22	71	1.97746348415e-08	6.3120634414e-05
+GO:0007249	canonical NF-kappaB signal transduction	13	26	2.25413770378e-08	7.19520755046e-05
+GO:0051092	positive regulation of NF-kappaB transcription factor activity	27	103	2.7503201344e-08	8.77902186902e-05
+GO:0071222	cellular response to lipopolysaccharide	22	74	4.58757026149e-08	0.000146435242747
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	29	121	7.31290767007e-08	0.000233428012829
+GO:0000122	negative regulation of transcription by RNA polymerase II	79	537	9.32163328928e-08	0.000297546534594
+GO:1901224	positive regulation of non-canonical NF-kappaB signal transduction	16	43	9.72734585852e-08	0.000310496879804
+GO:0006954	inflammatory response	18	54	1.10341370256e-07	0.000352209653857
+GO:0033209	tumor necrosis factor-mediated signaling pathway	13	29	1.16887500045e-07	0.000373104900145
+GO:0050728	negative regulation of inflammatory response	19	63	2.95378939801e-07	0.000942849575843
+GO:0032722	positive regulation of chemokine production	13	31	3.04836943087e-07	0.000973039522332
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	20	70	3.84774495423e-07	0.00122820018939
+GO:0007254	JNK cascade	9	15	4.58750611855e-07	0.00146433195304
+GO:1902894	negative regulation of miRNA transcription	11	23	5.00691492154e-07	0.00159820724296
+GO:0038061	non-canonical NF-kappaB signal transduction	8	12	6.58791981807e-07	0.00210286400593
+GO:0097191	extrinsic apoptotic signaling pathway	12	31	2.43870298528e-06	0.007784339929
+GO:0001934	positive regulation of protein phosphorylation	24	107	3.43742512592e-06	0.0109722610019
+GO:0035094	response to nicotine	5	5	3.43896211459e-06	0.0109771670698
+GO:0008284	positive regulation of cell population proliferation	42	249	3.56964849132e-06	0.0113943179843
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	26	122	3.75009396466e-06	0.0119702999352
+GO:0043124	negative regulation of canonical NF-kappaB signal transduction	15	49	4.26759564538e-06	0.0136221653
+GO:0010629	negative regulation of gene expression	31	162	4.99458336988e-06	0.0159427101167
+GO:0032733	positive regulation of interleukin-10 production	11	28	5.44973679382e-06	0.0173955598459
+GO:2001234	negative regulation of apoptotic signaling pathway	7	11	5.49237948444e-06	0.0175316753143
+GO:0043066	negative regulation of apoptotic process	43	263	6.25028627371e-06	0.0199509137857
+GO:1900017	positive regulation of cytokine production involved in inflammatory response	8	15	6.86644798189e-06	0.0219177019582
+GO:0032922	circadian regulation of gene expression	16	57	7.21073882561e-06	0.0230166783314
+GO:0071260	cellular response to mechanical stimulus	14	45	7.21389062932e-06	0.0230267388888
+GO:0045892	negative regulation of DNA-templated transcription	56	384	9.75256794782e-06	0.0311301968894
+GO:0070498	interleukin-1-mediated signaling pathway	9	20	1.06117807549e-05	0.0338728041698
+GO:0071347	cellular response to interleukin-1	12	35	1.06447983889e-05	0.0339781964574
+GO:2000352	negative regulation of endothelial cell apoptotic process	10	25	1.21635896599e-05	0.0388261781944
+GO:0006337	nucleosome disassembly	8	16	1.27596359681e-05	0.0407287580103

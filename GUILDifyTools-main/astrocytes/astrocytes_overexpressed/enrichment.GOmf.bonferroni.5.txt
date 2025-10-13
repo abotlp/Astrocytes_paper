@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003735	structural constituent of ribosome	29	79	1.35283570675e-10	8.91518730747e-08
+GO:0003723	RNA binding	42	154	6.02747611709e-10	3.97210676116e-07
+GO:0003724	RNA helicase activity	13	23	3.74336031706e-08	2.46687444894e-05
+GO:0003730	mRNA 3'-UTR binding	20	52	4.06837338611e-08	2.68105806145e-05
+GO:0031593	polyubiquitin modification-dependent protein binding	12	27	3.63771072797e-06	0.00239725136973
+GO:0048027	mRNA 5'-UTR binding	10	20	6.50661498451e-06	0.00428785927479
+GO:0098505	G-rich strand telomeric DNA binding	6	9	6.1107229587e-05	0.0402696642978
+GO:0003729	mRNA binding	19	73	6.40505998816e-05	0.042209345322

@@ -1,0 +1,80 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	26	34	1.16911914915e-21	1.39125178748e-18
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	25	37	1.0255532372e-18	1.22040835226e-15
+R-HSA-9762114	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	23	36	1.69179992545e-16	2.01324191128e-13
+R-HSA-9755511	KEAP1-NFE2L2 pathway	28	56	6.40570756347e-16	7.62279200053e-13
+R-HSA-68949	Orc1 removal from chromatin	26	52	7.10468496941e-15	8.4545751136e-12
+R-HSA-180534	Vpu mediated degradation of CD4	21	34	9.72978087999e-15	1.15784392472e-11
+R-HSA-5676590	NIK-->noncanonical NF-kB signaling	23	41	9.754920888e-15	1.16083558567e-11
+R-HSA-1169091	Activation of NF-kappaB in B cells	25	49	1.28549091706e-14	1.5297341913e-11
+R-HSA-5607761	Dectin-1 mediated noncanonical NF-kB signaling	23	42	1.98397225274e-14	2.36092698076e-11
+R-HSA-9604323	Negative regulation of NOTCH4 signaling	21	37	1.0519419189e-13	1.25181088349e-10
+R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	21	37	1.0519419189e-13	1.25181088349e-10
+R-HSA-5610785	GLI3 is processed to GLI3R by the proteasome	22	41	1.30143812283e-13	1.54871136616e-10
+R-HSA-5610783	Degradation of GLI2 by the proteasome	22	41	1.30143812283e-13	1.54871136616e-10
+R-HSA-75815	Ubiquitin-dependent degradation of Cyclin D	20	34	1.60517825775e-13	1.91016212672e-10
+R-HSA-5607764	CLEC7A (Dectin-1) signaling	26	59	3.1633546505e-13	3.76439203409e-10
+R-HSA-211733	Regulation of activated PAK-2p34 by proteasome mediated degradation	19	32	5.1973063861e-13	6.18479459946e-10
+R-HSA-69481	G2/M Checkpoints	19	32	5.1973063861e-13	6.18479459946e-10
+R-HSA-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	20	36	7.13776788981e-13	8.49394378887e-10
+R-HSA-5687128	MAPK6/MAPK4 signaling	28	70	7.27383516947e-13	8.65586385167e-10
+R-HSA-8941858	Regulation of RUNX3 expression and activity	21	40	8.35824637752e-13	9.94631318925e-10
+R-HSA-5358346	Hedgehog ligand biogenesis	21	40	8.35824637752e-13	9.94631318925e-10
+R-HSA-349425	Autodegradation of the E3 ubiquitin ligase COP1	19	33	1.12761075238e-12	1.34185679533e-09
+R-HSA-5362768	Hh mutants are degraded by ERAD	20	37	1.42975631494e-12	1.70141001477e-09
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	23	49	1.44620368923e-12	1.72098239019e-09
+R-HSA-5610780	Degradation of GLI1 by the proteasome	21	41	1.57678950447e-12	1.87637951032e-09
+R-HSA-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	19	34	2.35259512605e-12	2.7995882e-09
+R-HSA-8948751	Regulation of PTEN stability and activity	23	50	2.46419387533e-12	2.93239071165e-09
+R-HSA-1236978	Cross-presentation of soluble exogenous antigens (endosomes)	19	35	4.73697395767e-12	5.63699900963e-09
+R-HSA-180585	Vif-mediated degradation of APOBEC3G	19	35	4.73697395767e-12	5.63699900963e-09
+R-HSA-5658442	Regulation of RAS by GAPs	22	48	8.13683784955e-12	9.68283704097e-09
+R-HSA-8939902	Regulation of RUNX2 expression and activity	23	53	1.10760078276e-11	1.31804493148e-08
+R-HSA-187577	SCF(Skp2)-mediated degradation of p27/p21	21	45	1.58575349891e-11	1.88704666371e-08
+R-HSA-350562	Regulation of ornithine decarboxylase (ODC)	19	37	1.74707612393e-11	2.07902058748e-08
+R-HSA-4641257	Degradation of AXIN	19	37	1.74707612393e-11	2.07902058748e-08
+R-HSA-9837999	Mitochondrial protein degradation	31	95	2.33423779775e-11	2.77774297932e-08
+R-HSA-4641258	Degradation of DVL	19	38	3.21635714504e-11	3.8274650026e-08
+R-HSA-2871837	FCERI mediated NF-kB activation	24	61	4.91210136233e-11	5.84540062117e-08
+R-HSA-5678895	Defective CFTR causes cystic fibrosis	20	43	5.2484027008e-11	6.24559921395e-08
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	13	18	7.02375679603e-11	8.35827058727e-08
+R-HSA-68867	Assembly of the pre-replicative complex	24	63	1.09602836611e-10	1.30427375567e-07
+R-HSA-4608870	Asymmetric localization of PCP proteins	20	45	1.46726338647e-10	1.7460434299e-07
+R-HSA-1234176	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	20	45	1.46726338647e-10	1.7460434299e-07
+R-HSA-9824272	Somitogenesis	19	41	1.73661166174e-10	2.06656787747e-07
+R-HSA-2408522	Selenoamino acid metabolism	10	11	2.06337100194e-10	2.45541149231e-07
+R-HSA-9907900	Proteasome assembly	21	51	2.92237072794e-10	3.47762116625e-07
+R-HSA-9020702	Interleukin-1 signaling	24	66	3.40325721045e-10	4.04987608043e-07
+R-HSA-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	25	74	8.87266634706e-10	1.0558472953e-06
+R-HSA-379716	Cytosolic tRNA aminoacylation	14	24	9.00361977373e-10	1.07143075307e-06
+R-HSA-1236974	ER-Phagosome pathway	24	69	9.78930410825e-10	1.16492718888e-06
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	21	54	1.03575173927e-09	1.23254456973e-06
+R-HSA-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	21	54	1.03575173927e-09	1.23254456973e-06
+R-HSA-5668541	TNFR2 non-canonical NF-kB pathway	20	50	1.44134140037e-09	1.71519626643e-06
+R-HSA-382556	ABC-family proteins mediated transport	22	63	4.50433985129e-09	5.36016442303e-06
+R-HSA-174084	Autodegradation of Cdh1 by Cdh1:APC/C	19	48	4.59050628047e-09	5.46270247376e-06
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	19	49	6.90279873869e-09	8.21433049904e-06
+R-HSA-69017	CDK-mediated phosphorylation and removal of Cdc6	20	54	7.05689819733e-09	8.39770885482e-06
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	11	17	1.31373390256e-08	1.56334334405e-05
+R-HSA-5632684	Hedgehog 'on' state	19	52	2.18198938788e-08	2.59656737158e-05
+R-HSA-202424	Downstream TCR signaling	23	75	3.39366206158e-08	4.03845785328e-05
+R-HSA-5689603	UCH proteinases	23	75	3.39366206158e-08	4.03845785328e-05
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	19	55	6.25758911101e-08	7.4465310421e-05
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	21	66	6.5559834266e-08	7.80162027765e-05
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	17	46	9.96351645624e-08	0.000118565845829
+R-HSA-9010553	Regulation of expression of SLITs and ROBOs	31	132	1.5487775914e-07	0.000184304533377
+R-HSA-6798695	Neutrophil degranulation	70	438	1.75039186293e-07	0.000208296631689
+R-HSA-5628897	TP53 Regulates Metabolic Genes	22	78	3.48866905671e-07	0.000415151617749
+R-HSA-5676934	Protein repair	6	6	3.89602468589e-07	0.000463626937621
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	10	19	9.14143244918e-07	0.00108783046145
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	10	21	2.97627301691e-06	0.00354176489012
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	7	11	8.03798070237e-06	0.00956519703582
+R-HSA-5689880	Ub-specific processing proteases	32	165	8.52052260406e-06	0.0101394218988
+R-HSA-2179392	EGFR Transactivation by Gastrin	6	8	9.37611252009e-06	0.0111575738989
+R-HSA-72649	Translation initiation complex formation	14	45	1.38475270838e-05	0.0164785572298
+R-HSA-6802952	Signaling by BRAF and RAF1 fusions	16	58	1.88155514977e-05	0.0223905062822
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	6	9	2.60823006646e-05	0.0310379377909
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	2.60823006646e-05	0.0310379377909
+R-HSA-2980766	Nuclear Envelope Breakdown	6	9	2.60823006646e-05	0.0310379377909
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	8	17	3.39201022434e-05	0.0403649216697
+R-HSA-171007	p38MAPK events	7	13	3.58406065977e-05	0.0426503218512

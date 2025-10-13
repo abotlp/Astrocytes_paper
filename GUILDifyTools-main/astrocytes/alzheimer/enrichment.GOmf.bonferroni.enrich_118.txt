@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005159	insulin-like growth factor receptor binding	3	4	1.09298773357e-05	0.00245922240053
+GO:0048018	receptor ligand activity	7	68	4.51041825472e-05	0.0101484410731
+GO:0019828	aspartic-type endopeptidase inhibitor activity	3	6	5.35254368326e-05	0.0120432232873
+GO:0004175	endopeptidase activity	6	49	6.01077315969e-05	0.0135242396093
+GO:0004104	cholinesterase activity	2	2	0.000198464151483	0.0446544340838
+GO:0008240	tripeptidyl-peptidase activity	2	2	0.000198464151483	0.0446544340838
+GO:0003990	acetylcholinesterase activity	2	2	0.000198464151483	0.0446544340838

@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005125	cytokine activity	17	50	1.29961383014e-10	7.329822002e-08
+GO:0048018	receptor ligand activity	13	68	2.72446778147e-05	0.0153659982875
+GO:0005178	integrin binding	10	44	4.93602359244e-05	0.0278391730614
+GO:0001530	lipopolysaccharide binding	7	22	6.82719550419e-05	0.0385053826437

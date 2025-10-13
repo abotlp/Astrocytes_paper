@@ -1,0 +1,61 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-400253	Circadian Clock	18	50	2.93072873291e-14	2.98641257883e-11
+R-HSA-6804757	Regulation of TP53 Degradation	11	29	1.74473555572e-09	1.77788553128e-06
+R-HSA-5673000	RAF activation	11	30	2.66881765613e-09	2.71952519159e-06
+R-HSA-69273	Cyclin A/B1/B2 associated events during G2/M transition	10	24	3.28671455418e-09	3.34916213071e-06
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	7	10	6.97945773867e-09	7.1120674357e-06
+R-HSA-5675221	Negative regulation of MAPK pathway	11	34	1.23120787546e-08	1.2546008251e-05
+R-HSA-432142	Platelet sensitization by LDL	8	16	2.21185974573e-08	2.2538850809e-05
+R-HSA-69231	Cyclin D associated events in G1	11	42	1.42967871859e-07	0.000145684261424
+R-HSA-5358752	CTNNB1 T41 mutants aren't phosphorylated	7	14	1.7658460327e-07	0.000179939710732
+R-HSA-5358751	CTNNB1 S45 mutants aren't phosphorylated	7	14	1.7658460327e-07	0.000179939710732
+R-HSA-5339716	Signaling by GSK3beta mutants	7	14	1.7658460327e-07	0.000179939710732
+R-HSA-5358747	CTNNB1 S33 mutants aren't phosphorylated	7	14	1.7658460327e-07	0.000179939710732
+R-HSA-5358749	CTNNB1 S37 mutants aren't phosphorylated	7	14	1.7658460327e-07	0.000179939710732
+R-HSA-389513	CTLA4 inhibitory signaling	8	20	1.91237981101e-07	0.000194871502742
+R-HSA-196299	Beta-catenin phosphorylation cascade	7	16	5.53666334152e-07	0.000564185994501
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	9	30	5.62584174507e-07	0.000573273273822
+R-HSA-5674400	Constitutive Signaling by AKT1 E17K in Cancer	8	24	9.86443341449e-07	0.00100518576494
+R-HSA-9607240	FLT3 Signaling	7	18	1.44882681725e-06	0.00147635452678
+R-HSA-163685	Integration of energy metabolism	4	4	1.51900591823e-06	0.00154786703068
+R-HSA-5467340	AXIN missense mutants destabilize the destruction complex	6	13	2.55775775121e-06	0.00260635514848
+R-HSA-5467348	Truncations of AMER1 destabilize the destruction complex	6	13	2.55775775121e-06	0.00260635514848
+R-HSA-5467337	APC truncation mutants have impaired AXIN binding	6	13	2.55775775121e-06	0.00260635514848
+R-HSA-1368108	BMAL1:CLOCK,NPAS2 activates circadian gene expression	8	27	2.71376430204e-06	0.00276532582377
+R-HSA-2428933	SHC-related events triggered by IGF1R	5	8	2.71494447463e-06	0.00276652841964
+R-HSA-9026519	Activated NTRK2 signals through RAS	5	8	2.71494447463e-06	0.00276652841964
+R-HSA-9768919	NPAS4 regulates expression of target genes	7	20	3.3200031663e-06	0.00338308322646
+R-HSA-69202	Cyclin E associated events during G1/S transition 	8	28	3.6836255652e-06	0.00375361445093
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	6	14	4.34363761221e-06	0.00442616672684
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	6	14	4.34363761221e-06	0.00442616672684
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	7	21	4.83025600146e-06	0.00492203086549
+R-HSA-4641262	Disassembly of the destruction complex and recruitment of AXIN to the membrane	8	29	4.93212677893e-06	0.00502583718773
+R-HSA-5693607	Processing of DNA double-strand break ends	12	71	5.97286484832e-06	0.00608634928043
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	10	49	6.26984529359e-06	0.00638897235417
+R-HSA-2871796	FCERI mediated MAPK activation	8	30	6.52105136221e-06	0.00664495133809
+R-HSA-9665348	Signaling by ERBB2 ECD mutants	6	15	7.02531988736e-06	0.00715880096522
+R-HSA-9616222	Transcriptional regulation of granulopoiesis	10	50	7.59515896636e-06	0.00773946698672
+R-HSA-912446	Meiotic recombination	10	51	9.15580271104e-06	0.00932976296255
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	12	74	9.30900029878e-06	0.00948587130446
+R-HSA-156711	Polo-like kinase mediated events	6	16	1.09083120191e-05	0.0111155699475
+R-HSA-198753	ERK/MAPK targets	6	16	1.09083120191e-05	0.0111155699475
+R-HSA-9617828	FOXO-mediated transcription of cell cycle genes	6	16	1.09083120191e-05	0.0111155699475
+R-HSA-3371511	HSF1 activation	5	10	1.15216582499e-05	0.0117405697566
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	5	10	1.15216582499e-05	0.0117405697566
+R-HSA-9634285	Constitutive Signaling by Overexpressed ERBB2	5	10	1.15216582499e-05	0.0117405697566
+R-HSA-8851805	MET activates RAS signaling	5	10	1.15216582499e-05	0.0117405697566
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	14	104	1.57364068922e-05	0.0160353986231
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	6	17	1.63603655621e-05	0.0166712125078
+R-HSA-3232118	SUMOylation of transcription factors	6	17	1.63603655621e-05	0.0166712125078
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	2.05136248778e-05	0.0209033837505
+R-HSA-5654704	SHC-mediated cascade:FGFR3	5	11	2.05136248778e-05	0.0209033837505
+R-HSA-9634635	Estrogen-stimulated signaling through PRKCZ	4	6	2.1532779076e-05	0.0219419018784
+R-HSA-163767	PP2A-mediated dephosphorylation of key metabolic factors	4	6	2.1532779076e-05	0.0219419018784
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	4	6	2.1532779076e-05	0.0219419018784
+R-HSA-2559580	Oxidative Stress Induced Senescence	12	82	2.72805175315e-05	0.0277988473646
+R-HSA-202670	ERKs are inactivated	5	12	3.41524485391e-05	0.0348013450614
+R-HSA-9018519	Estrogen-dependent gene expression	14	113	4.07432741939e-05	0.0415173964036
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.34544193039e-05	0.0442800532707
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.34544193039e-05	0.0442800532707
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	9	49	4.46878773986e-05	0.0455369470692
+R-HSA-9034864	Activated NTRK3 signals through RAS	4	7	4.88452538444e-05	0.0497733136674

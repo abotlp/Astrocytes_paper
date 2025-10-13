@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	24	34	2.05902446096e-28	1.72752152274e-25
+R-HSA-5628897	TP53 Regulates Metabolic Genes	20	78	7.07879040107e-13	5.9391051465e-10
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	11	18	1.43464434101e-12	1.2036666021e-09
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	6	9	1.09852765926e-07	9.21664706115e-05
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	6	11	5.70355694525e-07	0.000478528427707
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	7	21	3.65192074532e-06	0.00306396150532
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	4.82209511167e-06	0.00404573779869
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	6	17	1.28577473691e-05	0.0107876500427
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	6	17	1.28577473691e-05	0.0107876500427
+R-HSA-5696395	Formation of Incision Complex in GG-NER	8	35	1.65606015104e-05	0.0138943446672
+R-HSA-5676934	Protein repair	4	6	1.8219676954e-05	0.0152863089644
+R-HSA-5696400	Dual Incision in GG-NER	8	36	2.06729436313e-05	0.0173445997066
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	8	36	2.06729436313e-05	0.0173445997066
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	7	27	2.34089577244e-05	0.0196401155308

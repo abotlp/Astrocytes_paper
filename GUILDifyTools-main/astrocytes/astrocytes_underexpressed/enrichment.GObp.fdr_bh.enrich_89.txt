@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0032204	regulation of telomere maintenance	3	9	8.03332929159e-05	0.0208444138551
+GO:0034502	protein localization to chromosome	2	2	0.000100941471453	0.0208444138551
+GO:0010569	regulation of double-strand break repair via homologous recombination	3	14	0.000335537722337	0.027715415865
+GO:0048861	leukemia inhibitory factor signaling pathway	2	3	0.000300825185219	0.027715415865
+GO:0006298	mismatch repair	3	12	0.000205801758494	0.027715415865
+GO:0071480	cellular response to gamma radiation	3	16	0.000508682798647	0.0308552982037
+GO:0070120	ciliary neurotrophic factor-mediated signaling pathway	2	4	0.000597681321137	0.0308552982037
+GO:0038165	oncostatin-M-mediated signaling pathway	2	4	0.000597681321137	0.0308552982037
+GO:1902895	positive regulation of miRNA transcription	4	42	0.000816969674055	0.0374898305983
+GO:0006284	base-excision repair	3	20	0.00100558446893	0.0415306385667
+GO:0007265	Ras protein signal transduction	3	21	0.0011646152893	0.0437260104072

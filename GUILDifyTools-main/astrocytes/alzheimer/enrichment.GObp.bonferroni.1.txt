@@ -1,0 +1,25 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045429	positive regulation of nitric oxide biosynthetic process	10	26	2.81218333351e-12	3.88081300024e-09
+GO:0010628	positive regulation of gene expression	20	271	7.39502258285e-09	1.02051311643e-05
+GO:0030335	positive regulation of cell migration	16	172	1.00096972464e-08	1.38133822e-05
+GO:1904294	positive regulation of ERAD pathway	6	13	2.08057690827e-08	2.87119613341e-05
+GO:1902430	negative regulation of amyloid-beta formation	6	16	9.33888373597e-08	0.000128876595556
+GO:1990535	neuron projection maintenance	5	9	1.04959568621e-07	0.000144844204697
+GO:0008284	positive regulation of cell population proliferation	17	249	3.27673940951e-07	0.000452190038512
+GO:0001934	positive regulation of protein phosphorylation	11	107	8.20767815495e-07	0.00113265958538
+GO:0045725	positive regulation of glycogen biosynthetic process	5	13	1.01904480862e-06	0.0014062818359
+GO:0010629	negative regulation of gene expression	13	162	1.4178127491e-06	0.00195658159376
+GO:0045821	positive regulation of glycolytic process	5	14	1.56521365062e-06	0.00215999483786
+GO:1900221	regulation of amyloid-beta clearance	3	3	3.74718233107e-06	0.00517111161688
+GO:0007611	learning or memory	6	28	3.76123867646e-06	0.00519050937352
+GO:0045861	negative regulation of proteolysis	5	17	4.65751258792e-06	0.00642736737133
+GO:0043410	positive regulation of MAPK cascade	10	104	4.85743321726e-06	0.00670325783982
+GO:0008286	insulin receptor signaling pathway	6	30	5.77670405483e-06	0.00797185159566
+GO:0034205	amyloid-beta formation	4	9	6.81260881625e-06	0.00940140016643
+GO:1904646	cellular response to amyloid-beta	6	32	8.59116691006e-06	0.0118558103359
+GO:0045840	positive regulation of mitotic nuclear division	5	20	1.12345680301e-05	0.0155037038816
+GO:0046326	positive regulation of D-glucose import	5	21	1.45600192702e-05	0.0200928265929
+GO:0014910	regulation of smooth muscle cell migration	3	4	1.48162694324e-05	0.0204464518167
+GO:0046628	positive regulation of insulin receptor signaling pathway	4	11	1.74110004237e-05	0.0240271805847
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	10	121	1.87574086085e-05	0.0258852238798
+GO:0043525	positive regulation of neuron apoptotic process	5	23	2.34751589445e-05	0.0323957193433

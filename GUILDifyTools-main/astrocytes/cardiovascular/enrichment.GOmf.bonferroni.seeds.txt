@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0030020	extracellular matrix structural constituent conferring tensile strength	3	10	3.07289418858e-05	0.00454788339909
+GO:0003914	DNA (6-4) photolyase activity	2	2	4.19768216717e-05	0.00621256960741
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	2	2	4.19768216717e-05	0.00621256960741

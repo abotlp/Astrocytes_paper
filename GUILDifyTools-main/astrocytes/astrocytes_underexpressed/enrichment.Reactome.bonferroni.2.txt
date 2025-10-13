@@ -1,0 +1,31 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	12	36	1.60497004226e-09	1.05446531776e-06
+R-HSA-9845323	Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)	14	59	9.89438861298e-09	6.50061331873e-06
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	16	97	2.09502849109e-07	0.000137643371864
+R-HSA-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	10	39	6.12055702162e-07	0.00040212059632
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	6	11	6.93994310473e-07	0.000455954261981
+R-HSA-4641265	Repression of WNT target genes	6	11	6.93994310473e-07	0.000455954261981
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	11	50	8.87156632724e-07	0.000582861907699
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	10	42	1.2901897024e-06	0.000847654634475
+R-HSA-3214858	RMTs methylate histone arginines	10	45	2.5477412814e-06	0.00167386602188
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	9	36	2.85286516806e-06	0.00187433241542
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	5.67879038635e-06	0.00373096528383
+R-HSA-9018519	Estrogen-dependent gene expression	15	113	8.37729427319e-06	0.00550388233749
+R-HSA-9703465	Signaling by FLT3 fusion proteins	6	17	1.555128039e-05	0.0102171912162
+R-HSA-5654704	SHC-mediated cascade:FGFR3	5	11	1.96480733627e-05	0.0129087841993
+R-HSA-3214815	HDACs deacetylate histones	10	56	2.02000212646e-05	0.0132714139709
+R-HSA-112412	SOS-mediated signalling	4	6	2.07879719021e-05	0.0136576975397
+R-HSA-1368082	RORA activates gene expression	6	18	2.2644488374e-05	0.0148774288617
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	12	83	2.83070904109e-05	0.0185977584
+R-HSA-5339700	Signaling by TCF7L2 mutants	3	3	4.2307581776e-05	0.0277960812268
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.2307581776e-05	0.0277960812268
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.2307581776e-05	0.0277960812268
+R-HSA-400206	Regulation of lipid metabolism by PPARalpha	6	20	4.45561924774e-05	0.0292734184576
+R-HSA-9034864	Activated NTRK3 signals through RAS	4	7	4.7167778717e-05	0.0309892306171
+R-HSA-9823739	Formation of the anterior neural plate	4	7	4.7167778717e-05	0.0309892306171
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	9	50	4.92966850756e-05	0.0323879220947
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	9	50	4.92966850756e-05	0.0323879220947
+R-HSA-5654706	FRS-mediated FGFR3 signaling	5	13	5.16522702121e-05	0.0339355415294
+R-HSA-9027284	Erythropoietin activates RAS	5	13	5.16522702121e-05	0.0339355415294
+R-HSA-3899300	SUMOylation of transcription cofactors	8	40	5.91203882112e-05	0.0388420950548
+R-HSA-5621575	CD209 (DC-SIGN) signaling	6	21	6.05570153715e-05	0.0397859590991

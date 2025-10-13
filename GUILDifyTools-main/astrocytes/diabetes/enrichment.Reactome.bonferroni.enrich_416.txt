@@ -1,0 +1,20 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	24	104	2.22909027094e-11	2.28035934717e-08
+R-HSA-210745	Regulation of gene expression in beta cells	10	16	1.99040581916e-10	2.036185153e-07
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	22	97	2.2188365874e-10	2.26986982891e-07
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	11	22	6.29109707619e-10	6.43579230895e-07
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	19	83	3.25541133895e-09	3.33028579974e-06
+R-HSA-6783783	Interleukin-10 signaling	13	43	2.8605942889e-08	2.92638795755e-05
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	10	27	1.33809127225e-07	0.000136886737151
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	13	49	1.60226718933e-07	0.000163911933468
+R-HSA-9818749	Regulation of NFE2L2 gene expression	6	8	2.11936622943e-07	0.000216811165271
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	6.11571517272e-07	0.000625637662169
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	6	11	3.11235248753e-06	0.00318393659474
+R-HSA-1368082	RORA activates gene expression	7	18	7.50640430987e-06	0.00767905160899
+R-HSA-9707616	Heme signaling	10	44	1.97147076087e-05	0.0201681458837
+R-HSA-74713	IRS activation	4	5	1.97493643542e-05	0.0202035997344
+R-HSA-9759194	Nuclear events mediated by NFE2L2	5	9	1.98485421122e-05	0.0203050585808
+R-HSA-74749	Signal attenuation	5	9	1.98485421122e-05	0.0203050585808
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	8	28	2.25999808305e-05	0.0231197803896
+R-HSA-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	16	110	3.1485984272e-05	0.0322101619102
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	12	66	3.28620775317e-05	0.0336179053149

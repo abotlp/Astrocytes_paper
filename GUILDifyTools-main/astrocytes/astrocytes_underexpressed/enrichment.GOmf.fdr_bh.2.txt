@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	56	646	1.78551668659e-08	5.3386948929e-06
+GO:0003700	DNA-binding transcription factor activity	23	206	7.25969363368e-06	0.000500581258638
+GO:0003713	transcription coactivator activity	20	162	6.41078506424e-06	0.000500581258638
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	27	271	1.0045108869e-05	0.000500581258638
+GO:0000976	transcription cis-regulatory region binding	23	208	8.53461666582e-06	0.000500581258638
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	30	302	3.36936289301e-06	0.000500581258638
+GO:0003714	transcription corepressor activity	15	115	4.88122091279e-05	0.00208497864703
+GO:0004402	histone acetyltransferase activity	5	18	0.000549912095161	0.0205529645566
+GO:0001046	core promoter sequence-specific DNA binding	4	12	0.000959132654736	0.0318645181962
+GO:0003684	damaged DNA binding	6	31	0.00122555710512	0.0333128704028
+GO:0070577	lysine-acetylated histone binding	5	21	0.00118320036433	0.0333128704028
+GO:0004923	leukemia inhibitory factor receptor activity	2	2	0.00159087914052	0.0339766330725
+GO:0043993	histone H3K18 acetyltransferase activity	2	2	0.00159087914052	0.0339766330725
+GO:0044017	histone H3K27 acetyltransferase activity	2	2	0.00159087914052	0.0339766330725

@@ -1,0 +1,27 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	24	34	3.45558104646e-31	2.22539419392e-28
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	11	18	8.36093512968e-14	2.69222111176e-11
+R-HSA-5628897	TP53 Regulates Metabolic Genes	16	78	1.17099534094e-10	2.51373666522e-08
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	6	17	2.89801406682e-06	0.000466580264758
+R-HSA-5676934	Protein repair	4	6	6.52819270366e-06	0.000840831220231
+R-HSA-198693	AKT phosphorylates targets in the nucleus	4	9	5.15313042149e-05	0.00447966129663
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	6	27	5.56479664177e-05	0.00447966129663
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	4	9	5.15313042149e-05	0.00447966129663
+R-HSA-211163	AKT-mediated inactivation of FOXO1A	3	4	6.89722499203e-05	0.00493534766097
+R-HSA-9617629	Regulation of FOXO transcriptional activity by acetylation	4	10	8.41267566894e-05	0.0054177631308
+R-HSA-174403	Glutathione synthesis and recycling	4	11	0.000129494235571	0.0075812988825
+R-HSA-2142770	Synthesis of 15-eicosatetraenoic acid derivatives	3	5	0.000169098065799	0.00837685802883
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	5	21	0.000168267092844	0.00837685802883
+R-HSA-611105	Respiratory electron transport	9	84	0.000325622894908	0.0149786531658
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	10	104	0.000372020426738	0.015972076988
+R-HSA-5649702	APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	3	7	0.000569229066289	0.0229114699181
+R-HSA-5578999	Defective GCLC causes HAGGSD	2	2	0.000678828900623	0.0257156360001
+R-HSA-2142688	Synthesis of 5-eicosatetraenoic acids	3	8	0.000893230004391	0.0319577846016
+R-HSA-2151209	Activation of PPARGC1A (PGC-1alpha) by phosphorylation	3	10	0.00184120189642	0.0495711587592
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	2	3	0.00200132007413	0.0495711587592
+R-HSA-165181	Inhibition of TSC complex formation by PKB	2	3	0.00200132007413	0.0495711587592
+R-HSA-5696395	Formation of Incision Complex in GG-NER	5	35	0.00199267613669	0.0495711587592
+R-HSA-6806664	Metabolism of vitamin K	2	3	0.00200132007413	0.0495711587592
+R-HSA-8981607	Intracellular oxygen transport	2	3	0.00200132007413	0.0495711587592
+R-HSA-9818025	NFE2L2 regulating TCA cycle genes	2	3	0.00200132007413	0.0495711587592
+R-HSA-9854907	Regulation of MITF-M dependent genes involved in metabolism	2	3	0.00200132007413	0.0495711587592

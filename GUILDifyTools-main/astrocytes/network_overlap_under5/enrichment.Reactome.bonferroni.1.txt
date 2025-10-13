@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	1.43145430501e-07	7.4006187569e-05
+R-HSA-3371511	HSF1 activation	5	10	2.82447516052e-07	0.000146025365799
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	6	19	4.38525013577e-07	0.000226717432019
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.52336720746e-06	0.00233858084626
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.52336720746e-06	0.00233858084626
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	4	10	1.43466003836e-05	0.0074171923983
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	4	11	2.2252731443e-05	0.011504662156
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	4	11	2.2252731443e-05	0.011504662156
+R-HSA-1169092	Activation of RAS in B cells	3	5	4.4132614274e-05	0.0228165615796
+R-HSA-9634635	Estrogen-stimulated signaling through PRKCZ	3	6	8.71855635233e-05	0.0450749363415
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	3	6	8.71855635233e-05	0.0450749363415
+R-HSA-112412	SOS-mediated signalling	3	6	8.71855635233e-05	0.0450749363415
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	8.73751331805e-05	0.0451729438543
+R-HSA-110320	Translesion Synthesis by POLH	4	15	8.73751331805e-05	0.0451729438543

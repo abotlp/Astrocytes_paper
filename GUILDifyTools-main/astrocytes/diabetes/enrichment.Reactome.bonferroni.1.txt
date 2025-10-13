@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	14	104	1.81255496563e-09	1.17453561773e-06
+R-HSA-2586552	Signaling by Leptin	5	11	5.4346378732e-07	0.000352164534183
+R-HSA-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	6	28	5.77890021818e-06	0.00374472734138
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	9	83	9.91515869171e-06	0.00642502283223
+R-HSA-9725370	Signaling by ALK fusions and activated point mutants	7	49	1.60434206319e-05	0.0103961365695
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	6	34	1.89745812938e-05	0.0122955286784
+R-HSA-982772	Growth hormone receptor signaling	5	22	2.6655477175e-05	0.0172727492094
+R-HSA-74713	IRS activation	3	5	4.5804611514e-05	0.0296813882611
+R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	4	14	6.81386877386e-05	0.0441538696546
+R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	4	14	6.81386877386e-05	0.0441538696546
+R-HSA-69166	Removal of the Flap Intermediate	4	14	6.81386877386e-05	0.0441538696546
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	5	27	7.63341559973e-05	0.0494645330863

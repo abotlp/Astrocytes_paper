@@ -1,0 +1,10 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3299685	Detoxification of Reactive Oxygen Species	24	34	3.45558104646e-31	2.22539419392e-28
+R-HSA-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	11	18	8.36093512968e-14	5.38444222351e-11
+R-HSA-5628897	TP53 Regulates Metabolic Genes	16	78	1.17099534094e-10	7.54120999565e-08
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	6	17	2.89801406682e-06	0.00186632105903
+R-HSA-5676934	Protein repair	4	6	6.52819270366e-06	0.00420415610116
+R-HSA-9614399	Regulation of localization of FOXO transcription factors	4	9	5.15313042149e-05	0.0331861599144
+R-HSA-198693	AKT phosphorylates targets in the nucleus	4	9	5.15313042149e-05	0.0331861599144
+R-HSA-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	6	27	5.56479664177e-05	0.035837290373
+R-HSA-211163	AKT-mediated inactivation of FOXO1A	3	4	6.89722499203e-05	0.0444181289487

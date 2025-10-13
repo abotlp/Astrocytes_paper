@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	56	646	1.78551668659e-08	5.3386948929e-06
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	30	302	3.36936289301e-06	0.00100743950501
+GO:0003713	transcription coactivator activity	20	162	6.41078506424e-06	0.00191682473421
+GO:0003700	DNA-binding transcription factor activity	23	206	7.25969363368e-06	0.00217064839647
+GO:0000976	transcription cis-regulatory region binding	23	208	8.53461666582e-06	0.00255185038308
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	27	271	1.0045108869e-05	0.00300348755183
+GO:0003714	transcription corepressor activity	15	115	4.88122091279e-05	0.0145948505292

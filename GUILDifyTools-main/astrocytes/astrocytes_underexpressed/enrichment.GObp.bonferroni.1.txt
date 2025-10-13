@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000122	negative regulation of transcription by RNA polymerase II	27	537	3.44064624361e-07	0.000278692345732
+GO:0032204	regulation of telomere maintenance	4	9	9.48610497683e-06	0.00768374503124
+GO:0045944	positive regulation of transcription by RNA polymerase II	30	781	1.85780105081e-05	0.0150481885115

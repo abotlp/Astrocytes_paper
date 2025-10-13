@@ -1,0 +1,30 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0016558	protein import into peroxisome matrix	9	10	1.3032992431e-09	3.29734708503e-06
+GO:0007031	peroxisome organization	11	17	7.04113226106e-09	8.90703231024e-06
+GO:0032212	positive regulation of telomere maintenance via telomerase	11	21	1.48271752581e-07	0.000125042511343
+GO:0006289	nucleotide-excision repair	12	26	2.37782103237e-07	0.000150397180297
+GO:0050821	protein stabilization	34	168	4.29414899188e-07	0.000217283938989
+GO:0016562	protein import into peroxisome matrix, receptor recycling	6	7	1.77890819176e-06	0.000750106287523
+GO:0044721	protein import into peroxisome matrix, substrate release	5	5	3.39782655939e-06	0.00122807159932
+GO:0051086	chaperone mediated protein folding independent of cofactor	6	8	6.62704100812e-06	0.00209580171882
+GO:0006626	protein targeting to mitochondrion	7	12	1.20653177818e-05	0.00339169488756
+GO:0061077	chaperone-mediated protein folding	10	26	1.79572094478e-05	0.00437517109493
+GO:0045040	protein insertion into mitochondrial outer membrane	5	6	1.90224830214e-05	0.00437517109493
+GO:0007005	mitochondrion organization	15	57	3.1444550653e-05	0.00662955942935
+GO:0030970	retrograde protein transport, ER to cytosol	7	14	4.52510947863e-05	0.0081775192721
+GO:0016561	protein import into peroxisome matrix, translocation	4	4	4.22594419194e-05	0.0081775192721
+GO:0036503	ERAD pathway	15	62	9.05641506854e-05	0.0143204563271
+GO:0007029	endoplasmic reticulum organization	9	25	8.74561322145e-05	0.0143204563271
+GO:0000266	mitochondrial fission	6	12	0.000164716944911	0.0208366935312
+GO:0042407	cristae formation	6	12	0.000164716944911	0.0208366935312
+GO:0070585	protein localization to mitochondrion	5	8	0.000154638718572	0.0208366935312
+GO:0006625	protein targeting to peroxisome	5	8	0.000154638718572	0.0208366935312
+GO:0000425	pexophagy	4	5	0.000197705903358	0.0217476493694
+GO:0045046	protein import into peroxisome membrane	4	5	0.000197705903358	0.0217476493694
+GO:0034976	response to endoplasmic reticulum stress	15	66	0.000192574564148	0.0217476493694
+GO:0071816	tail-anchored membrane protein insertion into ER membrane	7	17	0.000206612913176	0.0217804445973
+GO:0006888	endoplasmic reticulum to Golgi vesicle-mediated transport	13	53	0.000227606478281	0.0230337756021
+GO:2000811	negative regulation of anoikis	6	14	0.00046491327115	0.0452396375388
+GO:0110104	mRNA alternative polyadenylation	3	3	0.000525006022106	0.0458022495148
+GO:0140501	positive regulation of reticulophagy	3	3	0.000525006022106	0.0458022495148
+GO:0016560	protein import into peroxisome matrix, docking	3	3	0.000525006022106	0.0458022495148

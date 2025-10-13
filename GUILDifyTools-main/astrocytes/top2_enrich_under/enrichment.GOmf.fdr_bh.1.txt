@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected	Seed Gene IDs
+GO:0008476	protein-tyrosine sulfotransferase activity	2	2	0.000364081793351	0.028034298088	8460;8459
+GO:0016780	phosphotransferase activity, for other substituted phosphate groups	2	2	0.000364081793351	0.028034298088	79147;2218

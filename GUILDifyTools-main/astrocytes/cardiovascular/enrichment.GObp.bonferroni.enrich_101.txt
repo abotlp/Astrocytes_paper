@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:2000323	negative regulation of glucocorticoid receptor signaling pathway	5	6	5.39387579797e-10	4.97315348573e-07
+GO:0032922	circadian regulation of gene expression	9	57	4.23278419716e-09	3.90262702978e-06
+GO:0042634	regulation of hair cycle	3	5	9.56694967149e-06	0.00882072759711
+GO:0042752	regulation of circadian rhythm	6	54	1.51055462399e-05	0.0139273136332
+GO:0007186	G protein-coupled receptor signaling pathway	7	82	1.67283128688e-05	0.015423504465
+GO:0042754	negative regulation of circadian rhythm	3	7	3.29989154908e-05	0.0304250000826
+GO:0051775	response to redox state	3	7	3.29989154908e-05	0.0304250000826
