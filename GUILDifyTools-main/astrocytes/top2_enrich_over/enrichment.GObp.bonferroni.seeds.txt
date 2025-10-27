@@ -1,9 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected	Seed Gene IDs
-GO:0006298	mismatch repair	3	12	1.44252615748e-07	3.10143123857e-05	6119;6117;6118
-GO:0006284	base-excision repair	3	20	7.44446286316e-07	0.000160055951558	6119;6118;6117
-GO:0034502	protein localization to chromosome	2	2	8.48089285923e-07	0.000182339196473	6117;6118
-GO:0006260	DNA replication	3	23	1.15473473776e-06	0.000248267968619	6118;6119;6117
-GO:0006289	nucleotide-excision repair	3	26	1.69266916947e-06	0.000363923871436	6118;6119;6117
-GO:0000724	double-strand break repair via homologous recombination	3	71	3.63637407538e-05	0.00781820426207	6119;6118;6117
-GO:0001934	positive regulation of protein phosphorylation	3	107	0.000123976816058	0.0266550154525	207;3845;351
-GO:0051247	positive regulation of protein metabolic process	2	22	0.00019388959544	0.0416862630197	207;351
