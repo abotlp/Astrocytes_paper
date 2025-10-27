@@ -1,4 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected	Seed Gene IDs
-GO:0035269	protein O-linked mannosylation	6	12	1.13493897857e-08	5.79953818049e-06	84892;79147;29954;2218;160335;120071
-GO:0006054	N-acetylneuraminate metabolic process	2	2	0.000242742000063	0.0413470540107	6482;6480
-GO:0034502	protein localization to chromosome	2	2	0.000242742000063	0.0413470540107	6117;6118

@@ -1,2 +1,0 @@
-Arguments: scoring type z, nRepetition 1, nIteration 5, nodeFile /home/patricia/GUILDifyTools-main/astrocytes/top2_enrich_under/node_scores.txt, edgeFile /home/patricia/BIANA_phy/edge_scores.txt, outputFile /home/patricia/GUILDifyTools-main/astrocytes/top2_enrich_under/output_scores.txt.nz
-Time: 206980000 (206.98s)

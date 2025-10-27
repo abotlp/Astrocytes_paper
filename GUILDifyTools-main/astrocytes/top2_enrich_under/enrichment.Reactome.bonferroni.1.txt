@@ -1,5 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected	Seed Gene IDs
-R-HSA-2022870	Chondroitin sulfate biosynthesis	5	18	8.88651833027e-06	0.00237270039418	54480;55501;337876;63827;9469
-R-HSA-9694719	Maturation of protein 3a	4	9	8.939366184e-06	0.00238681077113	2589;27090;6482;6480
-R-HSA-9683673	Maturation of protein 3a	4	9	8.939366184e-06	0.00238681077113	2589;27090;6482;6480
-R-HSA-975577	N-Glycan antennae elongation	4	10	1.47046953637e-05	0.00392615366212	9334;8702;4249;6480
