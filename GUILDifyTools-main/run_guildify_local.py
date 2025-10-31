@@ -18,14 +18,7 @@ def main():
     run_guildify_local(options)
 
 def parse_user_arguments(*args, **kwds):
-    """
-    Parses the arguments of the program.
-    Examples:
-    python /home/patricia/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /home/patricia/guildify2/data/BIANA_phy/9606/all -o /home/quim/data/guildify_local_outputs/example -s netscore -re 1 -it 1 -t 9606 -ns BIANA_phy -ti all -dr /var/www/html/sbi/guildp/data/drug_info.txt
-    python /home/patricia/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildify2/data/BIANA/9606/all -o /home/quim/data/guildify_local_outputs/example_molt_simple_guildify2_quim -s netscore -re 1 -it 1 -t 9606 -ns BIANA -ti all -dr /var/www/html/sbi/guildify2/data/drug_info.txt
-    python /home/patricia/GUILDifyTools/scripts/run_guildify_local.py -i "TP53; BRCA1; BRCA2" -n /var/www/html/sbi/guildify2/data/BIANA/9606/all -o /home/quim/data/guildify_local_outputs/example_simple_guildify2_diamond -s diamond -re 1 -it 1 -t 9606 -ns BIANA -ti all -dr /var/www/html/sbi/guildify2/data/drug_info.txt
-    python /home/patricia/GUILDifyTools/scripts/run_guildify_local.py -i BRCA1 -n /var/www/html/sbi/guildp/data/BIANA_phy/9606/all -o /home/quim/data/guildify_local_outputs/example_BRCA1 -s netscore -re 1 -it 1 -t 9606 -ns BIANA_phy -ti all -dr /var/www/html/sbi/guildp/data/drug_info.txt
-    """
+   
 
     parser = argparse.ArgumentParser(
         description = "Generate the profiles of GUILDify",
@@ -71,8 +64,6 @@ def run_guildify_local(options):
     """
     Generates GUILDify profiles
     """
-    # Example of outputs
-    #ls /var/www/html/sbi/guildify2/data/sessions/8075b9ad-3cec-4138-83c5-8a03d3a2fab8/
 
     #-------------------#
     #  PROCESS INPUTS   #
