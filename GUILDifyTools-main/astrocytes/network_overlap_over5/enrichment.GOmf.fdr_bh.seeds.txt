@@ -1,6 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0044183	protein folding chaperone	5	30	0.000133920185611	0.0295963610201
-GO:0004819	glutamine-tRNA ligase activity	2	2	0.000286997084463	0.0317131778332
-GO:0004459	L-lactate dehydrogenase activity	2	3	0.000851367807739	0.0442122567976
-GO:0003697	single-stranded DNA binding	6	68	0.00100027730311	0.0442122567976
-GO:0001046	core promoter sequence-specific DNA binding	3	12	0.0009457129834	0.0442122567976

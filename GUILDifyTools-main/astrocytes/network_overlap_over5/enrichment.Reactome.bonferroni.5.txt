@@ -1,4 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-R-HSA-9694548	Maturation of spike protein	16	36	9.54450136018e-09	8.13191515888e-06
-R-HSA-9694719	Maturation of protein 3a	6	9	2.51803683149e-05	0.0214536738043
-R-HSA-9683673	Maturation of protein 3a	6	9	2.51803683149e-05	0.0214536738043

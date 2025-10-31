@@ -1,2 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0044183	protein folding chaperone	5	30	0.000133920185611	0.0295963610201

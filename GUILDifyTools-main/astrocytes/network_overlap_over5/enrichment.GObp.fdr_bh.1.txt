@@ -1,9 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0032212	positive regulation of telomere maintenance via telomerase	5	21	2.24095798558e-05	0.0162014592282
-GO:0050808	synapse organization	5	23	3.60432908302e-05	0.0162014592282
-GO:0061857	endoplasmic reticulum stress-induced pre-emptive quality control	2	2	0.000290235000077	0.0326151581337
-GO:0034502	protein localization to chromosome	2	2	0.000290235000077	0.0326151581337
-GO:0006610	ribosomal protein import into nucleus	2	2	0.000290235000077	0.0326151581337
-GO:0051086	chaperone mediated protein folding independent of cofactor	3	8	0.000257728330914	0.0326151581337
-GO:0051580	regulation of neurotransmitter uptake	2	2	0.000290235000077	0.0326151581337
-GO:0006425	glutaminyl-tRNA aminoacylation	2	2	0.000290235000077	0.0326151581337
