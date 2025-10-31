@@ -1,2 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0050808	synapse organization	5	23	2.27795073456e-05	0.0197498328686

@@ -1,4 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0003684	damaged DNA binding	3	31	2.45705637971e-05	0.00110567537087
-GO:0098505	G-rich strand telomeric DNA binding	2	9	0.000121169034593	0.00545260655667
-GO:0003697	single-stranded DNA binding	3	68	0.00026242497071	0.0118091236819

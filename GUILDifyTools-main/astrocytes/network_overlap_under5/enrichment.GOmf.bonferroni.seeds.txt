@@ -1,2 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0003924	GTPase activity	7	100	0.000211862870609	0.040042082545

@@ -1,8 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-R-HSA-9683673	Maturation of protein 3a	5	9	4.6071919652e-06	0.000557470227789
-R-HSA-5173105	O-linked glycosylation	5	8	2.10538968734e-06	0.000557470227789
-R-HSA-9694719	Maturation of protein 3a	5	9	4.6071919652e-06	0.000557470227789
-R-HSA-975577	N-Glycan antennae elongation	5	10	8.96182807261e-06	0.00081328589759
-R-HSA-2022870	Chondroitin sulfate biosynthesis	6	18	1.77773136857e-05	0.00129063297358
-R-HSA-913709	O-linked glycosylation of mucins	8	41	5.27476283935e-05	0.00319123151781
-R-HSA-2022854	Keratan sulfate biosynthesis	5	18	0.000244145947393	0.0126607112719

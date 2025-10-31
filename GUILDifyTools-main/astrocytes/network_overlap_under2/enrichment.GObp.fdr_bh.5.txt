@@ -1,8 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0035269	protein O-linked mannosylation	8	12	5.01098008982e-07	0.000921519238519
-GO:0006487	protein N-linked glycosylation	12	35	7.39855480891e-06	0.00680297114679
-GO:0097503	sialylation	4	4	3.70261560452e-05	0.0136182201934
-GO:0006825	copper ion transport	4	4	3.70261560452e-05	0.0136182201934
-GO:0030259	lipid glycosylation	4	4	3.70261560452e-05	0.0136182201934
-GO:0046513	ceramide biosynthetic process	8	19	4.65954491785e-05	0.0142815051732
-GO:0006493	protein O-linked glycosylation	9	26	9.62086755003e-05	0.0252753934636

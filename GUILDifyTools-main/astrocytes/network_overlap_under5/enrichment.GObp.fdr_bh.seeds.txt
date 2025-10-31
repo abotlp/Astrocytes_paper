@@ -1,8 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0072752	cellular response to rapamycin	2	3	0.00029505930886	0.0378167680855
-GO:0034502	protein localization to chromosome	2	2	9.90002893104e-05	0.0378167680855
-GO:0016236	macroautophagy	4	28	0.000160437993032	0.0378167680855
-GO:0006298	mismatch repair	3	12	0.000199996685613	0.0378167680855
-GO:0051580	regulation of neurotransmitter uptake	2	2	9.90002893104e-05	0.0378167680855
-GO:0006404	RNA import into nucleus	2	3	0.00029505930886	0.0378167680855
-GO:0051131	chaperone-mediated protein complex assembly	3	15	0.000404695725852	0.0444587161686

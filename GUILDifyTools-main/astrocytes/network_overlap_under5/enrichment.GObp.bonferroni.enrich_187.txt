@@ -1,3 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0035269	protein O-linked mannosylation	6	12	2.7867754338e-08	2.5721937254e-05
-GO:0050808	synapse organization	5	23	4.81872077477e-05	0.0444767927511

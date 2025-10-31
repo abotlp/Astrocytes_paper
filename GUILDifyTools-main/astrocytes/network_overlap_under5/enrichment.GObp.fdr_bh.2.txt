@@ -1,3 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0035269	protein O-linked mannosylation	6	12	6.76489853493e-07	0.000828700070529
-GO:0060586	multicellular organismal-level iron ion homeostasis	5	14	4.45382512818e-05	0.0272796789101

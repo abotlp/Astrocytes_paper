@@ -1,3 +1,0 @@
-# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
-GO:0035269	protein O-linked mannosylation	8	12	4.96301674429e-07	0.000931061941229
-GO:0006487	protein N-linked glycosylation	12	35	7.30429513116e-06	0.0137028576661
