@@ -1,43 +1,65 @@
-# Astrocytes Project Data
+# Astrocytes Paper — Data, Code and Reproducibility
 
-This repository contains data and scripts used for the astrocytes-related analyses supporting an upcoming article.
+Data and code are publicly available at https://github.com/abotlp/Astrocytes_paper. All analysis outputs are organized under `Astrocytes_project/GUILDifyTools-main/astrocytes` and are built on the BIANA‑derived human interactome in `Astrocytes_project/BIANA_phy`.
 
-## Contents
+## Run GUILDify locally (seeds → ranked network + enrichment)
 
-- `BIANA_phy/`: Network and annotation data used for analyses.
-  - Note: A few extremely large files are intentionally excluded due to GitHub file-size limits:
-    - `BIANA_phy/all_shortest_paths.txt` (~6 GB)
-    - `BIANA_phy/multi-fields_file.txt` (~154 MB)
-    - `BIANA_phy/network.method.txt` (~160 MB)
-    - `BIANA_phy/drugbank/` (contains files up to ~1.5 GB)
-    - `BIANA_phy/go/` (contains files up to ~8.4 GB)
-    - `BIANA_phy/sampled_graphs/` (~1.1 GB total)
-  - If you need these files, please see the section below on Large Files.
+Run from the repository root with repo‑relative paths. Provide HGNC gene symbols separated by semicolons.
 
-- `GUILDifyTools-main/`: Selected tools and datasets to reproduce overlap and scoring steps:
-  - `astrocytes/` (all contents)
-  - `clinvar_top5.txt`
-  - `overlap2sessions_functions.py`
-  - `README.md`
-  - `Datos_Genomica_Astrocitos_Baldo.xlsx`
-  - `overlap.py`
-  - `run_guildify_local.py`
+Example (generalized):
 
-## Large Files
+```
+python GUILDifyTools-main/scripts/run_guildify_local.py \
+  -i "SEED1; SEED2; SEED3" \
+  -n BIANA_phy \
+  -o GUILDifyTools-main/local_guildify/<run_name> \
+  -s netcombo -re 3 -it 2 \
+  -t 9606 -ns BIANA_phy -ti all \
+  -dr BIANA_phy/drug_info.txt
+```
 
-GitHub limits individual files to 100 MB and strongly discourages multi‑GB assets in normal Git history. The excluded files listed above exceed those limits. They should be hosted externally (e.g., Zenodo/OSF/Figshare) and linked here. Once a DOI/URL is available, add it below:
+Notes
+- `-i`: semicolon‑separated HGNC symbols (e.g., for astrocytes overexpressed).
+- `-n`: network directory (here, `BIANA_phy`).
+- `-o`: output folder created for this run.
+- `-s`: scoring method (`netcombo`, `netscore`, `netzcore`, `netshort`, or `diamond`).
+- `-re`, `-it`: repetitions/iterations for `netscore`/`netcombo`/`netzcore`.
+- `-t`: taxonomy ID (9606 for human).
+- `-ns`: network source label (`BIANA_phy`).
+- `-ti`: tissue filter (`all`).
+- `-dr`: drug–target info file path (repo‑relative).
 
-- BIANA large files download: <ADD-LINK-HERE>
+Dependencies
+- Python 3, `numpy`, `networkx`, `scipy`, `statsmodels`.
 
-## Getting Started
+## Where to find key outputs
 
-1. Clone the repository.
-2. Review `GUILDifyTools-main/README.md` for tool-specific notes.
-3. Example entry points:
-   - `GUILDifyTools-main/run_guildify_local.py`
-   - `GUILDifyTools-main/overlap.py`
+Per‑run outputs (phenotypes and astrocyte seeds)
+- Folder: `GUILDifyTools-main/astrocytes/<run>` where `<run>` is one of:
+  - `alzheimer`, `cardiovascular`, `cognitive_impairment`, `diabetes`, `inflammation`, `oxidative_stress`
+  - `astrocytes_overexpressed`, `astrocytes_underexpressed`
+- Key files:
+  - `seeds.txt` — seed genes actually recognized in the network
+  - `guild_scores.txt` — consensus ranking across methods
+  - Enrichment: `enrichment.GObp.*`, `enrichment.GOmf.*`, `enrichment.Reactome.*` (Bonferroni and FDR)
+  - Top‑k subnetworks: `subnetwork.sif.{1,2,5}` and corresponding `network_plot.png{1,2,5}` (when present)
 
-## Notes
+Cross‑network overlaps (shared cores)
+- Folders: `GUILDifyTools-main/astrocytes/network_overlap_over5`, `.../network_overlap_under5`, `.../network_overlap_over2`, `.../network_overlap_under2`
+- Kept files (cleaned for publication):
+  - `protein_overlap_results.txt` — shared gene list with seed status/source
+  - `function_overlap_results.txt` — Reactome pathway overlap for the shared set
+  - `subnetwork_genes.sif`, `subnetwork_genes.json` — core overlap network
 
-- Only the subset of `GUILDifyTools-main` required for reproduction is included. Other folders (e.g., `old_astrocytes_wrong/`, `quim_astro/`, `scripts/`) are intentionally excluded.
-- No license has been specified yet. Please add one if redistribution is intended.
+Mutation analyses (FoldX ΔΔG + ClinVar)
+- Folder: `ddg_analysis/`
+  - `ddg_docking.csv` — docking‑derived complex ΔΔG summary
+  - `ddg_homology.csv` — homology/template‑derived complex ΔΔG summary
+  - `clinvar.csv` — ClinVar variant table used for mapping
+
+BIANA network assets
+- Folder: `BIANA_phy/` — node/edge tables, annotations, and resources used by GUILDify.
+- Some very large files are not tracked in Git; host externally (e.g., Zenodo/OSF) and add the link here when available.
+
+## Citation and contact
+Please cite the associated manuscript and this repository if you use the data or code. For questions or issues, open a GitHub issue in this repo.
