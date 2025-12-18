@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0003735	structural constituent of ribosome	30	79	2.53977753714e-11	1.71181006003e-08
+GO:0003723	RNA binding	34	154	5.89303523522e-06	0.00397190574854

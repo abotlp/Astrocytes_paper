@@ -1,0 +1,19 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	16	49	6.95274939286e-12	5.37447528068e-09
+R-HSA-389960	Formation of tubulin folding intermediates by CCT/TriC	10	21	8.39267669417e-10	6.48753908459e-07
+R-HSA-5617833	Cilium Assembly	8	15	1.40144968666e-08	1.08332060779e-05
+R-HSA-5626467	RHO GTPases activate IQGAPs	9	23	5.01639753054e-08	3.87767529111e-05
+R-HSA-389957	Prefoldin mediated transfer of substrate  to CCT/TriC	9	24	7.77219941571e-08	6.00791014834e-05
+R-HSA-9646399	Aggrephagy	10	32	1.07466908739e-07	8.30719204552e-05
+R-HSA-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	7	14	2.11227861993e-07	0.00016327913732
+R-HSA-9833482	PKR-mediated signaling	13	64	3.6130138601e-07	0.000279285971386
+R-HSA-9619483	Activation of AMPK downstream of NMDARs	8	22	5.57203329829e-07	0.000430718173958
+R-HSA-437239	Recycling pathway of L1	10	39	8.44439759171e-07	0.000652751933839
+R-HSA-389977	Post-chaperonin tubulin folding pathway	7	18	1.72726178693e-06	0.0013351733613
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	13	84	8.94369591098e-06	0.00691347693919
+R-HSA-3371511	HSF1 activation	5	10	1.30920294075e-05	0.010120138732
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	10	54	1.95899840245e-05	0.015143057651
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	9	44	2.21905341305e-05	0.0171532828829
+R-HSA-9668328	Sealing of the nuclear envelope (NE) by ESCRT-III	7	26	2.77842180128e-05	0.0214772005239
+R-HSA-1445148	Translocation of SLC2A4 (GLUT4) to the plasma membrane	10	58	3.75538667615e-05	0.0290291390066
+R-HSA-190861	Gap junction assembly	7	28	4.69797755056e-05	0.0363153664659

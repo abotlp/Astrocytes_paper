@@ -1,0 +1,42 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045944	positive regulation of transcription by RNA polymerase II	140	781	9.87971061911e-21	2.68135346203e-17
+GO:0045892	negative regulation of DNA-templated transcription	83	384	2.46673946073e-17	3.34736544821e-14
+GO:0045893	positive regulation of DNA-templated transcription	86	435	1.89635433378e-15	1.71556855396e-12
+GO:0000122	negative regulation of transcription by RNA polymerase II	96	537	3.11466099198e-14	2.11329748306e-11
+GO:1902895	positive regulation of miRNA transcription	19	42	1.0601754365e-10	5.75463226931e-08
+GO:0006338	chromatin remodeling	31	116	1.45493057127e-09	6.58113595069e-07
+GO:0032212	positive regulation of telomere maintenance via telomerase	12	21	1.05848947903e-08	4.10391492298e-06
+GO:0048701	embryonic cranial skeleton morphogenesis	8	9	1.46663489193e-08	4.97555887086e-06
+GO:0006337	nucleosome disassembly	10	16	5.72446961312e-08	1.72624561444e-05
+GO:0051086	chaperone mediated protein folding independent of cofactor	7	8	1.62863919628e-07	4.42012677872e-05
+GO:1902894	negative regulation of miRNA transcription	11	23	4.88681831988e-07	0.000120571135638
+GO:0001822	kidney development	14	45	7.0155839573e-06	0.00158669123834
+GO:0001837	epithelial to mesenchymal transition	12	36	1.44448141155e-05	0.00301563273151
+GO:0050679	positive regulation of epithelial cell proliferation	11	32	2.36802069212e-05	0.00459057725601
+GO:0000132	establishment of mitotic spindle orientation	9	23	4.05484612162e-05	0.00716825783558
+GO:0003149	membranous septum morphogenesis	4	4	4.22594419194e-05	0.00716825783558
+GO:0060021	roof of mouth development	7	15	7.89448115125e-05	0.0107128109223
+GO:0050821	protein stabilization	29	168	7.08874498632e-05	0.0107128109223
+GO:0006268	DNA unwinding involved in DNA replication	7	15	7.89448115125e-05	0.0107128109223
+GO:0001658	branching involved in ureteric bud morphogenesis	7	15	7.89448115125e-05	0.0107128109223
+GO:0001657	ureteric bud development	6	11	8.83911313433e-05	0.0114235014507
+GO:1900182	positive regulation of protein localization to nucleus	10	31	0.000103315935239	0.0127454294655
+GO:0071480	cellular response to gamma radiation	7	16	0.000130597374237	0.0141776509471
+GO:0061077	chaperone-mediated protein folding	9	26	0.00012424967956	0.0141776509471
+GO:0048839	inner ear development	7	16	0.000130597374237	0.0141776509471
+GO:0000723	telomere maintenance	11	38	0.000140862290556	0.0147038560218
+GO:0032570	response to progesterone	5	8	0.000154638718572	0.0155440548965
+GO:0010718	positive regulation of epithelial to mesenchymal transition	12	45	0.00016839422461	0.0163222116282
+GO:0042472	inner ear morphogenesis	6	13	0.000285058052707	0.0266775018981
+GO:0071392	cellular response to estradiol stimulus	7	18	0.000314668059438	0.0278207771776
+GO:0045995	regulation of embryonic development	10	35	0.000317776010503	0.0278207771776
+GO:0001501	skeletal system development	7	19	0.000463748226954	0.0385099011891
+GO:0072179	nephric duct formation	3	3	0.000525006022106	0.0385099011891
+GO:0007435	salivary gland morphogenesis	3	3	0.000525006022106	0.0385099011891
+GO:1990428	miRNA transport	3	3	0.000525006022106	0.0385099011891
+GO:0018076	N-terminal peptidyl-lysine acetylation	3	3	0.000525006022106	0.0385099011891
+GO:0042306	regulation of protein import into nucleus	3	3	0.000525006022106	0.0385099011891
+GO:0048660	regulation of smooth muscle cell proliferation	4	6	0.000555072744036	0.0396438796661
+GO:0016558	protein import into peroxisome matrix	5	10	0.000606453534797	0.041147872336
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	5	10	0.000606453534797	0.041147872336
+GO:0002062	chondrocyte differentiation	7	20	0.000664153707709	0.0439637356761

@@ -1,0 +1,19 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048701	embryonic cranial skeleton morphogenesis	7	9	6.70532147732e-12	6.08172657993e-09
+GO:0008543	fibroblast growth factor receptor signaling pathway	7	21	1.85127918734e-08	1.67911022292e-05
+GO:0060021	roof of mouth development	6	15	5.69692613095e-08	5.16711200077e-05
+GO:0048839	inner ear development	6	16	8.99842035963e-08	8.16156726618e-05
+GO:0045944	positive regulation of transcription by RNA polymerase II	32	781	3.0231143228e-07	0.000274196469078
+GO:0045893	positive regulation of DNA-templated transcription	21	435	3.54545753899e-06	0.00321572998787
+GO:0007435	salivary gland morphogenesis	3	3	3.67735905781e-06	0.00333536466544
+GO:0032570	response to progesterone	4	8	3.73741431159e-06	0.00338983478062
+GO:0010718	positive regulation of epithelial to mesenchymal transition	7	45	5.28269048933e-06	0.00479140027382
+GO:0001501	skeletal system development	5	19	8.27766665964e-06	0.00750784366029
+GO:0045216	cell-cell junction organization	4	10	1.09426538383e-05	0.00992498703135
+GO:0060325	face morphogenesis	4	10	1.09426538383e-05	0.00992498703135
+GO:0001701	in utero embryonic development	5	21	1.41262647608e-05	0.0128125221381
+GO:1905007	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	3	4	1.45412610575e-05	0.0131889237792
+GO:0003149	membranous septum morphogenesis	3	4	1.45412610575e-05	0.0131889237792
+GO:0042472	inner ear morphogenesis	4	13	3.59229654015e-05	0.0325821296191
+GO:0062009	secondary palate development	4	13	3.59229654015e-05	0.0325821296191
+GO:0010936	negative regulation of macrophage cytokine production	3	5	3.5937809936e-05	0.032595593612

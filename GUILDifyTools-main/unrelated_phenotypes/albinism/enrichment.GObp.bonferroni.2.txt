@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048490	anterograde synaptic vesicle transport	9	15	1.11201244633e-10	1.36999933388e-07
+GO:0008089	anterograde axonal transport	9	20	3.24756422955e-09	4.00099913081e-06
+GO:0070681	glutaminyl-tRNAGln biosynthesis via transamidation	3	3	3.05439548458e-05	0.03763015237

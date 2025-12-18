@@ -1,0 +1,20 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	3	5	3.28861778379e-07	2.00605684811e-05
+GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	3	7	1.14588967276e-06	3.49496350192e-05
+GO:0042166	acetylcholine binding	2	5	0.000106190897087	0.00212729314505
+GO:0003684	damaged DNA binding	3	31	0.000139494632463	0.00212729314505
+GO:0015464	acetylcholine receptor activity	2	8	0.000295501085254	0.00360511324009
+GO:0098505	G-rich strand telomeric DNA binding	2	9	0.000379147713151	0.00385466841703
+GO:0043395	heparan sulfate proteoglycan binding	2	10	0.00047295900401	0.00412149989209
+GO:0050750	low-density lipoprotein particle receptor binding	2	12	0.000690820897089	0.0052675093403
+GO:0003697	single-stranded DNA binding	3	68	0.0014322820723	0.00970768960117
+GO:0004378	GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity	1	1	0.0033285782216	0.0169202726265
+GO:0102704	GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity	1	1	0.0033285782216	0.0169202726265
+GO:0000033	alpha-1,3-mannosyltransferase activity	1	1	0.0033285782216	0.0169202726265
+GO:0004360	glutamine-fructose-6-phosphate transaminase (isomerizing) activity	1	2	0.006646471434	0.0311872890365
+GO:0030546	signaling receptor activator activity	1	3	0.00995371267076	0.0379485295573
+GO:0015276	ligand-gated monoatomic ion channel activity	1	3	0.00995371267076	0.0379485295573
+GO:0002162	dystroglycan binding	1	3	0.00995371267076	0.0379485295573
+GO:0033130	acetylcholine receptor binding	1	4	0.0132503348663	0.0425405487813
+GO:0140545	ATP-dependent protein disaggregase activity	1	4	0.0132503348663	0.0425405487813
+GO:1990239	steroid hormone binding	1	4	0.0132503348663	0.0425405487813

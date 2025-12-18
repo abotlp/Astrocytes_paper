@@ -1,0 +1,25 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5654700	FRS-mediated FGFR2 signaling	8	17	3.86775378623e-08	3.39588782431e-05
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	15	83	1.51551848437e-07	0.000133062522928
+R-HSA-5654693	FRS-mediated FGFR1 signaling	7	14	1.69578908014e-07	0.000148890281236
+R-HSA-5654699	SHC-mediated cascade:FGFR2	7	15	3.08432070762e-07	0.000270803358129
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	6	11	7.06250423665e-07	0.000620087871978
+R-HSA-4641265	Repression of WNT target genes	6	11	7.06250423665e-07	0.000620087871978
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	11	50	9.13601897854e-07	0.000802142466316
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	15	97	1.2345160391e-06	0.00108390508233
+R-HSA-68962	Activation of the pre-replicative complex	9	33	1.31447558403e-06	0.00115410956278
+R-HSA-5654688	SHC-mediated cascade:FGFR1	6	12	1.37091039147e-06	0.00120365932371
+R-HSA-5655253	Signaling by FGFR2 in disease	7	19	2.13865476174e-06	0.00187773888081
+R-HSA-5654706	FRS-mediated FGFR3 signaling	6	13	2.47105360053e-06	0.00216958506127
+R-HSA-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	10	55	1.75631649444e-05	0.0154204588212
+R-HSA-5654704	SHC-mediated cascade:FGFR3	5	11	1.99333417808e-05	0.0175014740835
+R-HSA-3656532	TGFBR1 KD Mutants in Cancer	4	6	2.1034079856e-05	0.0184679221136
+R-HSA-3304356	SMAD2/3 Phosphorylation Motif Mutants in Cancer	4	6	2.1034079856e-05	0.0184679221136
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	8	36	2.68504577122e-05	0.0235747018713
+R-HSA-176187	Activation of ATR in response to replication stress	8	36	2.68504577122e-05	0.0235747018713
+R-HSA-3645790	TGFBR2 Kinase Domain Mutants in Cancer	3	3	4.26875899958e-05	0.0374797040163
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	4.26875899958e-05	0.0374797040163
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	4.26875899958e-05	0.0374797040163
+R-HSA-9823739	Formation of the anterior neural plate	4	7	4.77221299052e-05	0.0419000300567
+R-HSA-109704	PI3K Cascade	7	29	4.89298771581e-05	0.0429604321449
+R-HSA-5654726	Negative regulation of FGFR1 signaling	5	13	5.23929511842e-05	0.0460010111397

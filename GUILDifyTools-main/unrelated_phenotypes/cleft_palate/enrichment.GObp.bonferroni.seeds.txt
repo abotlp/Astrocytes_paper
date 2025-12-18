@@ -1,0 +1,22 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048701	embryonic cranial skeleton morphogenesis	8	9	1.16325986877e-13	1.24701457932e-10
+GO:0060021	roof of mouth development	7	15	4.11869491178e-09	4.41524094543e-06
+GO:0008543	fibroblast growth factor receptor signaling pathway	7	21	6.76502343218e-08	7.2521051193e-05
+GO:0045944	positive regulation of transcription by RNA polymerase II	37	781	1.13722369026e-07	0.000121910379596
+GO:0003149	membranous septum morphogenesis	4	4	1.19457188833e-07	0.000128058106429
+GO:0045893	positive regulation of DNA-templated transcription	26	435	1.44285592189e-07	0.000154674154827
+GO:0048839	inner ear development	6	16	2.74048354112e-07	0.000293779835608
+GO:0010718	positive regulation of epithelial to mesenchymal transition	8	45	1.56239222711e-06	0.00167488446746
+GO:0001837	epithelial to mesenchymal transition	7	36	3.8274814977e-06	0.00410306016554
+GO:0007435	salivary gland morphogenesis	3	3	6.47520835681e-06	0.0069414233585
+GO:0032570	response to progesterone	4	8	7.88199611257e-06	0.00844949983268
+GO:0003180	aortic valve morphogenesis	6	29	1.32676179014e-05	0.0142228863903
+GO:0008284	positive regulation of cell population proliferation	16	249	1.72739991289e-05	0.0185177270662
+GO:0001822	kidney development	7	45	1.80427034049e-05	0.0193417780501
+GO:0001501	skeletal system development	5	19	2.05792777642e-05	0.0220609857632
+GO:0000122	negative regulation of transcription by RNA polymerase II	25	537	2.25898135583e-05	0.0242162801345
+GO:0045216	cell-cell junction organization	4	10	2.29583986514e-05	0.0246114033543
+GO:0060325	face morphogenesis	4	10	2.29583986514e-05	0.0246114033543
+GO:1905007	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	3	4	2.55424618608e-05	0.0273815191148
+GO:0060391	positive regulation of SMAD protein signal transduction	6	34	3.47474675637e-05	0.0372492852283
+GO:0001701	in utero embryonic development	5	21	3.49319641489e-05	0.0374470655676

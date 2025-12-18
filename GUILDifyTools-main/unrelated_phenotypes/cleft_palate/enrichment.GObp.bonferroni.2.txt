@@ -1,0 +1,20 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045944	positive regulation of transcription by RNA polymerase II	64	781	3.6419198861e-12	6.24589260465e-09
+GO:0048701	embryonic cranial skeleton morphogenesis	8	9	1.05735031625e-11	1.81335579237e-08
+GO:0045893	positive regulation of DNA-templated transcription	42	435	2.18725301215e-10	3.75113891583e-07
+GO:0000122	negative regulation of transcription by RNA polymerase II	45	537	4.57014013691e-09	7.83779033479e-06
+GO:0045892	negative regulation of DNA-templated transcription	34	384	1.11418192983e-07	0.000191082200966
+GO:0060021	roof of mouth development	7	15	1.93395444341e-07	0.000331673187044
+GO:0048839	inner ear development	7	16	3.34200336403e-07	0.000573153576931
+GO:0003149	membranous septum morphogenesis	4	4	1.12545267188e-06	0.00193015133228
+GO:0032570	response to progesterone	5	8	1.8782198821e-06	0.00322114709781
+GO:0008543	fibroblast growth factor receptor signaling pathway	7	21	2.94832989782e-06	0.00505638577476
+GO:1902895	positive regulation of miRNA transcription	9	42	6.61947119558e-06	0.0113523931004
+GO:0071480	cellular response to gamma radiation	6	16	7.1105314803e-06	0.0121945614887
+GO:0010718	positive regulation of epithelial to mesenchymal transition	9	45	1.20643127276e-05	0.0206902963278
+GO:0001822	kidney development	9	45	1.20643127276e-05	0.0206902963278
+GO:0001837	epithelial to mesenchymal transition	8	36	1.6380143379e-05	0.028091945895
+GO:0034644	cellular response to UV	9	48	2.09399332368e-05	0.0359119855011
+GO:0008284	positive regulation of cell population proliferation	22	249	2.18560657624e-05	0.0374831527825
+GO:0001501	skeletal system development	6	19	2.2164922237e-05	0.0380128416365
+GO:0010628	positive regulation of gene expression	23	271	2.7099731593e-05	0.0464760396819

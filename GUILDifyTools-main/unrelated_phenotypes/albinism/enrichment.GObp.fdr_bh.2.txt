@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048490	anterograde synaptic vesicle transport	9	15	1.11201244633e-10	1.36999933388e-07
+GO:0008089	anterograde axonal transport	9	20	3.24756422955e-09	2.0004995654e-06
+GO:0032543	mitochondrial translation	6	22	4.42288866793e-05	0.0114761362156
+GO:0070681	glutaminyl-tRNAGln biosynthesis via transamidation	3	3	3.05439548458e-05	0.0114761362156
+GO:1903543	positive regulation of exosomal secretion	5	14	4.65752281476e-05	0.0114761362156
+GO:0032981	mitochondrial respiratory chain complex I assembly	8	57	0.000370598128016	0.0456576893716
+GO:0032418	lysosome localization	6	30	0.000284792535929	0.0456576893716
+GO:0031175	neuron projection development	9	70	0.00031613624497	0.0456576893716
+GO:0006412	translation	4	11	0.000262867399294	0.0456576893716
+GO:0007005	mitochondrion organization	8	57	0.000370598128016	0.0456576893716

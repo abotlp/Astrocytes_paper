@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6809371	Formation of the cornified envelope	49	115	2.67969523346e-41	2.0419277679e-38
+R-HSA-6805567	Keratinization	49	128	1.44658714749e-38	1.10229940638e-35
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	11	37	3.44872443256e-08	2.62792801761e-05
+R-HSA-3371511	HSF1 activation	6	10	3.48587167516e-07	0.000265623421647
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	7	19	2.26916053385e-06	0.0017291003268
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	12	66	2.77501105034e-06	0.00211455842036
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	10	49	6.43551166743e-06	0.00490385989058
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	10	54	1.60124215437e-05	0.0122014652163
+R-HSA-9837999	Mitochondrial protein degradation	13	95	2.73074587501e-05	0.0208082835676
+R-HSA-9010553	Regulation of expression of SLITs and ROBOs	15	132	6.25315067554e-05	0.0476490081476

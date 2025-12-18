@@ -1,0 +1,5 @@
+BIANA ID	UniProt ID	Gene Symbol	Description	Gene ID	Equivalent Entries
+41649	P08779	KRT16	RecName: Full=Keratin, type I cytoskeletal 16; AltName: Full=Cytokeratin-16; Short=CK-16; AltName: Full=Keratin-16; Short=K16;	3868	-
+41586	P04259	KRT6B	RecName: Full=Keratin, type II cytoskeletal 6B; AltName: Full=Cytokeratin-6B; Short=CK-6B; AltName: Full=Keratin-6B; Short=K6B; AltName: Full=Type-II keratin Kb10;	3854	-
+41647	Q04695	KRT17	RecName: Full=Keratin, type I cytoskeletal 17; AltName: Full=39.1; AltName: Full=Cytokeratin-17; Short=CK-17; AltName: Full=Keratin-17; Short=K17;	3872	-
+41588	P02538	KRT6A	RecName: Full=Keratin, type II cytoskeletal 6A; AltName: Full=Cytokeratin-6A; Short=CK-6A; AltName: Full=Cytokeratin-6D; Short=CK-6D; AltName: Full=Keratin-6A; Short=K6A; AltName: Full=Type-II keratin Kb6; AltName: Allergen=Hom s 5;	3853	-

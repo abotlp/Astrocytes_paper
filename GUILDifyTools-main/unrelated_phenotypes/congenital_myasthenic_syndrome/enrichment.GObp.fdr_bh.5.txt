@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0051086	chaperone mediated protein folding independent of cofactor	7	8	1.71202612283e-07	0.000376988152247
+GO:0032212	positive regulation of telomere maintenance via telomerase	10	21	1.85107406101e-06	0.00135868836078
+GO:0002181	cytoplasmic translation	10	21	1.85107406101e-06	0.00135868836078
+GO:0006413	translational initiation	10	26	1.912871623e-05	0.00708506975399
+GO:0061077	chaperone-mediated protein folding	10	26	1.912871623e-05	0.00708506975399
+GO:0048488	synaptic vesicle endocytosis	6	9	1.93053671771e-05	0.00708506975399
+GO:0045070	positive regulation of viral genome replication	9	24	6.37677346204e-05	0.0200595073763
+GO:0051131	chaperone-mediated protein complex assembly	7	15	8.26720601034e-05	0.0202697827343
+GO:0075522	IRES-dependent viral translational initiation	6	11	9.2051692708e-05	0.0202697827343
+GO:0070934	CRD-mediated mRNA stabilization	6	11	9.2051692708e-05	0.0202697827343
+GO:0006457	protein folding	10	32	0.00014812139652	0.0296512104671
+GO:0017148	negative regulation of translation	14	59	0.000207771247543	0.0381260239241

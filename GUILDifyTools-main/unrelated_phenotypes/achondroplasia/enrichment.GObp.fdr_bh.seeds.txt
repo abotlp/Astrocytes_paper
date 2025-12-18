@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1902178	fibroblast growth factor receptor apoptotic signaling pathway	1	1	9.70685303825e-05	0.000630945447486
+GO:0048640	negative regulation of developmental growth	1	1	9.70685303825e-05	0.000630945447486
+GO:0070977	bone maturation	1	2	0.000194137060765	0.000841260596648
+GO:0010518	positive regulation of phospholipase activity	1	5	0.000485342651912	0.00157736361872
+GO:0060349	bone morphogenesis	1	13	0.00126189089497	0.00294441208827
+GO:0030282	bone mineralization	1	14	0.00135895942535	0.00294441208827
+GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	1	18	0.00174723354688	0.00324486230136
+GO:0008543	fibroblast growth factor receptor signaling pathway	1	21	0.00203843913803	0.0033124635993
+GO:0007259	cell surface receptor signaling pathway via JAK-STAT	1	27	0.00262085032033	0.00378567268492
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	1	121	0.0117452921763	0.0128292240989
+GO:0043410	positive regulation of MAPK cascade	1	104	0.0100951271598	0.0128292240989
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	1	122	0.0118423607067	0.0128292240989
+GO:0008284	positive regulation of cell population proliferation	1	249	0.0241700640652	0.0241700640652

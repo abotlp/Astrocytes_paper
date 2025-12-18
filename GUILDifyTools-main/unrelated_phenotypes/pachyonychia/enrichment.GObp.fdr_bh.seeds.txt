@@ -1,0 +1,16 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0002009	morphogenesis of an epithelium	2	6	1.69530038765e-06	2.54295058147e-05
+GO:0051546	keratinocyte migration	1	4	0.00155241810252	0.00582156788445
+GO:0031424	keratinization	1	3	0.00116448315084	0.00582156788445
+GO:2000536	negative regulation of entry of bacterium into host cell	1	2	0.00077643516449	0.00582156788445
+GO:0042633	hair cycle	1	6	0.0023279489897	0.00678886242281
+GO:0031069	hair follicle morphogenesis	1	7	0.00271554496913	0.00678886242281
+GO:0061436	establishment of skin barrier	1	20	0.00774402252268	0.0165943339772
+GO:0030216	keratinocyte differentiation	1	27	0.0104437748894	0.0193318725908
+GO:0042060	wound healing	1	30	0.0115991235545	0.0193318725908
+GO:0031640	killing of cells of another organism	1	55	0.0211877303206	0.0283942607055
+GO:0050830	defense response to Gram-positive bacterium	1	59	0.0227154085644	0.0283942607055
+GO:0006954	inflammatory response	1	54	0.0208055310741	0.0283942607055
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	1	70	0.0269073037286	0.0310468889176
+GO:0045087	innate immune response	1	93	0.0356285862217	0.0356285862217
+GO:0030336	negative regulation of cell migration	1	92	0.0352506236839	0.0356285862217

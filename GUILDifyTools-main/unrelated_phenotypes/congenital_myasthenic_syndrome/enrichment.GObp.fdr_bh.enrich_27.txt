@@ -1,0 +1,77 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034502	protein localization to chromosome	2	2	7.12395000186e-06	0.000546169500143
+GO:0050881	musculoskeletal movement	2	2	7.12395000186e-06	0.000546169500143
+GO:0006298	mismatch repair	3	12	3.89187146032e-06	0.000546169500143
+GO:0048630	skeletal muscle tissue growth	2	3	2.13358844334e-05	0.000817875569946
+GO:0006284	base-excision repair	3	20	1.98752739809e-05	0.000817875569946
+GO:0071340	skeletal muscle acetylcholine-gated channel clustering	2	3	2.13358844334e-05	0.000817875569946
+GO:0006260	DNA replication	3	23	3.07082168531e-05	0.00100898426803
+GO:0006289	nucleotide-excision repair	3	26	4.48370958636e-05	0.00114583689429
+GO:0007274	neuromuscular synaptic transmission	2	4	4.25999686762e-05	0.00114583689429
+GO:0007271	synaptic transmission, cholinergic	2	5	7.08804986613e-05	0.00163025146921
+GO:0007528	neuromuscular junction development	2	9	0.00025345754115	0.00529956676951
+GO:1901526	positive regulation of mitophagy	2	14	0.000635318256686	0.0121769332532
+GO:0000724	double-strand break repair via homologous recombination	3	71	0.000908196692899	0.0160680953359
+GO:0050808	synapse organization	2	23	0.00173981035167	0.0240431282949
+GO:2000541	positive regulation of protein geranylgeranylation	1	1	0.00271791885073	0.0240431282949
+GO:0007613	memory	2	28	0.00257767162616	0.0240431282949
+GO:0045887	positive regulation of synaptic assembly at neuromuscular junction	1	1	0.00271791885073	0.0240431282949
+GO:0001941	postsynaptic membrane organization	1	1	0.00271791885073	0.0240431282949
+GO:0050803	regulation of synapse structure or activity	1	1	0.00271791885073	0.0240431282949
+GO:0008582	regulation of synaptic assembly at neuromuscular junction	1	1	0.00271791885073	0.0240431282949
+GO:0070206	protein trimerization	1	1	0.00271791885073	0.0240431282949
+GO:0031583	phospholipase D-activating G protein-coupled receptor signaling pathway	1	1	0.00271791885073	0.0240431282949
+GO:0100001	regulation of skeletal muscle contraction by action potential	1	1	0.00271791885073	0.0240431282949
+GO:0051124	synaptic assembly at neuromuscular junction	1	1	0.00271791885073	0.0240431282949
+GO:1905945	regulation of response to calcium ion	1	1	0.00271791885073	0.0240431282949
+GO:0045752	positive regulation of Toll signaling pathway	1	1	0.00271791885073	0.0240431282949
+GO:0001934	positive regulation of protein phosphorylation	3	107	0.00295447087056	0.0251677148233
+GO:0042391	regulation of membrane potential	2	33	0.00357048079473	0.0271435687576
+GO:2000479	regulation of cAMP-dependent protein kinase activity	1	2	0.00542871375152	0.0271435687576
+GO:0007617	mating behavior	1	2	0.00542871375152	0.0271435687576
+GO:0031247	actin rod assembly	1	2	0.00542871375152	0.0271435687576
+GO:0051580	regulation of neurotransmitter uptake	1	2	0.00542871375152	0.0271435687576
+GO:0141137	positive regulation of gene expression, epigenetic	1	2	0.00542871375152	0.0271435687576
+GO:0000723	telomere maintenance	2	38	0.00471419659162	0.0271435687576
+GO:0008088	axo-dendritic transport	1	2	0.00542871375152	0.0271435687576
+GO:1904591	positive regulation of protein import	1	2	0.00542871375152	0.0271435687576
+GO:1905898	positive regulation of response to endoplasmic reticulum stress	1	2	0.00542871375152	0.0271435687576
+GO:0071549	cellular response to dexamethasone stimulus	1	2	0.00542871375152	0.0271435687576
+GO:1903523	negative regulation of blood circulation	1	2	0.00542871375152	0.0271435687576
+GO:1903381	regulation of endoplasmic reticulum stress-induced neuron intrinsic apoptotic signaling pathway	1	2	0.00542871375152	0.0271435687576
+GO:0048669	collateral sprouting in absence of injury	1	2	0.00542871375152	0.0271435687576
+GO:1905289	regulation of CAMKK-AMPK signaling cascade	1	2	0.00542871375152	0.0271435687576
+GO:1904472	positive regulation of endothelin production	1	2	0.00542871375152	0.0271435687576
+GO:0040012	regulation of locomotion	1	2	0.00542871375152	0.0271435687576
+GO:1905906	regulation of amyloid fibril formation	1	2	0.00542871375152	0.0271435687576
+GO:1901631	positive regulation of presynaptic membrane organization	1	2	0.00542871375152	0.0271435687576
+GO:0010628	positive regulation of gene expression	4	271	0.0058298986057	0.0285292910492
+GO:0055096	low-density lipoprotein particle mediated signaling	1	3	0.00813240268511	0.0340082294105
+GO:0034121	regulation of toll-like receptor signaling pathway	1	3	0.00813240268511	0.0340082294105
+GO:1900221	regulation of amyloid-beta clearance	1	3	0.00813240268511	0.0340082294105
+GO:0150003	regulation of spontaneous synaptic transmission	1	3	0.00813240268511	0.0340082294105
+GO:0014005	microglia development	1	3	0.00813240268511	0.0340082294105
+GO:1904022	positive regulation of G protein-coupled receptor internalization	1	3	0.00813240268511	0.0340082294105
+GO:1905908	positive regulation of amyloid fibril formation	1	3	0.00813240268511	0.0340082294105
+GO:0070370	cellular heat acclimation	1	3	0.00813240268511	0.0340082294105
+GO:0070434	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway	1	4	0.0108290035906	0.0383180127053
+GO:0002265	astrocyte activation involved in immune response	1	4	0.0108290035906	0.0383180127053
+GO:1902950	regulation of dendritic spine maintenance	1	4	0.0108290035906	0.0383180127053
+GO:0055001	muscle cell development	1	4	0.0108290035906	0.0383180127053
+GO:0031587	positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	1	4	0.0108290035906	0.0383180127053
+GO:0098815	modulation of excitatory postsynaptic potential	1	4	0.0108290035906	0.0383180127053
+GO:0016199	axon midline choice point recognition	1	4	0.0108290035906	0.0383180127053
+GO:1902993	positive regulation of amyloid precursor protein catabolic process	1	4	0.0108290035906	0.0383180127053
+GO:0095500	acetylcholine receptor signaling pathway	1	4	0.0108290035906	0.0383180127053
+GO:1904504	positive regulation of lipophagy	1	4	0.0108290035906	0.0383180127053
+GO:0042297	vocal learning	1	5	0.0135185343633	0.0437924352614
+GO:1905337	positive regulation of aggrephagy	1	5	0.0135185343633	0.0437924352614
+GO:0047496	vesicle transport along microtubule	1	5	0.0135185343633	0.0437924352614
+GO:0010996	response to auditory stimulus	1	5	0.0135185343633	0.0437924352614
+GO:0035095	behavioral response to nicotine	1	5	0.0135185343633	0.0437924352614
+GO:2000001	regulation of DNA damage checkpoint	1	5	0.0135185343633	0.0437924352614
+GO:0006281	DNA repair	2	69	0.0149371773212	0.0477159831093
+GO:0048169	regulation of long-term neuronal synaptic plasticity	1	6	0.0162010128564	0.0490293810127
+GO:0097104	postsynaptic membrane assembly	1	6	0.0162010128564	0.0490293810127
+GO:0006048	UDP-N-acetylglucosamine biosynthetic process	1	6	0.0162010128564	0.0490293810127
+GO:0050771	negative regulation of axonogenesis	1	6	0.0162010128564	0.0490293810127

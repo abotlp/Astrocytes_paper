@@ -1,0 +1,2 @@
+Term ID	Term name
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways

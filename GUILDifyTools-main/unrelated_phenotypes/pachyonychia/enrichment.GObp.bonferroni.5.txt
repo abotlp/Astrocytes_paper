@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0002181	cytoplasmic translation	14	21	3.12795389854e-11	6.79391586763e-08
+GO:0061077	chaperone-mediated protein folding	14	26	1.76775374144e-09	3.83956112642e-06
+GO:0051086	chaperone mediated protein folding independent of cofactor	8	8	1.77143885944e-09	3.84756520271e-06
+GO:0017148	negative regulation of translation	21	59	2.42383938918e-09	5.2645791533e-06
+GO:0070934	CRD-mediated mRNA stabilization	9	11	6.72407044167e-09	1.46046809993e-05
+GO:0032212	positive regulation of telomere maintenance via telomerase	11	21	1.50112331796e-07	0.000326043984662
+GO:0006413	translational initiation	12	26	2.40932857412e-07	0.000523306166298
+GO:1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	7	9	6.87205825801e-07	0.00149261105364
+GO:0006457	protein folding	12	32	3.57136370616e-06	0.00775700196979
+GO:0042633	hair cycle	5	6	1.9135693214e-05	0.0415627256608

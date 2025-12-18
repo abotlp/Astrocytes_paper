@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031396	regulation of protein ubiquitination	5	12	2.45214471476e-05	0.0308725019588

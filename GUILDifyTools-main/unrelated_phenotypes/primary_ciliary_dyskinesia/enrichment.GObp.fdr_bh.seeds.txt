@@ -1,0 +1,31 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070286	axonemal dynein complex assembly	4	12	1.04982459269e-09	3.77936853367e-08
+GO:0036159	inner dynein arm assembly	3	13	5.66891345481e-07	1.02040442187e-05
+GO:0036158	outer dynein arm assembly	3	15	9.00427920336e-07	1.0805135044e-05
+GO:0035082	axoneme assembly	3	17	1.34353875496e-06	1.20918487946e-05
+GO:0003341	cilium movement	3	27	5.73304436071e-06	4.12779193971e-05
+GO:0060285	cilium-dependent cell motility	2	5	1.71103202599e-05	0.000102661921559
+GO:0007368	determination of left/right symmetry	2	23	0.000426880513616	0.00219538549859
+GO:1905505	positive regulation of motile cilium assembly	1	1	0.00135895942537	0.00611531741414
+GO:1904526	regulation of microtubule binding	1	2	0.0027162038257	0.00698452412324
+GO:0060294	cilium movement involved in cell motility	1	2	0.0027162038257	0.00698452412324
+GO:0021591	ventricular system development	1	2	0.0027162038257	0.00698452412324
+GO:0062177	radial spoke assembly	1	2	0.0027162038257	0.00698452412324
+GO:0016202	regulation of striated muscle tissue development	1	2	0.0027162038257	0.00698452412324
+GO:0003352	regulation of cilium movement	1	2	0.0027162038257	0.00698452412324
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	1	4	0.00542555554169	0.0114894117354
+GO:1904158	axonemal central apparatus assembly	1	4	0.00542555554169	0.0114894117354
+GO:0030317	flagellated sperm motility	2	80	0.0051010823902	0.0114894117354
+GO:0120229	protein localization to motile cilium	1	5	0.00677766684684	0.0128418950782
+GO:1903566	positive regulation of protein localization to cilium	1	5	0.00677766684684	0.0128418950782
+GO:0071907	determination of digestive tract left/right asymmetry	1	6	0.00812807110686	0.0146305279924
+GO:0003356	regulation of cilium beat frequency	1	7	0.00947677031093	0.0162458919616
+GO:0033146	regulation of intracellular estrogen receptor signaling pathway	1	8	0.0108237664464	0.0177116178213
+GO:0042073	intraciliary transport	1	11	0.0148545562847	0.0232506098369
+GO:0044458	motile cilium assembly	1	13	0.0175332705092	0.0242768360897
+GO:0060271	cilium assembly	2	151	0.0173032112244	0.0242768360897
+GO:0061136	regulation of proteasomal protein catabolic process	1	12	0.0161947599787	0.0242768360897
+GO:0051310	metaphase chromosome alignment	1	14	0.0188700898518	0.0251601198023
+GO:0045880	positive regulation of smoothened signaling pathway	1	20	0.0268556012692	0.0345286302032
+GO:0015031	protein transport	1	27	0.036095737828	0.0448085021314
+GO:0007601	visual perception	1	28	0.0374090867021	0.0448909040425

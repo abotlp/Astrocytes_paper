@@ -1,0 +1,30 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6809371	Formation of the cornified envelope	49	115	1.22413789723e-58	5.28827571603e-56
+R-HSA-6805567	Keratinization	49	128	8.44244444225e-56	1.82356799953e-53
+R-HSA-9725554	Differentiation of keratinocytes in interfollicular epidermis in mammalian skin	7	36	1.79758406834e-06	0.00019413907938
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	9	66	1.35373863832e-06	0.00019413907938
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	5	19	1.18977868306e-05	0.00102796878216
+R-HSA-3371511	HSF1 activation	4	10	1.47046953637e-05	0.00105873806619
+R-HSA-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	5	21	2.02641269386e-05	0.00125058611964
+R-HSA-110320	Translesion Synthesis by POLH	4	15	8.95185994356e-05	0.00429689277291
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	8.95185994356e-05	0.00429689277291
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	3	9	0.000359456784529	0.0130644699153
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	4	21	0.000362901942091	0.0130644699153
+R-HSA-2980766	Nuclear Envelope Breakdown	3	9	0.000359456784529	0.0130644699153
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	3	10	0.000507207679893	0.0168549013626
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	3	11	0.000688858214564	0.0198391165795
+R-HSA-446107	Type I hemidesmosome assembly	3	11	0.000688858214564	0.0198391165795
+R-HSA-352238	Breakdown of the nuclear lamina	2	3	0.000826795793966	0.0223234864371
+R-HSA-110312	Translesion synthesis by REV1	3	12	0.000907223021544	0.0230541379592
+R-HSA-5655862	Translesion synthesis by POLK	3	13	0.00116494943228	0.0264872713023
+R-HSA-5656121	Translesion synthesis by POLI	3	13	0.00116494943228	0.0264872713023
+R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	3	14	0.00146452326065	0.0287579113
+R-HSA-69166	Removal of the Flap Intermediate	3	14	0.00146452326065	0.0287579113
+R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	3	14	0.00146452326065	0.0287579113
+R-HSA-5696395	Formation of Incision Complex in GG-NER	4	35	0.00264645163391	0.0431305727855
+R-HSA-9841251	Mitochondrial unfolded protein response (UPRmt)	3	17	0.00263688161543	0.0431305727855
+R-HSA-901042	Calnexin/calreticulin cycle	2	5	0.00269566079909	0.0431305727855
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	3	17	0.00263688161543	0.0431305727855
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	4	34	0.00237457398946	0.0431305727855
+R-HSA-5696400	Dual Incision in GG-NER	4	36	0.00293894447878	0.0453437148154
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	4	37	0.00325279780378	0.0484554707322

@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070286	axonemal dynein complex assembly	4	12	3.50090665086e-05	0.0309830238601
+GO:0033673	negative regulation of kinase activity	3	7	0.000157692307418	0.0472074740844
+GO:0034502	protein localization to chromosome	2	2	0.000283657596501	0.0472074740844
+GO:0051580	regulation of neurotransmitter uptake	2	2	0.000283657596501	0.0472074740844
+GO:0001764	neuron migration	5	36	0.000320050671759	0.0472074740844
+GO:1903748	negative regulation of establishment of protein localization to mitochondrion	2	2	0.000283657596501	0.0472074740844

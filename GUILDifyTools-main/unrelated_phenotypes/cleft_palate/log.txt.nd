@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/cleft_palate/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/cleft_palate/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/cleft_palate/output_scores.txt.nd
+Time: 4161830000 (4161.83s)

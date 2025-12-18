@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034446	substrate adhesion-dependent cell spreading	7	28	3.32003888388e-05	0.037483238999

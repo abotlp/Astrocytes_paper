@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0008137	NADH dehydrogenase (ubiquinone) activity	8	15	2.79304865398e-05	0.0140783751548
+GO:0003954	NADH dehydrogenase activity	5	6	4.88832470654e-05	0.0140783751548
+GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	7	14	0.000155000723689	0.0297601389484

@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	4	5	9.32283054597e-07	0.000188321177029
+GO:0004069	L-aspartate:2-oxoglutarate aminotransferase activity	2	2	0.000440290218414	0.0222346560299
+GO:0030060	L-malate dehydrogenase (NAD+) activity	2	2	0.000440290218414	0.0222346560299
+GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	3	7	0.000301243531115	0.0222346560299

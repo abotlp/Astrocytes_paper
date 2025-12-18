@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048490	anterograde synaptic vesicle transport	9	15	2.17234613783e-13	1.77915148689e-10
+GO:0008089	anterograde axonal transport	9	20	6.8154808406e-12	5.58187880845e-09
+GO:0031175	neuron projection development	9	70	1.34756155697e-06	0.00110365291516
+GO:0032418	lysosome localization	6	30	5.98682182829e-06	0.00490320707737
+GO:1903543	positive regulation of exosomal secretion	4	14	5.21590764141e-05	0.0427182835832

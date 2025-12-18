@@ -1,0 +1,2 @@
+Arguments: scoring type f, nRepetition 1, nIteration 5, nodeFile /home/patricia/GUILDifyTools-main/congenital_myasthenic_syndrome/node_scores.txt, edgeFile /home/patricia/BIANA_phy/edge_scores.txt, outputFile /home/patricia/GUILDifyTools-main/congenital_myasthenic_syndrome/output_scores.txt.ff
+Time: 1870000 (1.87s)

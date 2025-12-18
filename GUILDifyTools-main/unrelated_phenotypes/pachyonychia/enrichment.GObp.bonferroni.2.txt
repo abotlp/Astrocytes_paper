@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042633	hair cycle	5	6	2.22122590828e-07	0.000270545315628
+GO:0061077	chaperone-mediated protein folding	8	26	1.20380187326e-06	0.00146623068163
+GO:0002009	morphogenesis of an epithelium	4	6	1.65928937291e-05	0.0202101445621
+GO:0050821	protein stabilization	17	168	3.87908664652e-05	0.0472472753546

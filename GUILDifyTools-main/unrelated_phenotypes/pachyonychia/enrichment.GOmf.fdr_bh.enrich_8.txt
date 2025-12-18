@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0160123	structural constituent of nuclear lamina	1	1	0.000951022349031	0.00475511174516
+GO:0140463	chromatin-protein adaptor activity	1	11	0.0104178073807	0.0173630123012
+GO:0098505	G-rich strand telomeric DNA binding	1	9	0.00853075517374	0.0173630123012
+GO:0003684	damaged DNA binding	1	31	0.02911618128	0.0363952266

@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0001046	core promoter sequence-specific DNA binding	2	12	0.000594902316355	0.0160623625416
+GO:0004364	glutathione transferase activity	2	22	0.00204296745274	0.0275800606119
+GO:0003684	damaged DNA binding	2	31	0.00404283651618	0.0363855286456

@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	54	646	1.26556709313e-07	4.94836733414e-05
+GO:0034714	type III transforming growth factor beta receptor binding	4	4	2.532055419e-06	0.000990033668828
+GO:0003700	DNA-binding transcription factor activity	23	206	7.62531438619e-06	0.002981497925
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	26	271	3.00942085948e-05	0.0117668355606
+GO:0005114	type II transforming growth factor beta receptor binding	4	7	8.04723158648e-05	0.0314646755032

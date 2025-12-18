@@ -1,0 +1,43 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0050881	musculoskeletal movement	2	2	1.97887500051e-06	0.000108746546026
+GO:0048630	skeletal muscle tissue growth	2	3	5.93162978323e-06	0.000108746546026
+GO:0071340	skeletal muscle acetylcholine-gated channel clustering	2	3	5.93162978323e-06	0.000108746546026
+GO:0007274	neuromuscular synaptic transmission	2	4	1.18532778598e-05	0.000162982570572
+GO:0007271	synaptic transmission, cholinergic	2	5	1.97388414596e-05	0.000217127256055
+GO:0007528	neuromuscular junction development	2	9	7.08210001291e-05	0.000649192501183
+GO:0042391	regulation of membrane potential	2	33	0.00101794640018	0.00616011827422
+GO:0051124	synaptic assembly at neuromuscular junction	1	1	0.00145602795573	0.00616011827422
+GO:2000541	positive regulation of protein geranylgeranylation	1	1	0.00145602795573	0.00616011827422
+GO:0008582	regulation of synaptic assembly at neuromuscular junction	1	1	0.00145602795573	0.00616011827422
+GO:0045887	positive regulation of synaptic assembly at neuromuscular junction	1	1	0.00145602795573	0.00616011827422
+GO:0100001	regulation of skeletal muscle contraction by action potential	1	1	0.00145602795573	0.00616011827422
+GO:0001941	postsynaptic membrane organization	1	1	0.00145602795573	0.00616011827422
+GO:1901631	positive regulation of presynaptic membrane organization	1	2	0.00291007703649	0.0114324455005
+GO:0055001	muscle cell development	1	4	0.00581224856035	0.0199796044262
+GO:0095500	acetylcholine receptor signaling pathway	1	4	0.00581224856035	0.0199796044262
+GO:0035095	behavioral response to nicotine	1	5	0.00726037599007	0.0234894517326
+GO:0097104	postsynaptic membrane assembly	1	6	0.00870653451792	0.0239429699243
+GO:0006048	UDP-N-acetylglucosamine biosynthetic process	1	6	0.00870653451792	0.0239429699243
+GO:0050771	negative regulation of axonogenesis	1	6	0.00870653451792	0.0239429699243
+GO:0050905	neuromuscular process	1	8	0.0115929548084	0.0265671881026
+GO:0150094	amyloid-beta clearance by cellular catabolic process	1	8	0.0115929548084	0.0265671881026
+GO:0006002	fructose 6-phosphate metabolic process	1	8	0.0115929548084	0.0265671881026
+GO:2000300	regulation of synaptic vesicle exocytosis	1	7	0.0101507266295	0.0265671881026
+GO:0046716	muscle cell cellular homeostasis	1	9	0.0130332215345	0.027570276323
+GO:0097105	presynaptic membrane assembly	1	9	0.0130332215345	0.027570276323
+GO:0050877	nervous system process	1	10	0.0144715292848	0.0294790411358
+GO:0019228	neuronal action potential	1	11	0.0159078805343	0.0308690860767
+GO:0006488	dolichol-linked oligosaccharide biosynthetic process	1	14	0.0202052199775	0.0308690860767
+GO:0061098	positive regulation of protein tyrosine kinase activity	1	13	0.0187747234138	0.0308690860767
+GO:0006936	muscle contraction	1	14	0.0202052199775	0.0308690860767
+GO:0030279	negative regulation of ossification	1	12	0.0173422777548	0.0308690860767
+GO:0003009	skeletal muscle contraction	1	14	0.0202052199775	0.0308690860767
+GO:0048813	dendrite morphogenesis	1	14	0.0202052199775	0.0308690860767
+GO:0043113	receptor clustering	1	13	0.0187747234138	0.0308690860767
+GO:0006812	monoatomic cation transport	1	12	0.0173422777548	0.0308690860767
+GO:0060173	limb development	1	15	0.0216337699099	0.0321583066228
+GO:0070050	neuron cellular homeostasis	1	16	0.0230603756692	0.0333768595212
+GO:0006486	protein glycosylation	1	20	0.0287474060873	0.0405412137128
+GO:0050808	synapse organization	1	23	0.0329923852079	0.0442580777179
+GO:0051491	positive regulation of filopodium assembly	1	23	0.0329923852079	0.0442580777179
+GO:0043001	Golgi to plasma membrane protein transport	1	25	0.0358127442454	0.0468976412738

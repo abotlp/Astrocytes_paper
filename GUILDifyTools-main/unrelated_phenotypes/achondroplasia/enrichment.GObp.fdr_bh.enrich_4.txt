@@ -1,0 +1,50 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0106072	negative regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	7	2.37311323417e-06	6.88202837909e-05
+GO:0106071	positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	6	1.69530038765e-06	6.88202837909e-05
+GO:1903077	negative regulation of protein localization to plasma membrane	2	19	1.92939078355e-05	0.000373015551487
+GO:0032986	protein-DNA complex disassembly	1	1	0.000388274121529	0.00321712843552
+GO:0048640	negative regulation of developmental growth	1	1	0.000388274121529	0.00321712843552
+GO:0090096	positive regulation of metanephric cap mesenchymal cell proliferation	1	1	0.000388274121529	0.00321712843552
+GO:1902178	fibroblast growth factor receptor apoptotic signaling pathway	1	1	0.000388274121529	0.00321712843552
+GO:0070977	bone maturation	1	2	0.00077643516449	0.00409393086731
+GO:0006112	energy reserve metabolic process	1	2	0.00077643516449	0.00409393086731
+GO:0072659	protein localization to plasma membrane	2	105	0.000609207453869	0.00409393086731
+GO:0016072	rRNA metabolic process	1	2	0.00077643516449	0.00409393086731
+GO:0007631	feeding behavior	1	3	0.00116448315084	0.00482428733917
+GO:1904672	regulation of somatic stem cell population maintenance	1	3	0.00116448315084	0.00482428733917
+GO:1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	1	3	0.00116448315084	0.00482428733917
+GO:0060633	negative regulation of transcription initiation by RNA polymerase II	1	4	0.00155241810252	0.00529648529095
+GO:0051782	negative regulation of cell division	1	4	0.00155241810252	0.00529648529095
+GO:0045656	negative regulation of monocyte differentiation	1	4	0.00155241810252	0.00529648529095
+GO:0010518	positive regulation of phospholipase activity	1	5	0.00194024004148	0.00625188457811
+GO:0010332	response to gamma radiation	1	6	0.0023279489897	0.00675105207014
+GO:0032873	negative regulation of stress-activated MAPK cascade	1	6	0.0023279489897	0.00675105207014
+GO:0008284	positive regulation of cell population proliferation	2	249	0.0033807790514	0.00843512876422
+GO:0051276	chromosome organization	1	9	0.00349039810933	0.00843512876422
+GO:0032204	regulation of telomere maintenance	1	9	0.00349039810933	0.00843512876422
+GO:0002053	positive regulation of mesenchymal cell proliferation	1	9	0.00349039810933	0.00843512876422
+GO:0044027	negative regulation of gene expression via chromosomal CpG island methylation	1	10	0.00387765531404	0.00899616032858
+GO:0010564	regulation of cell cycle process	1	12	0.00465183110215	0.0103771616894
+GO:0060349	bone morphogenesis	1	13	0.00503874972952	0.0108239809004
+GO:0030282	bone mineralization	1	14	0.00542555554163	0.0112370138834
+GO:0001658	branching involved in ureteric bud morphogenesis	1	15	0.00581224856038	0.0112370138834
+GO:0070371	ERK1 and ERK2 cascade	1	15	0.00581224856038	0.0112370138834
+GO:0048147	negative regulation of fibroblast proliferation	1	17	0.00658529630595	0.0123208769595
+GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	1	18	0.00697165107653	0.0126361175762
+GO:0008543	fibroblast growth factor receptor signaling pathway	1	21	0.00813003924215	0.0142891598802
+GO:0071466	cellular response to xenobiotic stimulus	1	22	0.00851594332177	0.0145271974313
+GO:0048146	positive regulation of fibroblast proliferation	1	26	0.0100584336803	0.0157672744178
+GO:0000082	G1/S transition of mitotic cell cycle	1	25	0.00967297994079	0.0157672744178
+GO:0032206	positive regulation of telomere maintenance	1	26	0.0100584336803	0.0157672744178
+GO:0007259	cell surface receptor signaling pathway via JAK-STAT	1	27	0.0104437748894	0.0159404985154
+GO:0043280	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	1	31	0.0119840148613	0.0174973179845
+GO:0097009	energy homeostasis	1	32	0.0123687937477	0.0174973179845
+GO:0050679	positive regulation of epithelial cell proliferation	1	32	0.0123687937477	0.0174973179845
+GO:0000165	MAPK cascade	1	33	0.0127534602348	0.0176119212766
+GO:0009410	response to xenobiotic stimulus	1	39	0.0150591000083	0.0198506318291
+GO:0006879	intracellular iron ion homeostasis	1	39	0.0150591000083	0.0198506318291
+GO:1902895	positive regulation of miRNA transcription	1	42	0.0162104042817	0.0208934099631
+GO:0034644	cellular response to UV	1	48	0.0185099845583	0.0233386761822
+GO:0071456	cellular response to hypoxia	1	65	0.0250035721093	0.0302126496321
+GO:0010468	regulation of gene expression	1	65	0.0250035721093	0.0302126496321
+GO:0043410	positive regulation of MAPK cascade	1	104	0.039778848466	0.047085167572

@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004503	tyrosinase activity	2	2	4.83369461665e-06	4.83369461665e-05
+GO:0004838	L-tyrosine-2-oxoglutarate transaminase activity	1	1	0.00225867807891	0.0225867807891
+GO:0008273	calcium, potassium:sodium antiporter activity	1	1	0.00225867807891	0.0225867807891
+GO:0005085	guanyl-nucleotide exchange factor activity	3	133	0.00311075362194	0.0311075362194

@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6809371	Formation of the cornified envelope	4	115	1.31024746746e-06	5.24098986983e-05
+R-HSA-6805567	Keratinization	4	128	2.01303899849e-06	8.05215599395e-05

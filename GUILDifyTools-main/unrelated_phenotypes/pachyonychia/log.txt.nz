@@ -1,0 +1,2 @@
+Arguments: scoring type z, nRepetition 1, nIteration 5, nodeFile /home/patricia/GUILDifyTools-main/pachyonychia/node_scores.txt, edgeFile /home/patricia/BIANA_phy/edge_scores.txt, outputFile /home/patricia/GUILDifyTools-main/pachyonychia/output_scores.txt.nz
+Time: 174160000 (174.16s)

@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070286	axonemal dynein complex assembly	4	12	3.50090665086e-05	0.0309830238601

@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	127	646	3.51975201689e-15	2.19984501056e-12
+GO:0003700	DNA-binding transcription factor activity	53	206	3.06326265117e-11	1.91453915698e-08
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	67	302	9.88757612884e-11	6.17973508052e-08
+GO:0000976	transcription cis-regulatory region binding	49	208	4.44262915885e-09	2.77664322428e-06
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	57	271	2.04886600293e-08	1.28054125183e-05
+GO:1990837	sequence-specific double-stranded DNA binding	82	500	1.96863604982e-06	0.00123039753114
+GO:0098505	G-rich strand telomeric DNA binding	7	9	2.72283886635e-06	0.00170177429147
+GO:0003713	transcription coactivator activity	35	162	6.12842243455e-06	0.00383026402159
+GO:0003677	DNA binding	50	270	7.9545195541e-06	0.00497157472131
+GO:0003682	chromatin binding	35	178	5.14852444668e-05	0.0321782777918

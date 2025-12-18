@@ -1,0 +1,18 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	54	646	1.26556709313e-07	4.94836733414e-05
+GO:0034714	type III transforming growth factor beta receptor binding	4	4	2.532055419e-06	0.000495016834414
+GO:0003700	DNA-binding transcription factor activity	23	206	7.62531438619e-06	0.000993832641667
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	26	271	3.00942085948e-05	0.00294170889014
+GO:0005114	type II transforming growth factor beta receptor binding	4	7	8.04723158648e-05	0.00629293510063
+GO:0003684	damaged DNA binding	7	31	0.000178053569722	0.0116031576269
+GO:0003682	chromatin binding	18	178	0.000267251679953	0.0130619258577
+GO:0000976	transcription cis-regulatory region binding	20	208	0.0002438604316	0.0130619258577
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	25	302	0.000443386073538	0.0192626616393
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	3	5	0.000600107510405	0.0213310942335
+GO:0005007	fibroblast growth factor receptor activity	3	5	0.000600107510405	0.0213310942335
+GO:0043565	sequence-specific DNA binding	18	194	0.000757548681749	0.0246834612137
+GO:0008013	beta-catenin binding	6	29	0.000859040585064	0.0258372975969
+GO:0034713	type I transforming growth factor beta receptor binding	3	6	0.00116460136481	0.0325256524028
+GO:0043993	histone H3K18 acetyltransferase activity	2	2	0.00160037692643	0.0391092111396
+GO:0044017	histone H3K27 acetyltransferase activity	2	2	0.00160037692643	0.0391092111396
+GO:0003714	transcription corepressor activity	12	115	0.00212027358546	0.0487662924655

@@ -1,0 +1,15 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048490	anterograde synaptic vesicle transport	9	15	2.17234613783e-13	1.77915148689e-10
+GO:0008089	anterograde axonal transport	9	20	6.8154808406e-12	2.79093940422e-09
+GO:0031175	neuron projection development	9	70	1.34756155697e-06	0.000367884305053
+GO:0032418	lysosome localization	6	30	5.98682182829e-06	0.00122580176934
+GO:1903543	positive regulation of exosomal secretion	4	14	5.21590764141e-05	0.00854365671664
+GO:1903438	positive regulation of mitotic cytokinetic process	3	6	7.37377063629e-05	0.0100651969185
+GO:0043473	pigmentation	3	7	0.000127550011236	0.0149233513146
+GO:0034502	protein localization to chromosome	2	2	0.000245776275063	0.0201290769277
+GO:0050942	positive regulation of pigment cell differentiation	2	2	0.000245776275063	0.0201290769277
+GO:0051580	regulation of neurotransmitter uptake	2	2	0.000245776275063	0.0201290769277
+GO:0035646	endosome to melanosome transport	3	9	0.000299094381268	0.0222689362053
+GO:0032402	melanosome transport	3	10	0.000422351384074	0.0288254819631
+GO:0006298	mismatch repair	3	12	0.000756578041833	0.0442598154472
+GO:0006998	nuclear envelope organization	3	12	0.000756578041833	0.0442598154472

@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0006298	mismatch repair	3	12	3.89187146032e-06	0.000895130435873
+GO:0034502	protein localization to chromosome	2	2	7.12395000186e-06	0.00163850850043
+GO:0050881	musculoskeletal movement	2	2	7.12395000186e-06	0.00163850850043
+GO:0006284	base-excision repair	3	20	1.98752739809e-05	0.00457131301562
+GO:0048630	skeletal muscle tissue growth	2	3	2.13358844334e-05	0.00490725341967
+GO:0071340	skeletal muscle acetylcholine-gated channel clustering	2	3	2.13358844334e-05	0.00490725341967
+GO:0006260	DNA replication	3	23	3.07082168531e-05	0.00706288987621
+GO:0007274	neuromuscular synaptic transmission	2	4	4.25999686762e-05	0.00979799279552
+GO:0006289	nucleotide-excision repair	3	26	4.48370958636e-05	0.0103125320486
+GO:0007271	synaptic transmission, cholinergic	2	5	7.08804986613e-05	0.0163025146921

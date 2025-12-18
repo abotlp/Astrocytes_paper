@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070840	dynein complex binding	1	13	0.021436164013	0.0493918137129
+GO:0030331	nuclear estrogen receptor binding	1	15	0.0246959068565	0.0493918137129

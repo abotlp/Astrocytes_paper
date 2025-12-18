@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005007	fibroblast growth factor receptor activity	1	5	0.00237586024262	0.0208814802022
+GO:0017134	fibroblast growth factor binding	1	9	0.00427349823844	0.0208814802022
+GO:0001046	core promoter sequence-specific DNA binding	1	12	0.00569494914604	0.0208814802022

@@ -1,0 +1,2 @@
+BIANA ID	UniProt ID	Gene Symbol	Description	Gene ID	Equivalent Entries
+14665	P22607	FGFR3	RecName: Full=Fibroblast growth factor receptor 3; Short=FGFR-3; EC=2.7.10.1; AltName: CD_antigen=CD333; Flags: Precursor;	2261	-

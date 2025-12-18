@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5662702	Melanin biosynthesis	3	4	2.6138468686e-08	6.01184779777e-07
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	4	52	2.77672052706e-06	3.19322860612e-05
+R-HSA-5619036	Defective SLC24A5 causes oculocutaneous albinism 6 (OCA6)	1	1	0.00197607904314	0.0150913142512
+R-HSA-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	2	39	0.00262457639152	0.0150913142512
+R-HSA-425561	Sodium/Calcium exchangers	1	5	0.00984346306177	0.0377332750701
+R-HSA-8963684	Tyrosine catabolism	1	5	0.00984346306177	0.0377332750701
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	2	85	0.0119796343584	0.039361655749
