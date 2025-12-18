@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0005007	fibroblast growth factor receptor activity	1	5	0.000594388968139	0.00178316690442
+GO:0017134	fibroblast growth factor binding	1	9	0.00106990014265	0.00320970042795
+GO:0004713	protein tyrosine kinase activity	1	52	0.00618164526864	0.0185449358059

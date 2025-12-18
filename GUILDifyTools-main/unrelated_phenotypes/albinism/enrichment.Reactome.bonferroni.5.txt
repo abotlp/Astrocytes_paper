@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5389840	Mitochondrial translation elongation	74	87	1.61613534802e-66	1.47553157274e-63
+R-HSA-5419276	Mitochondrial translation termination	73	87	1.00131576812e-64	9.14201296293e-62
+R-HSA-5368286	Mitochondrial translation initiation	72	87	5.7040466941e-63	5.20779463171e-60
+R-HSA-9837999	Mitochondrial protein degradation	50	95	7.17222581863e-29	6.54824217241e-26
+R-HSA-6809371	Formation of the cornified envelope	51	115	6.31188308514e-25	5.76274925673e-22
+R-HSA-6805567	Keratinization	52	128	3.2316205443e-23	2.95046955695e-20
+R-HSA-6799198	Complex I biogenesis	25	65	3.39973180752e-11	3.10395514027e-08
+R-HSA-611105	Respiratory electron transport	27	84	6.55152489994e-10	5.98154223365e-07
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	9	14	3.1921939276e-07	0.00029144730559
+R-HSA-71403	Citric acid cycle (TCA cycle)	9	17	3.05877767368e-06	0.00279266401607
+R-HSA-9865881	Complex III assembly	10	24	1.28969661238e-05	0.011774930071
+R-HSA-9836573	Mitochondrial RNA degradation	5	6	2.53288886435e-05	0.0231252753315
+R-HSA-8868766	rRNA processing in the mitochondrion	4	4	5.33215237314e-05	0.0486825511668

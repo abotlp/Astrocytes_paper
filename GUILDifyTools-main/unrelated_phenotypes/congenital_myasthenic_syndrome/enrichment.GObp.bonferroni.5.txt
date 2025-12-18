@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0051086	chaperone mediated protein folding independent of cofactor	7	8	1.71202612283e-07	0.000376988152247
+GO:0032212	positive regulation of telomere maintenance via telomerase	10	21	1.85107406101e-06	0.00407606508234
+GO:0002181	cytoplasmic translation	10	21	1.85107406101e-06	0.00407606508234
+GO:0006413	translational initiation	10	26	1.912871623e-05	0.0421214331385
+GO:0061077	chaperone-mediated protein folding	10	26	1.912871623e-05	0.0421214331385
+GO:0048488	synaptic vesicle endocytosis	6	9	1.93053671771e-05	0.042510418524

@@ -1,0 +1,32 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5389840	Mitochondrial translation elongation	74	87	1.61613534802e-66	1.47553157274e-63
+R-HSA-5419276	Mitochondrial translation termination	73	87	1.00131576812e-64	4.57100648146e-62
+R-HSA-5368286	Mitochondrial translation initiation	72	87	5.7040466941e-63	1.7359315439e-60
+R-HSA-9837999	Mitochondrial protein degradation	50	95	7.17222581863e-29	1.6370605431e-26
+R-HSA-6809371	Formation of the cornified envelope	51	115	6.31188308514e-25	1.15254985135e-22
+R-HSA-6805567	Keratinization	52	128	3.2316205443e-23	4.91744926158e-21
+R-HSA-6799198	Complex I biogenesis	25	65	3.39973180752e-11	4.43422162895e-09
+R-HSA-611105	Respiratory electron transport	27	84	6.55152489994e-10	7.47692779206e-08
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	9	14	3.1921939276e-07	3.23830339544e-05
+R-HSA-71403	Citric acid cycle (TCA cycle)	9	17	3.05877767368e-06	0.000279266401607
+R-HSA-9865881	Complex III assembly	10	24	1.28969661238e-05	0.00107044818827
+R-HSA-9836573	Mitochondrial RNA degradation	5	6	2.53288886435e-05	0.00192710627763
+R-HSA-8868766	rRNA processing in the mitochondrion	4	4	5.33215237314e-05	0.00374481162822
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	8	19	8.94963576307e-05	0.00583644103692
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	6	11	0.000122549224465	0.00745916279578
+R-HSA-1268020	Mitochondrial protein import	15	62	0.000173194838466	0.00988293046998
+R-HSA-6785470	tRNA processing in the mitochondrion	4	5	0.000248432474368	0.0133422852411
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	5	9	0.000426969992632	0.0216243171979
+R-HSA-5362517	Signaling by Retinoic Acid	7	18	0.000450013172794	0.0216243171979
+R-HSA-9634635	Estrogen-stimulated signaling through PRKCZ	4	6	0.000694639645809	0.0253682398649
+R-HSA-9861559	PDH complex synthesizes acetyl-CoA from PYR	4	6	0.000694639645809	0.0253682398649
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	4	6	0.000694639645809	0.0253682398649
+R-HSA-9753510	Signaling by RAS GAP mutants	3	3	0.000625032300136	0.0253682398649
+R-HSA-9753512	Signaling by RAS GTPase mutants	3	3	0.000625032300136	0.0253682398649
+R-HSA-162658	Golgi Cisternae Pericentriolar Stack Reorganization	6	14	0.000636244349157	0.0253682398649
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	5	10	0.000793886980753	0.0278776466703
+R-HSA-9854311	Maturation of TCA enzymes and regulation of TCA cycle	7	20	0.000941541538866	0.0307009794637
+R-HSA-163210	Formation of ATP by chemiosmotic coupling	7	20	0.000941541538866	0.0307009794637
+R-HSA-73817	Purine ribonucleoside monophosphate biosynthesis	5	11	0.001353335111	0.0422151858646
+R-HSA-8949613	Cristae formation	9	33	0.00138713644681	0.0422151858646
+R-HSA-8949664	Processing of SMDT1	6	16	0.00146156662506	0.0430454944735

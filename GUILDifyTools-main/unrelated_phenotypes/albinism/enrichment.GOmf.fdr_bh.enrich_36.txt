@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0004503	tyrosinase activity	2	2	1.88259685069e-05	0.000734212771767
+GO:0098505	G-rich strand telomeric DNA binding	2	9	0.000664691477842	0.0129614838179
+GO:0019003	GDP binding	3	49	0.00125571670131	0.016324317117
+GO:0070773	protein-N-terminal glutamine amidohydrolase activity	1	1	0.00439847836419	0.0245058080291
+GO:0005085	guanyl-nucleotide exchange factor activity	4	133	0.00263292650336	0.0245058080291
+GO:0004838	L-tyrosine-2-oxoglutarate transaminase activity	1	1	0.00439847836419	0.0245058080291
+GO:0008273	calcium, potassium:sodium antiporter activity	1	1	0.00439847836419	0.0245058080291
+GO:0003684	damaged DNA binding	2	31	0.00807879947011	0.0393841474168

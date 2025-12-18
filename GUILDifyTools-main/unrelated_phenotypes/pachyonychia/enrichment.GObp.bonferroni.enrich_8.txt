@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0002009	morphogenesis of an epithelium	2	6	7.90321079403e-06	0.000300322010173
+GO:0061436	establishment of skin barrier	2	20	9.95642980198e-05	0.00378344332475

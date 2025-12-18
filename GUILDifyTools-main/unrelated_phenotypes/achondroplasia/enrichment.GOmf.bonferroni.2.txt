@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0030911	TPR domain binding	3	3	6.48938299719e-05	0.0210904947409

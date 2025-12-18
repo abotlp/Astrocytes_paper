@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904294	positive regulation of ERAD pathway	7	13	2.58969296003e-05	0.0298203144348
+GO:1990000	amyloid fibril formation	8	17	2.36048066668e-05	0.0298203144348

@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	3	5	3.28861778379e-07	2.00605684811e-05
+GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	3	7	1.14588967276e-06	6.98992700384e-05
+GO:0042166	acetylcholine binding	2	5	0.000106190897087	0.00647764472232
+GO:0003684	damaged DNA binding	3	31	0.000139494632463	0.00850917258022
+GO:0015464	acetylcholine receptor activity	2	8	0.000295501085254	0.0180255662005
+GO:0098505	G-rich strand telomeric DNA binding	2	9	0.000379147713151	0.0231280105022
+GO:0043395	heparan sulfate proteoglycan binding	2	10	0.00047295900401	0.0288504992446
+GO:0050750	low-density lipoprotein particle receptor binding	2	12	0.000690820897089	0.0421400747224

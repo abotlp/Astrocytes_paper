@@ -1,0 +1,40 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9845323	Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs)	24	59	2.59167188932e-11	3.03484778239e-08
+R-HSA-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	18	39	6.72678657964e-10	7.87706708476e-07
+R-HSA-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	17	36	1.29546013479e-09	1.51698381784e-06
+R-HSA-3769402	Deactivation of the beta-catenin transactivating complex	17	36	1.29546013479e-09	1.51698381784e-06
+R-HSA-68962	Activation of the pre-replicative complex	16	33	2.45257145976e-09	2.87196117938e-06
+R-HSA-69052	Switching of origins to a post-replicative state	8	8	3.04787780741e-09	3.56906491247e-06
+R-HSA-9010553	Regulation of expression of SLITs and ROBOs	34	132	4.00585421023e-09	4.69085528018e-06
+R-HSA-201722	Formation of the beta-catenin:TCF transactivating complex	19	50	1.2017634303e-08	1.40726497689e-05
+R-HSA-68949	Orc1 removal from chromatin	19	52	2.55390544926e-08	2.99062328109e-05
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	26	95	7.23255580786e-08	8.469322851e-05
+R-HSA-3214858	RMTs methylate histone arginines	17	45	7.86103637252e-08	9.20527359222e-05
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	25	90	9.37396000976e-08	0.000109769071714
+R-HSA-176187	Activation of ATR in response to replication stress	15	36	9.92381950652e-08	0.000116207926421
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	22	75	1.93144982272e-07	0.00022617277424
+R-HSA-9018519	Estrogen-dependent gene expression	28	113	2.28762588167e-07	0.000267880990744
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	8	11	3.96514814586e-07	0.00046431884788
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	24	91	4.86511077394e-07	0.000569704471628
+R-HSA-156902	Peptide chain elongation	20	68	6.61066327325e-07	0.000774108669297
+R-HSA-68867	Assembly of the pre-replicative complex	19	63	8.19460862194e-07	0.000959588669629
+R-HSA-72689	Formation of a pool of free 40S subunits	22	81	8.41955883413e-07	0.000985930339477
+R-HSA-192823	Viral mRNA Translation	20	69	8.56376071717e-07	0.00100281637998
+R-HSA-5617472	Activation of anterior HOX genes in hindbrain development during early embryogenesis	22	83	1.3244925023e-06	0.00155098072019
+R-HSA-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	24	97	1.7077775281e-06	0.0019998074854
+R-HSA-9761174	Formation of intermediate mesoderm	6	7	2.67752411683e-06	0.0031353807408
+R-HSA-390450	Folding of actin by CCT/TriC	7	10	3.37072677377e-06	0.00394712105208
+R-HSA-9633012	Response of EIF2AK4 (GCN2) to amino acid deficiency	21	81	3.38568775371e-06	0.00396464035959
+R-HSA-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	15	46	3.99649437573e-06	0.00467989491398
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	14	42	6.26508039165e-06	0.00733640913862
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	13	37	6.94195124969e-06	0.00812902491338
+R-HSA-72764	Eukaryotic Translation Termination	19	72	7.44339979119e-06	0.00871622115549
+R-HSA-4641265	Repression of WNT target genes	7	11	8.57559770231e-06	0.0100420249094
+R-HSA-2408557	Selenocysteine synthesis	19	73	9.26003479811e-06	0.0108435007486
+R-HSA-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	19	74	1.14657677473e-05	0.013426414032
+R-HSA-3214815	HDACs deacetylate histones	16	56	1.30403076307e-05	0.0152702002356
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	21	91	2.38313460777e-05	0.0279065062569
+R-HSA-3656532	TGFBR1 KD Mutants in Cancer	5	6	2.67255043669e-05	0.0312955656136
+R-HSA-3304356	SMAD2/3 Phosphorylation Motif Mutants in Cancer	5	6	2.67255043669e-05	0.0312955656136
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	2.75803080176e-05	0.0322965406886
+R-HSA-5654700	FRS-mediated FGFR2 signaling	8	17	3.63970340103e-05	0.0426209268261

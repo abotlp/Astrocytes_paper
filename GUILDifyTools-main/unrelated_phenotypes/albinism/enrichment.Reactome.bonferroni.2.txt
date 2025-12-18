@@ -1,0 +1,11 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5389840	Mitochondrial translation elongation	30	87	5.64067404499e-23	3.79617363228e-20
+R-HSA-5368286	Mitochondrial translation initiation	28	87	1.41999799738e-20	9.55658652236e-18
+R-HSA-5419276	Mitochondrial translation termination	28	87	1.41999799738e-20	9.55658652236e-18
+R-HSA-9837999	Mitochondrial protein degradation	24	95	4.12411533271e-15	2.77552961892e-12
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	7	19	1.60979865632e-06	0.0010833944957
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	6	14	3.28090056372e-06	0.00220804607938
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	5	10	9.09869263713e-06	0.00612342014479
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	1.62226345093e-05	0.0109178330248
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	9	52	5.01132410813e-05	0.0337262112477
+R-HSA-6799198	Complex I biogenesis	10	65	5.51581730402e-05	0.0371214504561

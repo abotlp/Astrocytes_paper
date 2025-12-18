@@ -1,0 +1,5 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	6	52	3.80261896712e-08	5.2856403643e-06
+R-HSA-5662702	Melanin biosynthesis	3	4	2.09298553232e-07	2.90924988993e-05
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	5	85	1.67336494466e-05	0.00232597727307
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	4	66	0.000112796534421	0.0156787182845

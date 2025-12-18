@@ -1,0 +1,12 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0106071	positive regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	6	1.69530038765e-06	9.83274224835e-05
+GO:0106072	negative regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	2	7	2.37311323417e-06	0.000137640567582
+GO:1903077	negative regulation of protein localization to plasma membrane	2	19	1.92939078355e-05	0.00111904665446
+GO:0032986	protein-DNA complex disassembly	1	1	0.000388274121529	0.0225198990487
+GO:0090096	positive regulation of metanephric cap mesenchymal cell proliferation	1	1	0.000388274121529	0.0225198990487
+GO:1902178	fibroblast growth factor receptor apoptotic signaling pathway	1	1	0.000388274121529	0.0225198990487
+GO:0048640	negative regulation of developmental growth	1	1	0.000388274121529	0.0225198990487
+GO:0072659	protein localization to plasma membrane	2	105	0.000609207453869	0.0353340323244
+GO:0016072	rRNA metabolic process	1	2	0.00077643516449	0.0450332395404
+GO:0070977	bone maturation	1	2	0.00077643516449	0.0450332395404
+GO:0006112	energy reserve metabolic process	1	2	0.00077643516449	0.0450332395404

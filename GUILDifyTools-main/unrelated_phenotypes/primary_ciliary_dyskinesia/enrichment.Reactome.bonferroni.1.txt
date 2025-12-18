@@ -1,0 +1,29 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	13	49	2.12173965526e-12	1.13088723625e-09
+R-HSA-437239	Recycling pathway of L1	9	39	2.24931248095e-08	1.19888355235e-05
+R-HSA-389960	Formation of tubulin folding intermediates by CCT/TriC	7	21	5.29038967137e-08	2.81977769484e-05
+R-HSA-9619483	Activation of AMPK downstream of NMDARs	7	22	7.64149107666e-08	4.07291474386e-05
+R-HSA-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	6	14	8.58172128037e-08	4.57405744244e-05
+R-HSA-5626467	RHO GTPases activate IQGAPs	7	23	1.08179778421e-07	5.76598218981e-05
+R-HSA-5617833	Cilium Assembly	6	15	1.40889206596e-07	7.50939471156e-05
+R-HSA-9833482	PKR-mediated signaling	10	64	1.89444784522e-07	0.00010097407015
+R-HSA-380320	Recruitment of NuMA to mitotic centrosomes	11	84	2.93859786237e-07	0.000156627266064
+R-HSA-389977	Post-chaperonin tubulin folding pathway	6	18	4.99480144526e-07	0.000266222917032
+R-HSA-6811436	COPI-independent Golgi-to-ER retrograde traffic	8	44	9.95770218031e-07	0.00053074552621
+R-HSA-9646399	Aggrephagy	7	32	1.29446015288e-06	0.000689947261484
+R-HSA-389957	Prefoldin mediated transfer of substrate  to CCT/TriC	6	24	3.30877667717e-06	0.00176357796893
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	8	54	5.0110900902e-06	0.00267091101808
+R-HSA-9668328	Sealing of the nuclear envelope (NE) by ESCRT-III	6	26	5.49211451347e-06	0.00292729703568
+R-HSA-190861	Gap junction assembly	6	28	8.72104001244e-06	0.00464831432663
+R-HSA-5663220	RHO GTPases Activate Formins	11	123	1.32487020679e-05	0.00706155820217
+R-HSA-3371511	HSF1 activation	4	10	1.99859613558e-05	0.0106525174026
+R-HSA-9634285	Constitutive Signaling by Overexpressed ERBB2	4	10	1.99859613558e-05	0.0106525174026
+R-HSA-8955332	Carboxyterminal post-translational modifications of tubulin	6	33	2.37847166301e-05	0.0126772539638
+R-HSA-2132295	MHC class II antigen presentation	10	111	3.09905761672e-05	0.0165179770971
+R-HSA-9609690	HCMV Early Events	9	89	3.10610775195e-05	0.0165555543179
+R-HSA-6807878	COPI-mediated anterograde transport	9	91	3.7133003449e-05	0.0197918908383
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	10	115	4.21160318745e-05	0.0224478449891
+R-HSA-9609736	Assembly and cell surface presentation of NMDA receptors	6	37	4.7017677645e-05	0.0250604221848
+R-HSA-983189	Kinesins	7	54	4.87146172111e-05	0.0259648909735
+R-HSA-1445148	Translocation of SLC2A4 (GLUT4) to the plasma membrane	7	58	7.78279407961e-05	0.0414822924443
+R-HSA-68877	Mitotic Prometaphase	9	101	8.47628127076e-05	0.0451785791732

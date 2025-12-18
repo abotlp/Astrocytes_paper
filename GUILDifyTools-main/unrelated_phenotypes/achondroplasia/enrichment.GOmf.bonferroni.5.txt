@@ -1,0 +1,2 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031490	chromatin DNA binding	12	33	4.43152486761e-05	0.0284060744014

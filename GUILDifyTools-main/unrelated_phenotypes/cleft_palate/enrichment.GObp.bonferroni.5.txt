@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0045944	positive regulation of transcription by RNA polymerase II	140	781	9.87971061911e-21	2.68135346203e-17
+GO:0045892	negative regulation of DNA-templated transcription	83	384	2.46673946073e-17	6.69473089643e-14
+GO:0045893	positive regulation of DNA-templated transcription	86	435	1.89635433378e-15	5.14670566187e-12
+GO:0000122	negative regulation of transcription by RNA polymerase II	96	537	3.11466099198e-14	8.45318993222e-11
+GO:1902895	positive regulation of miRNA transcription	19	42	1.0601754365e-10	2.87731613466e-07
+GO:0006338	chromatin remodeling	31	116	1.45493057127e-09	3.94868157042e-06
+GO:0032212	positive regulation of telomere maintenance via telomerase	12	21	1.05848947903e-08	2.87274044608e-05
+GO:0048701	embryonic cranial skeleton morphogenesis	8	9	1.46663489193e-08	3.98044709669e-05
+GO:0006337	nucleosome disassembly	10	16	5.72446961312e-08	0.0001553621053
+GO:0051086	chaperone mediated protein folding independent of cofactor	7	8	1.62863919628e-07	0.000442012677872
+GO:1902894	negative regulation of miRNA transcription	11	23	4.88681831988e-07	0.00132628249201
+GO:0001822	kidney development	14	45	7.0155839573e-06	0.0190402948601
+GO:0001837	epithelial to mesenchymal transition	12	36	1.44448141155e-05	0.0392032255096

@@ -1,0 +1,14 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0032543	mitochondrial translation	15	22	3.05728376397e-12	5.92501593457e-09
+GO:0048490	anterograde synaptic vesicle transport	10	15	2.08336936322e-08	2.01878491296e-05
+GO:0032981	mitochondrial respiratory chain complex I assembly	19	57	3.95287557774e-08	2.55355762322e-05
+GO:0008089	anterograde axonal transport	11	20	6.80391951224e-08	3.29649900368e-05
+GO:0045109	intermediate filament organization	9	14	1.76248658131e-07	6.83139798917e-05
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	7	12	1.12235536535e-05	0.00362520783008
+GO:0042633	hair cycle	5	6	1.80273272712e-05	0.00499099432164
+GO:1903543	positive regulation of exosomal secretion	7	14	4.21623484659e-05	0.00907895903631
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis	7	14	4.21623484659e-05	0.00907895903631
+GO:0002082	regulation of oxidative phosphorylation	5	8	0.000146776242987	0.0258593053554
+GO:0006390	mitochondrial transcription	5	8	0.000146776242987	0.0258593053554
+GO:0070129	regulation of mitochondrial translation	4	5	0.000189415590721	0.0305906179014
+GO:0044571	[2Fe-2S] cluster assembly	5	9	0.00030851343534	0.0459922336683

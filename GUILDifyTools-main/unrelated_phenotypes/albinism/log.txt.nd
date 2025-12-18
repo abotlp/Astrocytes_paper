@@ -1,0 +1,2 @@
+Arguments: scoring type d, nRepetition 1, nIteration 1, nodeFile /home/patricia/GUILDifyTools-main/albinism/node_scores.txt, edgeFile /home/patricia/GUILDifyTools-main/albinism/edge_scores_as_node_scores.txt, outputFile /home/patricia/GUILDifyTools-main/albinism/output_scores.txt.nd
+Time: 4020320000 (4020.32s)

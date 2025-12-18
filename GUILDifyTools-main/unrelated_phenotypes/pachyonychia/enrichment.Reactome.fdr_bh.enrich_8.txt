@@ -1,0 +1,29 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6809371	Formation of the cornified envelope	4	115	1.31024746746e-06	4.02607799697e-05
+R-HSA-6805567	Keratinization	4	128	2.01303899849e-06	4.02607799697e-05
+R-HSA-352238	Breakdown of the nuclear lamina	1	3	0.00249428279973	0.0332571039965
+R-HSA-3371511	HSF1 activation	1	10	0.00829311681034	0.0382063421896
+R-HSA-110320	Translesion Synthesis by POLH	1	15	0.0124170612116	0.0382063421896
+R-HSA-5655862	Translesion synthesis by POLK	1	13	0.0107692876762	0.0382063421896
+R-HSA-5656121	Translesion synthesis by POLI	1	13	0.0107692876762	0.0382063421896
+R-HSA-110312	Translesion synthesis by REV1	1	12	0.00994449917204	0.0382063421896
+R-HSA-69166	Removal of the Flap Intermediate	1	14	0.0115934748977	0.0382063421896
+R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	1	14	0.0115934748977	0.0382063421896
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	1	15	0.0124170612116	0.0382063421896
+R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	1	14	0.0115934748977	0.0382063421896
+R-HSA-2980766	Nuclear Envelope Breakdown	1	9	0.00746652220041	0.0382063421896
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	1	19	0.0157054049033	0.0385466245805
+R-HSA-5651801	PCNA-Dependent Long Patch Base Excision Repair	1	21	0.0173459810612	0.0385466245805
+R-HSA-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER	1	21	0.0173459810612	0.0385466245805
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	1	17	0.0140624326198	0.0385466245805
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	1	21	0.0173459810612	0.0385466245805
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	1	24	0.0198023591151	0.0416891770844
+R-HSA-6783310	Fanconi Anemia Pathway	1	34	0.0279515271341	0.0438136705631
+R-HSA-5656169	Termination of translesion DNA synthesis	1	28	0.0230691713496	0.0438136705631
+R-HSA-176187	Activation of ATR in response to replication stress	1	36	0.0295742276301	0.0438136705631
+R-HSA-68962	Activation of the pre-replicative complex	1	33	0.0271392869229	0.0438136705631
+R-HSA-5696395	Formation of Incision Complex in GG-NER	1	35	0.028763173913	0.0438136705631
+R-HSA-5696400	Dual Incision in GG-NER	1	36	0.0295742276301	0.0438136705631
+R-HSA-9709570	Impaired BRCA2 binding to RAD51	1	34	0.0279515271341	0.0438136705631
+R-HSA-5685938	HDR through Single Strand Annealing (SSA)	1	36	0.0295742276301	0.0438136705631
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	1	39	0.0320038341271	0.0457197630387

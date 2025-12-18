@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0034714	type III transforming growth factor beta receptor binding	4	4	1.26120766369e-07	2.61069986385e-05
+GO:0005114	type II transforming growth factor beta receptor binding	4	7	4.22066982257e-06	0.000873678653273
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	28	646	2.88566509867e-05	0.00597332675425
+GO:0005007	fibroblast growth factor receptor activity	3	5	6.56731537117e-05	0.0135943428183
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	3	5	6.56731537117e-05	0.0135943428183
+GO:0003735	structural constituent of ribosome	8	79	0.000119309123599	0.024696988585
+GO:0034713	type I transforming growth factor beta receptor binding	3	6	0.00012951022484	0.0268086165418

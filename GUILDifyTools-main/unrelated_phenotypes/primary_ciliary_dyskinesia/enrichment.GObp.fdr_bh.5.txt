@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0061077	chaperone-mediated protein folding	12	26	2.31591369605e-07	0.000515985571479
+GO:0006413	translational initiation	10	26	1.75808095734e-05	0.0195850218648

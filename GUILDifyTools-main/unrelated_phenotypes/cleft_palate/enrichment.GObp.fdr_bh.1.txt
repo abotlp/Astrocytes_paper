@@ -1,0 +1,77 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048701	embryonic cranial skeleton morphogenesis	7	9	6.70532147732e-12	6.08172657993e-09
+GO:0008543	fibroblast growth factor receptor signaling pathway	7	21	1.85127918734e-08	8.39555111459e-06
+GO:0060021	roof of mouth development	6	15	5.69692613095e-08	1.72237066692e-05
+GO:0048839	inner ear development	6	16	8.99842035963e-08	2.04039181655e-05
+GO:0045944	positive regulation of transcription by RNA polymerase II	32	781	3.0231143228e-07	5.48392938157e-05
+GO:0007435	salivary gland morphogenesis	3	3	3.67735905781e-06	0.000423729347577
+GO:0032570	response to progesterone	4	8	3.73741431159e-06	0.000423729347577
+GO:0045893	positive regulation of DNA-templated transcription	21	435	3.54545753899e-06	0.000423729347577
+GO:0010718	positive regulation of epithelial to mesenchymal transition	7	45	5.28269048933e-06	0.000532377808202
+GO:0001501	skeletal system development	5	19	8.27766665964e-06	0.000750784366029
+GO:0060325	face morphogenesis	4	10	1.09426538383e-05	0.000827082252613
+GO:0045216	cell-cell junction organization	4	10	1.09426538383e-05	0.000827082252613
+GO:0003149	membranous septum morphogenesis	3	4	1.45412610575e-05	0.00087926158528
+GO:0001701	in utero embryonic development	5	21	1.41262647608e-05	0.00087926158528
+GO:1905007	positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	3	4	1.45412610575e-05	0.00087926158528
+GO:0010936	negative regulation of macrophage cytokine production	3	5	3.5937809936e-05	0.00181086631178
+GO:0062009	secondary palate development	4	13	3.59229654015e-05	0.00181086631178
+GO:0042472	inner ear morphogenesis	4	13	3.59229654015e-05	0.00181086631178
+GO:0071480	cellular response to gamma radiation	4	16	8.8170140363e-05	0.00420896406891
+GO:0007179	transforming growth factor beta receptor signaling pathway	6	49	0.000102870899943	0.00466519531239
+GO:1901203	positive regulation of extracellular matrix assembly	3	7	0.000122927543774	0.00530929915252
+GO:0008284	positive regulation of cell population proliferation	13	249	0.000131478745742	0.00542051010856
+GO:1905005	regulation of epithelial to mesenchymal transition involved in endocardial cushion formation	2	2	0.000239726571488	0.00603977778721
+GO:0071163	DNA replication preinitiation complex assembly	2	2	0.000239726571488	0.00603977778721
+GO:0016202	regulation of striated muscle tissue development	2	2	0.000239726571488	0.00603977778721
+GO:1905075	positive regulation of tight junction disassembly	2	2	0.000239726571488	0.00603977778721
+GO:0070723	response to cholesterol	3	8	0.000194441621449	0.00603977778721
+GO:0050881	musculoskeletal movement	2	2	0.000239726571488	0.00603977778721
+GO:0000122	negative regulation of transcription by RNA polymerase II	20	537	0.000239373862805	0.00603977778721
+GO:0006364	rRNA processing	5	35	0.000189073586	0.00603977778721
+GO:0048557	embryonic digestive tract morphogenesis	3	8	0.000194441621449	0.00603977778721
+GO:0030199	collagen fibril organization	4	20	0.000223609037893	0.00603977778721
+GO:0007507	heart development	7	79	0.000216972849825	0.00603977778721
+GO:2000104	negative regulation of DNA-templated DNA replication	2	2	0.000239726571488	0.00603977778721
+GO:0060391	positive regulation of SMAD protein signal transduction	5	34	0.00016410399108	0.00603977778721
+GO:0001837	epithelial to mesenchymal transition	5	36	0.000216839459858	0.00603977778721
+GO:0002053	positive regulation of mesenchymal cell proliferation	3	9	0.000288339452604	0.0070682130679
+GO:1902895	positive regulation of miRNA transcription	5	42	0.000453944392694	0.0108349358993
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	8	122	0.000611733738471	0.0142267307896
+GO:0001822	kidney development	5	45	0.000628015028271	0.014240240766
+GO:0043584	nose development	2	3	0.000711824996366	0.0146733016296
+GO:0048630	skeletal muscle tissue growth	2	3	0.000711824996366	0.0146733016296
+GO:0060501	positive regulation of epithelial cell proliferation involved in lung morphogenesis	2	3	0.000711824996366	0.0146733016296
+GO:1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	2	3	0.000711824996366	0.0146733016296
+GO:0006270	DNA replication initiation	3	12	0.000729691829017	0.0147073441982
+GO:0050680	negative regulation of epithelial cell proliferation	4	28	0.000857880774888	0.0169151709309
+GO:0060349	bone morphogenesis	3	13	0.000937822488073	0.0180979786528
+GO:0045786	negative regulation of cell cycle	4	29	0.000983211506635	0.0181994456432
+GO:0003180	aortic valve morphogenesis	4	29	0.000983211506635	0.0181994456432
+GO:0034088	maintenance of mitotic sister chromatid cohesion	2	4	0.00140910873166	0.0224185575085
+GO:0051451	myoblast migration	2	4	0.00140910873166	0.0224185575085
+GO:0007274	neuromuscular synaptic transmission	2	4	0.00140910873166	0.0224185575085
+GO:1904018	positive regulation of vasculature development	2	4	0.00140910873166	0.0224185575085
+GO:0032909	regulation of transforming growth factor beta2 production	2	4	0.00140910873166	0.0224185575085
+GO:0055001	muscle cell development	2	4	0.00140910873166	0.0224185575085
+GO:0001658	branching involved in ureteric bud morphogenesis	3	15	0.00145831851488	0.0224185575085
+GO:0050679	positive regulation of epithelial cell proliferation	4	32	0.00143577312303	0.0224185575085
+GO:0003274	endocardial cushion fusion	2	4	0.00140910873166	0.0224185575085
+GO:0006355	regulation of DNA-templated transcription	9	172	0.00142745287287	0.0224185575085
+GO:0030308	negative regulation of cell growth	6	80	0.00148905808486	0.0225095947162
+GO:0003184	pulmonary valve morphogenesis	3	17	0.00213034884203	0.0316758426184
+GO:1902462	positive regulation of mesenchymal stem cell proliferation	2	5	0.00232455601275	0.0329433172432
+GO:0003179	heart valve morphogenesis	2	5	0.00232455601275	0.0329433172432
+GO:0010518	positive regulation of phospholipase activity	2	5	0.00232455601275	0.0329433172432
+GO:0060271	cilium assembly	8	151	0.00241721561679	0.0337294548374
+GO:0043536	positive regulation of blood vessel endothelial cell migration	4	37	0.00248308584502	0.0341236191126
+GO:0045892	negative regulation of DNA-templated transcription	14	384	0.00259358527919	0.0351101768391
+GO:0051897	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	7	121	0.00274858168926	0.0366612292964
+GO:0003007	heart morphogenesis	3	19	0.0029674330804	0.0390066928104
+GO:0030174	regulation of DNA-templated DNA replication initiation	2	6	0.00345130652067	0.0411886186085
+GO:0035265	organ growth	2	6	0.00345130652067	0.0411886186085
+GO:0021983	pituitary gland development	2	6	0.00345130652067	0.0411886186085
+GO:0048762	mesenchymal cell differentiation	2	6	0.00345130652067	0.0411886186085
+GO:0032873	negative regulation of stress-activated MAPK cascade	2	6	0.00345130652067	0.0411886186085
+GO:0010628	positive regulation of gene expression	11	271	0.00332049220024	0.0411886186085
+GO:0046849	bone remodeling	2	6	0.00345130652067	0.0411886186085

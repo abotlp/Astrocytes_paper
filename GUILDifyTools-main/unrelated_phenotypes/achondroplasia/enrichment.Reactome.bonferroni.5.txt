@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9665348	Signaling by ERBB2 ECD mutants	9	15	8.78088865364e-07	0.000973800551689
+R-HSA-9664565	Signaling by ERBB2 KD Mutants	10	22	5.99572730261e-06	0.0066492615786
+R-HSA-5637810	Constitutive Signaling by EGFRvIII	8	14	6.11971312067e-06	0.00678676185082
+R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	8	14	6.11971312067e-06	0.00678676185082
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	18	66	8.92505368537e-06	0.00989788453707
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	7	11	9.14318916255e-06	0.0101397967813
+R-HSA-9665686	Signaling by ERBB2 TMD/JMD mutants	9	19	1.17427873446e-05	0.0130227511652
+R-HSA-5655332	Signaling by FGFR3 in disease	8	15	1.21101408409e-05	0.0134301461926
+R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	5	6	2.80175996563e-05	0.0310715180188
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	6	9	2.91480302101e-05	0.032325165503
+R-HSA-1221632	Meiotic synapsis	15	53	3.07277731059e-05	0.0340771003744
+R-HSA-5654706	FRS-mediated FGFR3 signaling	7	13	4.06419799527e-05	0.0450719557675

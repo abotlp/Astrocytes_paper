@@ -1,0 +1,15 @@
+BIANA ID	UniProt ID	Gene Symbol	Description	Gene ID	Equivalent Entries
+28366	Q9H1X1	RSPH9	RecName: Full=Radial spoke head protein 9 homolog;	221421	-
+17111	O75800	ZMYND10	RecName: Full=Zinc finger MYND domain-containing protein 10 {ECO:0000305}; AltName: Full=Protein BLu {ECO:0000303|Ref.1};	51364	-
+50477	Q8WXU2	DNAAF4	RecName: Full=Dynein axonemal assembly factor 4 {ECO:0000312|HGNC:HGNC:21493}; AltName: Full=Dyslexia susceptibility 1 candidate gene 1 protein;	161582	-
+49118	O95995	GAS8	RecName: Full=Dynein regulatory complex subunit 4 {ECO:0000303|PubMed:27120127}; AltName: Full=Growth arrest-specific protein 11; Short=GAS-11; AltName: Full=Growth arrest-specific protein 8; Short=GAS-8;	2622	-
+28369	Q8WYR4	RSPH1	RecName: Full=Radial spoke head 1 homolog; AltName: Full=Cancer/testis antigen 79; Short=CT79; AltName: Full=Male meiotic metaphase chromosome-associated acidic protein; AltName: Full=Meichroacidin; AltName: Full=Testis-specific gene A2 protein;	89765	-
+53173	P49454	CENPF	RecName: Full=Centromere protein F; Short=CENP-F; AltName: Full=AH antigen; AltName: Full=Kinetochore protein CENPF; AltName: Full=Mitosin; Flags: Precursor;	1063	-
+43053	Q4G0P3	HYDIN	RecName: Full=Hydrocephalus-inducing protein homolog;	54768	-
+53013	P57076	CFAP298	RecName: Full=Cilia- and flagella-associated protein 298 {ECO:0000305}; AltName: Full=Protein kurly homolog {ECO:0000305};	56683	-
+28764	Q92834	RPGR	RecName: Full=X-linked retinitis pigmentosa GTPase regulator; Flags: Precursor;	6103	-
+54022	Q8IW40	CCDC103	RecName: Full=Coiled-coil domain-containing protein 103;	388389	-
+49123	Q96MC2	DRC1	RecName: Full=Dynein regulatory complex protein 1; AltName: Full=Coiled-coil domain-containing protein 164;	92749	-
+48891	Q96DT5	DNAH11	RecName: Full=Dynein axonemal heavy chain 11 {ECO:0000305}; AltName: Full=Axonemal beta dynein heavy chain 11; AltName: Full=Ciliary dynein heavy chain 11;	8701	-
+25505	Q07617	SPAG1	RecName: Full=Sperm-associated antigen 1; AltName: Full=HSD-3.8; AltName: Full=Infertility-related sperm protein Spag-1;	6674	-
+40626	Q9NVR5	DNAAF2	RecName: Full=Protein kintoun {ECO:0000255|HAMAP-Rule:MF_03069}; AltName: Full=Dynein assembly factor 2, axonemal {ECO:0000255|HAMAP-Rule:MF_03069};	55172	-

@@ -1,0 +1,28 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-5389840	Mitochondrial translation elongation	30	87	5.64067404499e-23	3.79617363228e-20
+R-HSA-5368286	Mitochondrial translation initiation	28	87	1.41999799738e-20	3.18552884079e-18
+R-HSA-5419276	Mitochondrial translation termination	28	87	1.41999799738e-20	3.18552884079e-18
+R-HSA-9837999	Mitochondrial protein degradation	24	95	4.12411533271e-15	6.93882404729e-13
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	7	19	1.60979865632e-06	0.000216678899141
+R-HSA-204174	Regulation of pyruvate dehydrogenase (PDH) complex	6	14	3.28090056372e-06	0.000368007679897
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	5	10	9.09869263713e-06	0.000874774306399
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	1.62226345093e-05	0.0013647291281
+R-HSA-6799198	Complex I biogenesis	10	65	5.51581730402e-05	0.00371214504561
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	9	52	5.01132410813e-05	0.00371214504561
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	5	15	9.43476513267e-05	0.00577236084935
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	4	9	0.000137798620572	0.00704395569094
+R-HSA-5662702	Melanin biosynthesis	3	4	0.000146531024774	0.00704395569094
+R-HSA-2980766	Nuclear Envelope Breakdown	4	9	0.000137798620572	0.00704395569094
+R-HSA-5362517	Signaling by Retinoic Acid	5	18	0.000247700223597	0.0111134833654
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	4	11	0.000342099108536	0.0141407461087
+R-HSA-9636383	Prevention of phagosomal-lysosomal fusion	3	5	0.000357195666937	0.0141407461087
+R-HSA-6809371	Formation of the cornified envelope	12	115	0.000466448031534	0.0174399736235
+R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	5	21	0.00054143693705	0.0191782662439
+R-HSA-5213460	RIPK1-mediated regulated necrosis	5	22	0.000681596198408	0.0229357120764
+R-HSA-162658	Golgi Cisternae Pericentriolar Stack Reorganization	4	14	0.000957888426264	0.030698043375
+R-HSA-1268020	Mitochondrial protein import	8	62	0.0010343643527	0.0316421458803
+R-HSA-5628897	TP53 Regulates Metabolic Genes	9	78	0.00115581826632	0.033820247532
+R-HSA-6805567	Keratinization	12	128	0.00121686808495	0.0340801393221
+R-HSA-5205685	PINK1-PRKN Mediated Mitophagy	5	25	0.0012659784295	0.0340801393221
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	8	66	0.00156459433171	0.0404989225092
+R-HSA-611105	Respiratory electron transport	9	84	0.00195744127651	0.0487910362628

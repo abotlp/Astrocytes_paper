@@ -1,0 +1,6 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042633	hair cycle	5	6	5.19214700959e-09	3.77469087597e-06
+GO:0045104	intermediate filament cytoskeleton organization	4	9	6.81260881625e-06	0.00495276660941
+GO:0006998	nuclear envelope organization	4	12	2.57989472777e-05	0.0187558346709
+GO:1904294	positive regulation of ERAD pathway	4	13	3.68122372628e-05	0.0267624964901
+GO:0045109	intermediate filament organization	4	14	5.09110467083e-05	0.0370123309569

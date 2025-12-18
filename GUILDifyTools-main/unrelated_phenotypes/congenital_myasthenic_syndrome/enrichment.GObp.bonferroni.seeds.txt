@@ -1,0 +1,7 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0050881	musculoskeletal movement	2	2	1.97887500051e-06	0.000108838125028
+GO:0048630	skeletal muscle tissue growth	2	3	5.93162978323e-06	0.000326239638078
+GO:0071340	skeletal muscle acetylcholine-gated channel clustering	2	3	5.93162978323e-06	0.000326239638078
+GO:0007274	neuromuscular synaptic transmission	2	4	1.18532778598e-05	0.000651930282287
+GO:0007271	synaptic transmission, cholinergic	2	5	1.97388414596e-05	0.00108563628028
+GO:0007528	neuromuscular junction development	2	9	7.08210001291e-05	0.0038951550071

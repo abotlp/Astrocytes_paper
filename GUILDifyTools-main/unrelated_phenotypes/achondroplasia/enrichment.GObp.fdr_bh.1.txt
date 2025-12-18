@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0031396	regulation of protein ubiquitination	4	12	3.74383134783e-05	0.0276727440893
+GO:1901526	positive regulation of mitophagy	4	14	7.36957232739e-05	0.0276727440893

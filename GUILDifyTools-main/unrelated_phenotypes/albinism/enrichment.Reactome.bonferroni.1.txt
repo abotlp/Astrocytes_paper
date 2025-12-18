@@ -1,0 +1,13 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-432722	Golgi Associated Vesicle Biogenesis	9	52	1.73343598214e-07	7.31509984463e-05
+R-HSA-9837999	Mitochondrial protein degradation	11	95	5.09584056992e-07	0.000215044472051
+R-HSA-9735871	SARS-CoV-1 targets host intracellular signalling and regulatory pathways	5	11	5.4346378732e-07	0.000229341718249
+R-HSA-9755779	SARS-CoV-2 targets host intracellular signalling and regulatory pathways	4	9	9.16182276437e-06	0.00386628920656
+R-HSA-2980766	Nuclear Envelope Breakdown	4	9	9.16182276437e-06	0.00386628920656
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	4	10	1.50693580348e-05	0.0063592690907
+R-HSA-5662702	Melanin biosynthesis	3	4	1.8551831762e-05	0.00782887300356
+R-HSA-111447	Activation of BAD and translocation to mitochondria 	4	11	2.33698690332e-05	0.00986208473202
+R-HSA-9636383	Prevention of phagosomal-lysosomal fusion	3	5	4.5804611514e-05	0.0193295460589
+R-HSA-8854214	TBC/RABGAPs	6	42	6.62124966669e-05	0.0279416735934
+R-HSA-8876198	RAB GEFs exchange GTP for GDP on RABs	8	85	8.74637696145e-05	0.0369097107773
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	9.17002230771e-05	0.0386974941386

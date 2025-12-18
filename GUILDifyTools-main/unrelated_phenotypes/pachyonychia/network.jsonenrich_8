@@ -1,0 +1,63 @@
+[
+{
+ data: { id: "DB01593", size: 100.000000, xref: "DB01593", label: "Zinc", score: 1.000000, rank: "1", type: "drug" } 
+},
+{
+ data: { id: "15936", size: 33.308200, xref: "P02545", label: "LMNA", score: 0.333082, rank: "6", type: "non-seed" } 
+}, {
+ data: { id: "41647", size: 96.353700, xref: "Q04695", label: "KRT17", score: 0.963537, rank: "4", type: "seed" } 
+}, {
+ data: { id: "41649", size: 96.729800, xref: "P08779", label: "KRT16", score: 0.967298, rank: "3", type: "seed" } 
+}, {
+ data: { id: "41588", size: 96.948100, xref: "P02538", label: "KRT6A", score: 0.969481, rank: "2", type: "seed" } 
+}, {
+ data: { id: "51179", size: 26.433700, xref: "A8MQ03", label: "CYSRT1", score: 0.264337, rank: "7", type: "non-seed" } 
+}, {
+ data: { id: "11875", size: 56.955300, xref: "P27694", label: "RPA1", score: 0.569553, rank: "5", type: "non-seed" } 
+}, {
+ data: { id: "41586", size: 100.000000, xref: "P04259", label: "KRT6B", score: 1.000000, rank: "1", type: "seed" } 
+}, {
+ data: { id: "12130", size: 25.834100, xref: "P62258", label: "YWHAE", score: 0.258341, rank: "8", type: "non-seed" } 
+},
+{
+ data: { id: "41649-DB01593", source: "41649", target: "DB01593" } 
+},
+{
+ data: { id: "41588-DB01593", source: "41588", target: "DB01593" } 
+},
+{
+ data: { id: "11875-41588", source: "11875", target: "41588" } 
+}, {
+ data: { id: "11875-12130", source: "11875", target: "12130" } 
+}, {
+ data: { id: "11875-15936", source: "11875", target: "15936" } 
+}, {
+ data: { id: "11875-41649", source: "11875", target: "41649" } 
+}, {
+ data: { id: "41588-41586", source: "41588", target: "41586" } 
+}, {
+ data: { id: "41588-41647", source: "41588", target: "41647" } 
+}, {
+ data: { id: "41588-41649", source: "41588", target: "41649" } 
+}, {
+ data: { id: "41588-12130", source: "41588", target: "12130" } 
+}, {
+ data: { id: "41588-15936", source: "41588", target: "15936" } 
+}, {
+ data: { id: "41588-51179", source: "41588", target: "51179" } 
+}, {
+ data: { id: "41586-41647", source: "41586", target: "41647" } 
+}, {
+ data: { id: "41586-41649", source: "41586", target: "41649" } 
+}, {
+ data: { id: "51179-41649", source: "51179", target: "41649" } 
+}, {
+ data: { id: "51179-15936", source: "51179", target: "15936" } 
+}, {
+ data: { id: "12130-15936", source: "12130", target: "15936" } 
+}, {
+ data: { id: "12130-41649", source: "12130", target: "41649" } 
+}, {
+ data: { id: "15936-41649", source: "15936", target: "41649" } 
+}
+]

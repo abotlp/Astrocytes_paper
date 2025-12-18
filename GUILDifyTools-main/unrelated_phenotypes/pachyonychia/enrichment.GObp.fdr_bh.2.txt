@@ -1,0 +1,18 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0042633	hair cycle	5	6	2.22122590828e-07	0.000270545315628
+GO:0061077	chaperone-mediated protein folding	8	26	1.20380187326e-06	0.000733115340813
+GO:0002009	morphogenesis of an epithelium	4	6	1.65928937291e-05	0.00673671485402
+GO:0032212	positive regulation of telomere maintenance via telomerase	6	21	4.40765666021e-05	0.0107370516243
+GO:0050821	protein stabilization	17	168	3.87908664652e-05	0.0107370516243
+GO:0051086	chaperone mediated protein folding independent of cofactor	4	8	7.34541523632e-05	0.0149111929297
+GO:0045104	intermediate filament cytoskeleton organization	4	9	0.000128780760878	0.0196068708436
+GO:1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	4	9	0.000128780760878	0.0196068708436
+GO:0042026	protein refolding	4	10	0.00020906158877	0.0282930016802
+GO:0070934	CRD-mediated mRNA stabilization	4	11	0.000320004335212	0.0389765280288
+GO:0006298	mismatch repair	4	12	0.000467569992694	0.0438077116232
+GO:0006998	nuclear envelope organization	4	12	0.000467569992694	0.0438077116232
+GO:0031396	regulation of protein ubiquitination	4	12	0.000467569992694	0.0438077116232
+GO:0048660	regulation of smooth muscle cell proliferation	3	6	0.000661708148075	0.0474094426092
+GO:1904294	positive regulation of ERAD pathway	4	13	0.000657899575401	0.0474094426092
+GO:0032873	negative regulation of stress-activated MAPK cascade	3	6	0.000661708148075	0.0474094426092
+GO:0006754	ATP biosynthetic process	3	6	0.000661708148075	0.0474094426092

@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0070286	axonemal dynein complex assembly	4	12	1.55625666391e-08	1.83638286342e-06
+GO:0036159	inner dynein arm assembly	3	13	4.01396349754e-06	0.00047364769271
+GO:0036158	outer dynein arm assembly	3	15	6.3644851038e-06	0.000751009242249
+GO:0035082	axoneme assembly	3	17	9.47993554377e-06	0.00111863239416
+GO:0003341	cilium movement	3	27	4.01002294872e-05	0.0047318270795
+GO:0060285	cilium-dependent cell motility	2	5	6.09659296363e-05	0.00719397969709
+GO:0006298	mismatch repair	2	12	0.000398023305693	0.0469667500718

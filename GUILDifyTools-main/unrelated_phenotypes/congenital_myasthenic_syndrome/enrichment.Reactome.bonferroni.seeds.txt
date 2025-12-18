@@ -1,0 +1,4 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-3000178	ECM proteoglycans	3	70	0.000157935256591	0.00442218718456
+R-HSA-4085023	Defective GFPT1 causes CMSTA1	1	1	0.00156006240247	0.0436817472692
+R-HSA-4549349	Defective ALG2 causes CDG-1i	1	1	0.00156006240247	0.0436817472692

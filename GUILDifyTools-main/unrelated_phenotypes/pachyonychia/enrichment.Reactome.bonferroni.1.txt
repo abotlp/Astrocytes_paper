@@ -1,0 +1,10 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-6809371	Formation of the cornified envelope	49	115	1.22413789723e-58	5.28827571603e-56
+R-HSA-6805567	Keratinization	49	128	8.44244444225e-56	3.64713599905e-53
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	9	66	1.35373863832e-06	0.000584815091753
+R-HSA-9725554	Differentiation of keratinocytes in interfollicular epidermis in mammalian skin	7	36	1.79758406834e-06	0.000776556317521
+R-HSA-2995383	Initiation of Nuclear Envelope (NE) Reformation	5	19	1.18977868306e-05	0.0051398439108
+R-HSA-3371511	HSF1 activation	4	10	1.47046953637e-05	0.00635242839714
+R-HSA-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	5	21	2.02641269386e-05	0.00875410283748
+R-HSA-4419969	Depolymerization of the Nuclear Lamina	4	15	8.95185994356e-05	0.0386720349562
+R-HSA-110320	Translesion Synthesis by POLH	4	15	8.95185994356e-05	0.0386720349562

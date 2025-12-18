@@ -1,0 +1,20 @@
+BIANA ID	UniProt ID	Gene Symbol	Description	Gene ID	Equivalent Entries
+13207	Q10713	PMPCA	RecName: Full=Mitochondrial-processing peptidase subunit alpha; AltName: Full=Alpha-MPP; AltName: Full=Inactive zinc metalloprotease alpha {ECO:0000305}; AltName: Full=P-55; Flags: Precursor;	23203	-
+39596	Q9Y2Q5	LAMTOR2	RecName: Full=Ragulator complex protein LAMTOR2 {ECO:0000305}; AltName: Full=Endosomal adaptor protein p14; AltName: Full=Late endosomal/lysosomal Mp1-interacting protein; AltName: Full=Late endosomal/lysosomal adaptor and MAPK and MTOR activator 2; AltName: Full=Mitogen-activated protein-binding protein-interacting protein; Short=MAPBP-interacting protein; AltName: Full=Roadblock domain-containing protein 3;	28956	-
+60446	Q71RS6	SLC24A5	RecName: Full=Sodium/potassium/calcium exchanger 5; AltName: Full=Na(+)/K(+)/Ca(2+)-exchange protein 5; AltName: Full=Solute carrier family 24 member 5; Flags: Precursor;	283652	-
+57008	O00203	AP3B1	RecName: Full=AP-3 complex subunit beta-1; AltName: Full=Adaptor protein complex AP-3 subunit beta-1; AltName: Full=Adaptor-related protein complex 3 subunit beta-1; AltName: Full=Beta-3A-adaptin; AltName: Full=Clathrin assembly protein complex 3 beta-1 large chain;	8546	-
+11748	Q86YV9	HPS6	RecName: Full=BLOC-2 complex member HPS6 {ECO:0000305}; AltName: Full=Hermansky-Pudlak syndrome 6 protein; AltName: Full=Ruby-eye protein homolog; Short=Ru;	79803	-
+43422	Q969F9	HPS3	RecName: Full=BLOC-2 complex member HPS3 {ECO:0000305}; AltName: Full=Hermansky-Pudlak syndrome 3 protein;	84343	-
+61010	Q9H2I8	LRMDA	RecName: Full=Leucine-rich melanocyte differentiation-associated protein {ECO:0000305};	83938	-
+55204	Q9UL45	BLOC1S6	RecName: Full=Biogenesis of lysosome-related organelles complex 1 subunit 6; Short=BLOC-1 subunit 6; AltName: Full=Pallid protein homolog; AltName: Full=Pallidin; AltName: Full=Syntaxin 13-interacting protein;	26258	-
+55215	Q6QNY0	BLOC1S3	RecName: Full=Biogenesis of lysosome-related organelles complex 1 subunit 3; Short=BLOC-1 subunit 3;	388552	-
+14088	Q01726	MC1R	RecName: Full=Melanocyte-stimulating hormone receptor; Short=MSH-R; AltName: Full=Melanocortin receptor 1; Short=MC1-R;	4157	-
+13104	P17735	TAT	RecName: Full=Tyrosine aminotransferase; Short=TAT; EC=2.6.1.5; AltName: Full=L-tyrosine:2-oxoglutarate aminotransferase;	6898	-
+8464	P14679	TYR	RecName: Full=Tyrosinase {ECO:0000305}; EC=1.14.18.1 {ECO:0000269|PubMed:28661582}; AltName: Full=LB24-AB; AltName: Full=Monophenol monooxygenase; AltName: Full=SK29-AB; AltName: Full=Tumor rejection antigen AB; Flags: Precursor;	7299	-
+49019	Q96EV8	DTNBP1	RecName: Full=Dysbindin; AltName: Full=Biogenesis of lysosome-related organelles complex 1 subunit 8; Short=BLOC-1 subunit 8; AltName: Full=Dysbindin-1; AltName: Full=Dystrobrevin-binding protein 1; AltName: Full=Hermansky-Pudlak syndrome 7 protein; Short=HPS7 protein;	84062	-
+43424	Q92902	HPS1	RecName: Full=BLOC-3 complex member HPS1 {ECO:0000305}; AltName: Full=Hermansky-Pudlak syndrome 1 protein;	3257	-
+31187	Q04671	OCA2	RecName: Full=P protein; AltName: Full=Melanocyte-specific transporter protein; AltName: Full=Pink-eyed dilution protein homolog;	4948	-
+43417	Q9UPZ3	HPS5	RecName: Full=BLOC-2 complex member HPS5 {ECO:0000305}; AltName: Full=Alpha-integrin-binding protein 63; AltName: Full=Hermansky-Pudlak syndrome 5 protein; AltName: Full=Ruby-eye protein 2 homolog; Short=Ru2;	11234	-
+39483	Q99698	LYST	RecName: Full=Lysosomal-trafficking regulator; AltName: Full=Beige homolog;	1130	-
+43420	Q9NQG7	HPS4	RecName: Full=BLOC-3 complex member HPS4 {ECO:0000305}; AltName: Full=Hermansky-Pudlak syndrome 4 protein; AltName: Full=Light-ear protein homolog;	89781	-
+9297	P17643	TYRP1	RecName: Full=5,6-dihydroxyindole-2-carboxylic acid oxidase; Short=DHICA oxidase; EC=1.14.18.- {ECO:0000269|PubMed:28661582}; AltName: Full=Catalase B; AltName: Full=Glycoprotein 75 {ECO:0000303|PubMed:1693779}; AltName: Full=Melanoma antigen gp75 {ECO:0000303|PubMed:2324688}; AltName: Full=Tyrosinase-related protein 1 {ECO:0000303|PubMed:9434945}; Short=TRP {ECO:0000303|PubMed:2111010}; Short=TRP-1; Short=TRP1; Flags: Precursor;	7306	-

@@ -1,0 +1,103 @@
+[
+{
+ data: { id: "DB01268", size: 100.000000, xref: "DB01268", label: "Sunitinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB06589", size: 100.000000, xref: "DB06589", label: "Pazopanib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB05928", size: 100.000000, xref: "DB05928", label: "Dovitinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB09079", size: 100.000000, xref: "DB09079", label: "Nintedanib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB06626", size: 100.000000, xref: "DB06626", label: "Axitinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB09063", size: 100.000000, xref: "DB09063", label: "Ceritinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB09078", size: 100.000000, xref: "DB09078", label: "Lenvatinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB00945", size: 17.323200, xref: "DB00945", label: "Acetylsalicylic acid", score: 0.173232, rank: "16", type: "drug" } 
+}, {
+ data: { id: "DB06595", size: 100.000000, xref: "DB06595", label: "Midostaurin", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB01254", size: 100.000000, xref: "DB01254", label: "Dasatinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB08901", size: 100.000000, xref: "DB08901", label: "Ponatinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB12010", size: 100.000000, xref: "DB12010", label: "Fostamatinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB00398", size: 100.000000, xref: "DB00398", label: "Sorafenib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB05294", size: 100.000000, xref: "DB05294", label: "Vandetanib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB08865", size: 100.000000, xref: "DB08865", label: "Crizotinib", score: 1.000000, rank: "1-15", type: "drug" } 
+}, {
+ data: { id: "DB12147", size: 100.000000, xref: "DB12147", label: "Erdafitinib", score: 1.000000, rank: "1-15", type: "drug" } 
+},
+{
+ data: { id: "13416", size: 17.323200, xref: "P01106", label: "MYC", score: 0.173232, rank: "4", type: "non-seed" } 
+}, {
+ data: { id: "37750", size: 17.396200, xref: "Q96G30", label: "MRAP2", score: 0.173962, rank: "3", type: "non-seed" } 
+}, {
+ data: { id: "37748", size: 38.589500, xref: "Q8TCY5", label: "MRAP", score: 0.385895, rank: "2", type: "non-seed" } 
+}, {
+ data: { id: "14665", size: 100.000000, xref: "P22607", label: "FGFR3", score: 1.000000, rank: "1", type: "seed" } 
+}, {
+ data: { id: "12749", size: 7.299000, xref: "Q01718", label: "MC2R", score: 0.072990, rank: "51", type: "linker" } 
+},
+{
+ data: { id: "13416-DB00945", source: "13416", target: "DB00945" } 
+},
+{
+ data: { id: "14665-DB05928", source: "14665", target: "DB05928" } 
+},
+{
+ data: { id: "14665-DB05294", source: "14665", target: "DB05294" } 
+},
+{
+ data: { id: "14665-DB12147", source: "14665", target: "DB12147" } 
+},
+{
+ data: { id: "14665-DB09079", source: "14665", target: "DB09079" } 
+},
+{
+ data: { id: "14665-DB09078", source: "14665", target: "DB09078" } 
+},
+{
+ data: { id: "14665-DB06626", source: "14665", target: "DB06626" } 
+},
+{
+ data: { id: "14665-DB01268", source: "14665", target: "DB01268" } 
+},
+{
+ data: { id: "14665-DB09063", source: "14665", target: "DB09063" } 
+},
+{
+ data: { id: "14665-DB06589", source: "14665", target: "DB06589" } 
+},
+{
+ data: { id: "14665-DB08901", source: "14665", target: "DB08901" } 
+},
+{
+ data: { id: "14665-DB00398", source: "14665", target: "DB00398" } 
+},
+{
+ data: { id: "14665-DB06595", source: "14665", target: "DB06595" } 
+},
+{
+ data: { id: "14665-DB12010", source: "14665", target: "DB12010" } 
+},
+{
+ data: { id: "14665-DB08865", source: "14665", target: "DB08865" } 
+},
+{
+ data: { id: "14665-DB01254", source: "14665", target: "DB01254" } 
+},
+{
+ data: { id: "37748-14665", source: "37748", target: "14665" } 
+}, {
+ data: { id: "14665-13416", source: "14665", target: "13416" } 
+}, {
+ data: { id: "12749-37750", source: "12749", target: "37750" } 
+}, {
+ data: { id: "12749-37748", source: "12749", target: "37748" } 
+}
+]

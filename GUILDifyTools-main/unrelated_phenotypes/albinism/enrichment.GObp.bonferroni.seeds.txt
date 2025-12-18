@@ -1,0 +1,9 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0048490	anterograde synaptic vesicle transport	4	15	1.11358533994e-08	5.90200230169e-07
+GO:0008089	anterograde axonal transport	4	20	3.92963069596e-08	2.08270426886e-06
+GO:1903232	melanosome assembly	2	5	3.21211350839e-05	0.00170242015945
+GO:0043473	pigmentation	2	7	6.73060557711e-05	0.00356722095587
+GO:0032438	melanosome organization	2	8	8.9642695218e-05	0.00475106284655
+GO:0035646	endosome to melanosome transport	2	9	0.000115128125689	0.00610179066151
+GO:0032402	melanosome transport	2	10	0.000143751881537	0.00761884972144
+GO:0031175	neuron projection development	3	70	0.000269289481015	0.0142723424938

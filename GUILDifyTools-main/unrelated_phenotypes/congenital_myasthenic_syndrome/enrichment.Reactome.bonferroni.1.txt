@@ -1,0 +1,32 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+R-HSA-9010553	Regulation of expression of SLITs and ROBOs	14	132	1.26838853693e-07	7.47080848253e-05
+R-HSA-379716	Cytosolic tRNA aminoacylation	6	24	3.65381027064e-06	0.00215209424941
+R-HSA-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	7	37	4.10955252738e-06	0.00242052643863
+R-HSA-9856872	Malate-aspartate shuttle	4	9	1.30152961762e-05	0.0076660094478
+R-HSA-3371511	HSF1 activation	4	10	2.13806121904e-05	0.0125931805802
+R-HSA-211733	Regulation of activated PAK-2p34 by proteasome mediated degradation	6	32	2.17676102233e-05	0.0128211224215
+R-HSA-69481	G2/M Checkpoints	6	32	2.17676102233e-05	0.0128211224215
+R-HSA-5658442	Regulation of RAS by GAPs	7	48	2.47804059947e-05	0.0145956591309
+R-HSA-349425	Autodegradation of the E3 ubiquitin ligase COP1	6	33	2.62016287442e-05	0.0154327593303
+R-HSA-195253	Degradation of beta-catenin by the destruction complex	7	49	2.84660700606e-05	0.0167665152657
+R-HSA-180534	Vpu mediated degradation of CD4	6	34	3.13341767274e-05	0.0184558300924
+R-HSA-69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	6	34	3.13341767274e-05	0.0184558300924
+R-HSA-75815	Ubiquitin-dependent degradation of Cyclin D	6	34	3.13341767274e-05	0.0184558300924
+R-HSA-2408522	Selenoamino acid metabolism	4	11	3.31158186514e-05	0.0195052171857
+R-HSA-1236974	ER-Phagosome pathway	8	69	3.61412464862e-05	0.0212871941804
+R-HSA-1236978	Cross-presentation of soluble exogenous antigens (endosomes)	6	35	3.72442480316e-05	0.0219368620906
+R-HSA-180585	Vif-mediated degradation of APOBEC3G	6	35	3.72442480316e-05	0.0219368620906
+R-HSA-3000178	ECM proteoglycans	8	70	4.01714000794e-05	0.0236609546468
+R-HSA-9762114	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	6	36	4.4016256146e-05	0.02592557487
+R-HSA-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	6	36	4.4016256146e-05	0.02592557487
+R-HSA-8939902	Regulation of RUNX2 expression and activity	7	53	4.80128836439e-05	0.0282795884662
+R-HSA-350562	Regulation of ornithine decarboxylase (ODC)	6	37	5.17401342645e-05	0.0304749390818
+R-HSA-5362768	Hh mutants are degraded by ERAD	6	37	5.17401342645e-05	0.0304749390818
+R-HSA-9604323	Negative regulation of NOTCH4 signaling	6	37	5.17401342645e-05	0.0304749390818
+R-HSA-4641257	Degradation of AXIN	6	37	5.17401342645e-05	0.0304749390818
+R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	6	37	5.17401342645e-05	0.0304749390818
+R-HSA-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	7	54	5.43166023875e-05	0.0319924788062
+R-HSA-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	8	74	6.02454922458e-05	0.0354845949328
+R-HSA-4641258	Degradation of DVL	6	38	6.05114242461e-05	0.0356412288809
+R-HSA-8941858	Regulation of RUNX3 expression and activity	6	40	8.16069058994e-05	0.0480664675747
+R-HSA-5358346	Hedgehog ligand biogenesis	6	40	8.16069058994e-05	0.0480664675747

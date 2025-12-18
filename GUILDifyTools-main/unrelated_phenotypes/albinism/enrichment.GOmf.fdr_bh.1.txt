@@ -1,0 +1,3 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:0019003	GDP binding	6	49	0.000327759218289	0.0363103323531
+GO:0004503	tyrosinase activity	2	2	0.000368632815767	0.0363103323531

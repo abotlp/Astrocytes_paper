@@ -1,0 +1,8 @@
+# Term ID	Term name	num of genes	num of total genes	P-value	P-value corrected
+GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	3	5	4.57814570375e-08	1.00719205483e-06
+GO:0022848	acetylcholine-gated monoatomic cation-selective channel activity	3	7	1.59892269485e-07	3.51762992867e-06
+GO:0042166	acetylcholine binding	2	5	2.95889199252e-05	0.000650956238354
+GO:0015464	acetylcholine receptor activity	2	8	8.25931480645e-05	0.00181704925742
+GO:0004378	GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity	1	1	0.0017831669044	0.0392296718968
+GO:0102704	GDP-Man:Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase activity	1	1	0.0017831669044	0.0392296718968
+GO:0000033	alpha-1,3-mannosyltransferase activity	1	1	0.0017831669044	0.0392296718968
