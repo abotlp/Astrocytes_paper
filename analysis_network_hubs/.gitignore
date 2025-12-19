@@ -5,8 +5,6 @@
 !.gitignore
 !astrocytes/
 !astrocytes/**
-!compare_Limbad/
-!compare_Limbad/**
 !clinvar_top5.txt
 !overlap2sessions_functions.py
 !README.md
